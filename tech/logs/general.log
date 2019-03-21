@@ -1,0 +1,812 @@
+2018-12-06 12:35:35->Evento: Test1
+2018-12-06 12:35:35->Evento: Test2
+2018-12-06 12:35:35->Evento: Test3
+2018-12-06 12:35:35->Evento: Test4
+2018-12-06 12:35:35->Evento: Test5
+2018-12-06 12:45:08->PINUFFICI: Assegnato gruppo 6-|-25-|-8 a 2113|MASSIMILIANO SANTOLO
+2018-12-06 12:47:13->PINUFFICI: Assegnati uffici Array a 2113 | MASSIMILIANO SANTOLO
+2018-12-06 12:49:37->PINUFFICI: Assegnati uffici 13,14,15,19 a 2113 | MASSIMILIANO SANTOLO
+2018-12-06 12:51:10->PINUFFICI: Assegnati uffici  a 2113 | MASSIMILIANO SANTOLO
+2018-12-06 12:57:19->PINUFFICI: Assegnati uffici REG11,REG12,REG13, a 2113 | MASSIMILIANO SANTOLO
+2018-12-06 13:00:46->PINUFFICI: Disattivati tutti gli uffici a 2113 | MASSIMILIANO SANTOLO
+2018-12-06 13:01:06->PINUFFICI: Assegnati Uffici REG07,REG08,REG12,REG13, a 2113 | MASSIMILIANO SANTOLO
+2018-12-06 13:13:06->PINUFFICI: Disattivati tutti gli uffici a Francesca Ferretti | Anima Select - MASSIMILIANO SANTOLO
+2018-12-06 14:44:08->ACCESSO - NOTA: Aggiornata una nota (id: ) per ingresso del 2018-12-06 - MASSIMILIANO SANTOLO
+2018-12-06 14:45:03->ACCESSO - NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2018-12-06 - MASSIMILIANO SANTOLO
+2018-12-06 14:59:25->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 2018-12-28, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com )
+2018-12-06 15:00:09->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 0000-00-00, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com )
+2018-12-06 15:01:36->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 0000-00-00, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com )
+2018-12-06 15:04:35->PINUFFICI: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG10, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24,  a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO
+2018-12-06 15:24:52->GRUPPO-PIN-CREATO: Gruppo PLUTO creato (Uffici: Assegnati uffici REG02, REG02B, REG06, REG07, )
+2018-12-06 15:28:02->GRUPPO-PIN-CREATO: Gruppo PAPEROGA creato (Uffici: Assegnati uffici REG11, REG23, REG24, ) - MASSIMILIANO SANTOLO
+2018-12-06 15:29:39->GRUPPO-PIN-CREATO: Gruppo GASTONE creato (Uffici: Assegnati uffici REG10, REG11, REG12, ) - MASSIMILIANO SANTOLO
+2018-12-06 15:29:48->GRUPPO-PIN-MODIFICATO: Gruppo GASTONE aggiornato (Uffici: Assegnati uffici REG03, REG10, REG11, REG12, REG19, ) - MASSIMILIANO SANTOLO
+2018-12-06 15:31:43->GRUPPO-PIN-CREATO: Gruppo ARCHIMEDE creato (Uffici: Assegnati uffici REG03, REG06, REG11, ) - MASSIMILIANO SANTOLO
+2018-12-06 15:48:10->DAY/SALE-PIN: Accesso temporaneo per 11, cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 19-12-2018, dalle: 07:00 alle 09:30 programmato. - MASSIMILIANO SANTOLO
+2018-12-06 15:50:14->DAY/SALE-PIN: Accesso temporaneo programmato per uffAssegnati uffici REG11, , cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-07, dalle: 07:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-06 15:50:14->DAY/SALE-PIN: Accesso temporaneo programmato per uffAssegnati uffici REG11, , cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-08, dalle: 07:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-06 15:50:14->DAY/SALE-PIN: Accesso temporaneo programmato per uffAssegnati uffici REG11, , cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-09, dalle: 07:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-06 15:50:14->DAY/SALE-PIN: Accesso temporaneo programmato per uffAssegnati uffici REG11, , cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-10, dalle: 07:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-06 15:50:14->DAY/SALE-PIN: Accesso temporaneo programmato per uffAssegnati uffici REG11, , cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-11, dalle: 07:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-06 15:53:31->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:53:36->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:14->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:17->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:19->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:21->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:23->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:25->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:27->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:32->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:34->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:37->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:39->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:54:45->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - 
+2018-12-06 15:57:05->Evento: Test1 - MASSIMILIANO SANTOLO
+2018-12-06 15:57:05->Evento: Test2 - MASSIMILIANO SANTOLO
+2018-12-06 15:57:05->Evento: Test3 - MASSIMILIANO SANTOLO
+2018-12-06 15:57:05->Evento: Test4 - MASSIMILIANO SANTOLO
+2018-12-06 15:57:05->Evento: Test5 - MASSIMILIANO SANTOLO
+2018-12-07 09:04:03->CONTATTO-AGGIORNATO: Il contatto #:2114: Catia De Vincenzi | Real Money srls | De Vincenzi aggiornato (PIN: 99811628, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-07 09:04:45->CONTATTO-AGGIORNATO: Il contatto #:2114: Catia De Vincenzi | Real Money srls | De Vincenzi aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-07 09:41:53->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2018-12-07 - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 09:48:10->GRUPPO-PIN-CREATO: Gruppo ARCHIMEDE creato (Uffici: Assegnati uffici REG10, REG11, REG12, ) - MASSIMILIANO SANTOLO
+2018-12-07 09:52:18->GRUPPO-ELIMINATO: Gruppo eliminato - 
+2018-12-07 09:54:40->GRUPPO-PIN-CREATO: Gruppo PAPEROGA creato (Uffici: Assegnati uffici REG12, REG13, REG14, ) - MASSIMILIANO SANTOLO
+2018-12-07 09:55:33->GRUPPO-ELIMINATO: Gruppo eliminato - MASSIMILIANO SANTOLO
+2018-12-07 10:01:40->GRUPPO-PIN-CREATO: Gruppo QUIQUOQUA creato (, ) - MASSIMILIANO SANTOLO
+2018-12-07 10:02:58->GRUPPO-ELIMINATO: Gruppo eliminato - MASSIMILIANO SANTOLO
+2018-12-07 10:03:26->GRUPPO-PIN-CREATO: Gruppo ARCHIMEDE creato (Assegnati uffici REG08, REG09, REG14, REG15, REG22, REG23) - MASSIMILIANO SANTOLO
+2018-12-07 10:04:00->GRUPPO-ELIMINATO: Gruppo eliminato - MASSIMILIANO SANTOLO
+2018-12-07 10:05:53->GRUPPO-PIN-CREATO: Gruppo PAPEROGA creato (Assegnati uffici REG10, REG11, REG20, REG21) - MASSIMILIANO SANTOLO
+2018-12-07 10:06:37->GRUPPO-PIN-ELIMINATO: Gruppo PAPEROGA eliminato - MASSIMILIANO SANTOLO
+2018-12-07 10:09:25->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Giovanni D'Apote | SmartWorkingHub D'Apote, data: 14-01-2019, dalle: 07:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-07 10:10:08->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-07 10:10:47->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-07 11:14:08->CONTATTO-PIN: Disattivati tutti gli uffi a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:17:30->CONTATTO-PIN: Assegnati uffici REG06, REG07, REG08 a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:17:41->CONTATTO-PIN: Disattivati tutti gli uffi a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:18:17->CONTATTO-PIN: Assegnati uffici REG05, REG06, REG07 a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:23:18->GRUPPO-PIN-CREATO: Gruppo HOTELBEDS creato (Assegnati uffici REG02, REG09, REG13) - MASSIMILIANO SANTOLO
+2018-12-07 11:24:22->CONTATTO-PIN-GRUPPO: Assegnati uffici REG02, REG13, REG09 a Massimiliano Santolo | SmartWorkingHub Santolo | MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:24:38->CONTATTO-PIN: Disattivati tutti gli uffi a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:24:43->CONTATTO-PIN-GRUPPO: Assegnati uffici REG02, REG13, REG09 a Massimiliano Santolo | SmartWorkingHub Santolo | MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2018-12-07 11:32:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-07, dalle: 09:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-07 11:32:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-09, dalle: 09:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-07 11:32:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-11, dalle: 09:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-07 11:32:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 2019-01-14, dalle: 09:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-07 17:21:41->CONTATTO-AGGIORNATO: Il contatto #:1390: Accesso Cliente Day REG 4 |  aggiornato (PIN: 99318589, SCADENZA: 2018-12-07, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-10 08:19:35->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2018-12-10 - MASSIMILIANO SANTOLO
+2018-12-10 11:52:03->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:18->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:25->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:31->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:37->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:42->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:48->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 11:52:54->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-10 17:54:05->GRUPPO-PIN-ELIMINATO: Gruppo HOTELBEDS eliminato - MASSIMILIANO SANTOLO
+2018-12-10 17:57:52->GRUPPO-PIN-CREATO: Gruppo ARCHIMEDE creato (Assegnati uffici REG02, REG02B, REG03) - MASSIMILIANO SANTOLO
+2018-12-10 17:58:01->GRUPPO-PIN-ELIMINATO: Gruppo ARCHIMEDE eliminato - MASSIMILIANO SANTOLO
+2018-12-10 17:58:18->GRUPPO-PIN-CREATO: Gruppo archimede creato (Assegnati uffici REG03, REG06) - MASSIMILIANO SANTOLO
+2018-12-10 17:58:24->GRUPPO-PIN-ELIMINATO: Gruppo archimede eliminato - MASSIMILIANO SANTOLO
+2018-12-10 18:03:01->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 14-01-2019, dalle: 09:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-10 18:03:08->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - MASSIMILIANO SANTOLO
+2018-12-11 10:18:56->CONTATTO-AGGIORNATO: Il contatto #:2120: Simone Frediani | NTT DATA ITALIA spa | Frediani aggiornato (PIN: 99190519, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-12 08:46:22->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 11-12-2018, dalle: 09:00 alle 11:00 - MASSIMILIANO SANTOLO
+2018-12-12 08:58:34->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Massimiliano Santolo | SmartWorkingHub Santolo, data: 12-12-2018, dalle: 09:30 alle 11:30 - MASSIMILIANO SANTOLO
+2018-12-12 09:03:28->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it - MASSIMILIANO SANTOLO
+2018-12-12 09:08:51->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it - MASSIMILIANO SANTOLO
+2018-12-12 09:12:09->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it - MASSIMILIANO SANTOLO
+2018-12-12 09:19:54->CONTATTO-AGGIORNATO: Il contatto #:2123: Cinzia Russo |  | Russo aggiornato (PIN: 99104906, SCADENZA: 0000-00-00, TEL1: 3382750819, TEL2: , TEL2: 3382750819, ALT EMAIL:  ) - Maura Villeato
+2018-12-12 09:21:26->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Cinzia Russo |  | Russo, data: 12-12-2018, dalle: 11:00 alle 12:00 - Maura Villeato
+2018-12-12 09:42:20->CONTATTO-AGGIORNATO: Il contatto #:2124: Federico Piazza | EOLO Spa | Piazza aggiornato (PIN: 99368849, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2018-12-12 10:08:15->CONTATTO-AGGIORNATO: Il contatto #:2127: Vania Zanotti |  | Zanotti aggiornato (PIN: 99868011, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2018-12-12 10:33:50->CONTATTO-AGGIORNATO: Il contatto #:2126: Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici aggiornato (PIN: 99414145, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-12 10:34:04->CONTATTO-PIN: Assegnati uffici REG13 a Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici - Maura Villeato - Maura Villeato
+2018-12-12 10:53:28->CONTATTO-AGGIORNATO: Il contatto #:2128: Giovanni Luca Lotti | Hotelbeds Group Italy S.r.l. | Lotti aggiornato (PIN: 99301415, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-12 10:53:39->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Giovanni Luca Lotti | Hotelbeds Group Italy S.r.l. | Lotti - Maura Villeato - Maura Villeato
+2018-12-12 13:12:32->Evento: eseguito - 
+2018-12-12 13:17:37->Evento: eseguito - 
+2018-12-12 13:37:15->CONTATTO-AGGIORNATO: Il contatto #:2130: Alessandro Verrazzani | EOLO Spa | Verrazzani aggiornato (PIN: 99448805, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-12 14:22:17->Evento: eseguito - 
+2018-12-12 14:25:03->Evento: eseguito - 
+2018-12-12 14:34:06->Evento: eseguito - 
+2018-12-12 14:36:04->Evento: eseguito - 
+2018-12-12 14:37:50->Evento: eseguito - 
+2018-12-12 14:38:19->Evento: eseguito - 
+2018-12-12 14:40:43->Evento: eseguito - 
+2018-12-12 14:41:07->Evento: eseguito - 
+2018-12-12 14:41:33->Evento: eseguito - 
+2018-12-12 14:43:02->Evento: eseguito - 
+2018-12-12 14:52:22->Evento: eseguito - 
+2018-12-12 15:02:20->Evento: eseguito - 
+2018-12-12 15:02:27->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: 99070713, SCADENZA: 0000-00-00, TEL1: 3484045295, TEL2: , TEL2: 3484045295, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-12 15:12:20->Evento: eseguito - 
+2018-12-12 15:22:20->Evento: eseguito - 
+2018-12-12 15:27:12->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3484045295, TEL2: , TEL2: 3484045295, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-12 15:27:31->CONTATTO-AGGIORNATO: Il contatto #:2132: Marianna Fantauzzi | ALTAVIA ITALIA SRL | Fantauzzi aggiornato (PIN: 99060376, SCADENZA: 0000-00-00, TEL1: 3426785661, TEL2: , TEL2: 3426785661, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-12 15:28:56->CONTATTO-AGGIORNATO: Il contatto #:2133: Marco Abis | ALTAVIA ITALIA SRL | Abis aggiornato (PIN: 99070713, SCADENZA: 0000-00-00, TEL1: 3339231344, TEL2: , TEL2: 3339231344, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-12 15:32:21->Evento: eseguito - 
+2018-12-12 15:42:20->Evento: eseguito - 
+2018-12-12 15:52:20->Evento: eseguito - 
+2018-12-12 16:02:20->Evento: eseguito - 
+2018-12-12 16:12:20->Evento: eseguito - 
+2018-12-12 16:22:20->Evento: eseguito - 
+2018-12-12 16:32:20->Evento: eseguito - 
+2018-12-12 16:42:20->Evento: eseguito - 
+2018-12-12 17:04:16->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2018-12-12 - MASSIMILIANO SANTOLO
+2018-12-12 17:17:49->CONTATTO-ELIMINATO: Eliminato il contatto #2136: P P | P dal FOP/ACS - 
+2018-12-12 17:18:31->CONTATTO-ELIMINATO: Eliminato il contatto #2136:   |  da ACS - 
+2018-12-13 11:03:21->CONTATTO-AGGIORNATO: Il contatto #:2143: Mike Lemme |  | Lemme aggiornato (PIN: 99548207, SCADENZA: 2018-12-17, TEL1: 0014133481027, TEL2: , TEL2: 0014133481027, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-13 12:30:42->CONTATTO-AGGIORNATO: Il contatto #:2146: Test Bean |  | Bean aggiornato (PIN: 99719907, SCADENZA: 0000-00-00, TEL1: 3931958785, TEL2: 0632803402, TEL2: 3931958785, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-13 17:46:18->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Oronzo Cosimo | Hotelbeds Group Italy S.r.l. | Cosimo - Maura Villeato - Maura Villeato
+2018-12-13 17:46:54->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Tatiana Muzychenko | Hotelbeds Group Italy S.r.l. | Muzychenko - Maura Villeato - Maura Villeato
+2018-12-14 09:13:46->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: 99260214, SCADENZA: 0000-00-00, TEL1: 3484045295, TEL2: , TEL2: 3484045295, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-14 09:16:02->CONTATTO-AGGIORNATO: Il contatto #:2152: Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini aggiornato (PIN: 99964368, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-14 09:16:21->CONTATTO-PIN: Assegnati uffici REG09 a Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini - Maura Villeato - Maura Villeato
+2018-12-14 09:27:17->CONTATTO-AGGIORNATO: Il contatto #:2153: Massimo Narducci | Aruba Pec SpA | Narducci aggiornato (PIN: 99316397, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-14 09:27:53->CONTATTO-AGGIORNATO: Il contatto #:2153: Massimo Narducci | Aruba Pec SpA | Narducci aggiornato (PIN: 99316397, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-14 10:07:58->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it - 
+2018-12-14 11:05:14->CONTATTO-AGGIORNATO: Il contatto #:2155: Alessandro German&ograve; | Landis+Gyr Spa | German&ograve; aggiornato (PIN: 99090476, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-14 11:15:45->CONTATTO-AGGIORNATO: Il contatto #:2155: Alessandro German&ograve; | Landis+Gyr Spa | German&ograve; aggiornato (PIN: 99090476, SCADENZA: 0000-00-00, TEL1: 0632803402, TEL2: , TEL2: 0632803402, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-14 12:45:35->CONTATTO-ELIMINATO: Eliminato il contatto #1713:   | Arata & C. Srl da ACS - 
+2018-12-14 14:44:01->CONTATTO-AGGIORNATO: Il contatto #:2156: Stefano Lucchesi | Zebra Technologies Italy S.r.l. | Lucchesi aggiornato (PIN: 99880516, SCADENZA: 0000-00-00, TEL1: 3666796096, TEL2: , TEL2: 3666796096, ALT EMAIL:  ) - Pina Aloisi
+2018-12-14 14:44:06->CONTATTO-AGGIORNATO: Il contatto #:2156: Stefano Lucchesi | Zebra Technologies Italy S.r.l. | Lucchesi aggiornato (PIN: 99880516, SCADENZA: 0000-00-00, TEL1: 3666796096, TEL2: , TEL2: 3666796096, ALT EMAIL:  ) - Pina Aloisi
+2018-12-14 15:33:42->CONTATTO-AGGIORNATO: Il contatto #:2157: Flavio Fioretti |  | Fioretti aggiornato (PIN: 99180624, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2018-12-14 15:54:26->CONTATTO-AGGIORNATO: Il contatto #:2158: Mike Lemme |  | Lemme aggiornato (PIN: 99182786, SCADENZA: 0000-00-00, TEL1: 0014133481027, TEL2: , TEL2: 0014133481027, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-14 15:54:46->CONTATTO-AGGIORNATO: Il contatto #:2158: Mike Lemme |  | Lemme aggiornato (PIN: 99548207, SCADENZA: 0000-00-00, TEL1: 0014133481027, TEL2: , TEL2: 0014133481027, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2018-12-14 15:59:05->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2018-12-13 - MASSIMILIANO SANTOLO
+2018-12-14 17:01:44->CONTATTO-AGGIORNATO: Il contatto #:2106: Nello Acampora | Hi Performance Srl | Acampora aggiornato (PIN: 99644461, SCADENZA: 0000-00-00, TEL1: 3939113166, TEL2: , TEL2: 3939113166, ALT EMAIL:  ) - Francesca Donati
+2018-12-14 18:23:52->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: segreteria@accademiadeglieventi.org ) - Francesca Donati
+2018-12-14 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com - 
+2018-12-17 09:01:04->CONTATTO-AGGIORNATO: Il contatto #:2160:  Paoli |  | Paoli aggiornato (PIN: 99277605, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2018-12-17 09:18:39->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99923249, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: segreteria@accademiadeglieventi.org ) - Francesca Donati
+2018-12-17 09:20:44->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: segreteria@accademiadeglieventi.org ) - Francesca Donati
+2018-12-17 09:21:28->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: segreteria@accademiadeglieventi.org ) - Francesca Donati
+2018-12-17 09:24:35->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: t.lucioli@accademiadeglieventi.org ) - Francesca Donati
+2018-12-17 09:26:11->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: t.lucioli@accademiadeglieventi.org ) - Francesca Donati
+2018-12-17 09:29:13->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: 3471710268, TEL2: 3472609689, TEL2: 3471710268, ALT EMAIL: t.lucioli@accademiadeglieventi.org ) - Francesca Donati
+2018-12-17 11:23:48->CONTATTO-ELIMINATO: Eliminato il contatto #1251: Alessandro Lepore | Lenovo da ACS - 
+2018-12-17 11:24:10->CONTATTO-ELIMINATO: Eliminato il contatto #1705: Daniele De Grandis | Lenovo da ACS - 
+2018-12-17 11:24:19->CONTATTO-ELIMINATO: Eliminato il contatto #922: Alfredo Manzo | LENOVO  da ACS - 
+2018-12-17 11:24:28->CONTATTO-ELIMINATO: Eliminato il contatto #878: Marco Pennetti | Lenovo da ACS - 
+2018-12-17 11:24:37->CONTATTO-ELIMINATO: Eliminato il contatto #838: Piero Fardellini | Lenovo da ACS - 
+2018-12-17 11:24:45->CONTATTO-ELIMINATO: Eliminato il contatto #798: Marco Briscolini | LENOVO  da ACS - 
+2018-12-17 11:24:57->CONTATTO-ELIMINATO: Eliminato il contatto #786: MAURIZIO GALLETTI | LENOVO da ACS - 
+2018-12-17 11:25:07->CONTATTO-ELIMINATO: Eliminato il contatto #731: Filippo Gioia | LENOVO  da ACS - 
+2018-12-17 11:25:15->CONTATTO-ELIMINATO: Eliminato il contatto #700: MASSIMILIANO PACIOTTI  | LENOVO da ACS - 
+2018-12-17 11:25:23->CONTATTO-ELIMINATO: Eliminato il contatto #693: GIORGIO  FRATTONI | LENOVO da ACS - 
+2018-12-17 11:25:31->CONTATTO-ELIMINATO: Eliminato il contatto #675: MAURO  TAMMETTA | LENOVO da ACS - 
+2018-12-17 11:25:39->CONTATTO-ELIMINATO: Eliminato il contatto #385: Andrea Calibani | Lenovo da ACS - 
+2018-12-17 11:25:47->CONTATTO-ELIMINATO: Eliminato il contatto #383: Carmine Portanova | LENOVO da ACS - 
+2018-12-17 11:25:54->CONTATTO-ELIMINATO: Eliminato il contatto #382: Pierorlando Sicilia | LENOVO (ITALY) SRL da ACS - 
+2018-12-17 13:30:58->CONTATTO-AGGIORNATO: Il contatto #:2167: Andrea Gattone | NATIONAL INSTRUMENTS ITALY Srl | Gattone aggiornato (PIN: 99155212, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-17 13:31:30->CONTATTO-AGGIORNATO: Il contatto #:2167: Andrea Gattone | NATIONAL INSTRUMENTS ITALY Srl | Gattone aggiornato (PIN: 99155212, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-17 15:51:12->CONTATTO-AGGIORNATO: Il contatto #:2168: Rita Orsini | Hotelbeds Group Italy S.r.l. | Orsini aggiornato (PIN: 99893238, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-17 15:51:25->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Rita Orsini | Hotelbeds Group Italy S.r.l. | Orsini - Maura Villeato - Maura Villeato
+2018-12-17 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com - 
+2018-12-18 08:48:27->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Cinzia Russo |  | Russo, data: 20-12-2018, dalle: 12:00 alle 13:00 - Maura Villeato
+2018-12-18 08:52:37->CONTATTO-AGGIORNATO: Il contatto #:2170: Alessandra Messina |  | Messina aggiornato (PIN: 99109847, SCADENZA: 0000-00-00, TEL1: 3495280151, TEL2: 0660663829, TEL2: 3495280151, ALT EMAIL:  ) - Maura Villeato
+2018-12-18 08:53:03->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Alessandra Messina |  | Messina, data: 28-12-2018, dalle: 15:30 alle 16:30 - Maura Villeato
+2018-12-18 09:38:33->CONTATTO-AGGIORNATO: Il contatto #:2165: Jean Michel Arcega | Benji &amp;amp; Co. Srl | Arcega aggiornato (PIN: 99784233, SCADENZA: 0000-00-00, TEL1: 3287765159, TEL2: , TEL2: 3287765159, ALT EMAIL:  ) - Maura Villeato
+2018-12-18 09:39:04->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Jean Michel Arcega | Benji &amp;amp; Co. Srl | Arcega, data: 19-12-2018, dalle: 09:00 alle 13:00 - Maura Villeato
+2018-12-18 11:45:22->CONTATTO-AGGIORNATO: Il contatto #:2171: Silvia Mattei | Melandri (Italcredi) | Mattei aggiornato (PIN: 99198193, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-18 11:45:56->CONTATTO-AGGIORNATO: Il contatto #:2171: Silvia Mattei | Melandri (Italcredi) | Mattei aggiornato (PIN: 99198193, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-18 13:21:37->CONTATTO-AGGIORNATO: Il contatto #:2173: Frederic Di Napoli | Hotelbeds Group Italy S.r.l. | Di Napoli aggiornato (PIN: 99716078, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2018-12-18 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com - 
+2018-12-19 10:58:23->CONTATTO-AGGIORNATO: Il contatto #:2176: Luigi Marra | Zebra Technologies Italy S.r.l. | Marra aggiornato (PIN: 99939644, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2018-12-19 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2018-12-20 09:30:50->CONTATTO-PIN: Assegnati uffici REG09, REG13 a Cecilia Olivieri | Hotelbeds Group Italy S.r.l. | Olivieri - Maura Villeato - Maura Villeato
+2018-12-21 09:10:53->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Maria Alessandra Iazzi |  | Iazzi, data: 21-12-2018, dalle: 11:00 alle 15:00 - Maura Villeato
+2018-12-21 11:15:49->CONTATTO-AGGIORNATO: Il contatto #:2181: Andrea Gennari | Aruba Pec SpA | Gennari aggiornato (PIN: 99161217, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-21 11:15:53->CONTATTO-AGGIORNATO: Il contatto #:2181: Andrea Gennari | Aruba Pec SpA | Gennari aggiornato (PIN: 99161217, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2018-12-21 12:12:18->CONTATTO-AGGIORNATO: Il contatto #:2182: Antonino De Marco | Re Italy srl | De Marco aggiornato (PIN: 99130034, SCADENZA: 0000-00-00, TEL1: 3316085939, TEL2: , TEL2: 3316085939, ALT EMAIL:  ) - Maura Villeato
+2018-12-21 12:28:49->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Antonino De Marco | Re Italy srl | De Marco, data: 24-12-2018, dalle: 09:00 alle 12:00 - Maura Villeato
+2018-12-21 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2018-12-27 10:52:09->CONTATTO-AGGIORNATO: Il contatto #:1876: Nicoletta Jacovitti | Clasa Immobiliare spa | Jacovitti aggiornato (PIN: 99185177, SCADENZA: 0000-00-00, TEL1: *5027*7703391748622, TEL2: 0657250568, TEL2: *5027*7703391748622, ALT EMAIL:  ) - Francesca Donati
+2018-12-27 11:01:06->CONTATTO-AGGIORNATO: Il contatto #:2184: Silvia Jacovitti | Jacovitti Nicoletta | Jacovitti aggiornato (PIN: 99413221, SCADENZA: 0000-00-00, TEL1: *5027*770, TEL2: , TEL2: *5027*770, ALT EMAIL:  ) - Francesca Donati
+2018-12-27 11:02:16->CONTATTO-AGGIORNATO: Il contatto #:2185: Carla Tartavini |  | Tartavini aggiornato (PIN: 99307945, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2018-12-27 11:03:20->CONTATTO-AGGIORNATO: Il contatto #:2186: Carlo Emanuele Vailati |  | Vailati aggiornato (PIN: 99619188, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2018-12-27 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2018-12-28 12:27:27->CONTATTO-AGGIORNATO: Il contatto #:1483:   | Alfa Contract aggiornato (PIN: 55345508, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2018-12-28 12:28:20->CONTATTO-AGGIORNATO: Il contatto #:1032: VALENTINA TEDESCO | PICK CENTER TEDESCO aggiornato (PIN: 95110277, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2018-12-28 16:45:31->CONTATTO-AGGIORNATO: Il contatto #:1952: Esteban Esteban | Pick Center Esteban MNTN aggiornato (PIN: 99482598, SCADENZA: 2019-01-01, TEL1: 3383302094, TEL2: , TEL2: 3383302094, ALT EMAIL:  ) - Francesca Donati
+2018-12-28 16:45:52->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 95253396, SCADENZA: 2019-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2018-12-28 16:46:14->CONTATTO-AGGIORNATO: Il contatto #:1843: Natascia Natalini | PICK CENTER NATALINI MNTN aggiornato (PIN: 95208010, SCADENZA: 2019-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2018-12-28 16:48:13->CONTATTO-AGGIORNATO: Il contatto #:1587: Leonardo Rosati | Pick Center MNTN aggiornato (PIN: 95040396, SCADENZA: 2019-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2018-12-28 16:48:23->CONTATTO-AGGIORNATO: Il contatto #:1587: Leonardo Rosati | Pick Center MNTN aggiornato (PIN: 95040396, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2018-12-29 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-02 12:17:13->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 55253396, SCADENZA: 2019-01-02, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-02 12:17:21->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 55253396, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-02 12:18:15->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 95253396, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-02 12:21:08->CONTATTO-AGGIORNATO: Il contatto #:1843: Natascia Natalini | PICK CENTER NATALINI MNTN aggiornato (PIN: 95208010, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-02 13:42:21->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 95253396, SCADENZA: 2019-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-02 13:43:02->CONTATTO-AGGIORNATO: Il contatto #:1843: Natascia Natalini | PICK CENTER NATALINI MNTN aggiornato (PIN: 95208010, SCADENZA: 2019-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-02 16:00:02->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a Romelio Manuel | Pick Center Roma srl Unipersonale | Manuel - Maura Villeato - Maura Villeato
+2019-01-02 16:00:06->CONTATTO-AGGIORNATO: Il contatto #:2009: Romelio Manuel | Pick Center Roma srl Unipersonale | Manuel aggiornato (PIN: 95854092, SCADENZA: 0000-00-00, TEL1: 3206693057, TEL2: , TEL2: 3206693057, ALT EMAIL:  ) - Maura Villeato
+2019-01-02 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-03 08:41:23->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-01-02 - MASSIMILIANO SANTOLO
+2019-01-03 08:42:05->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-01-03 - MASSIMILIANO SANTOLO
+2019-01-03 11:54:44->CONTATTO-AGGIORNATO: Il contatto #:2188: Cristina Filipponi |  | Filipponi aggiornato (PIN: 99805429, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-03 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-04 08:05:24->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-01-04 - MASSIMILIANO SANTOLO
+2019-01-04 13:26:53->CONTATTO-ELIMINATO: Eliminato il contatto #647: Mariolina Carpentieri | Pick Center CARPENTIERI da ACS - 
+2019-01-04 13:27:09->CONTATTO-ELIMINATO: Eliminato il contatto #1524: Giovanni D'Apote | SmartWorkingHub D'Apote da ACS - 
+2019-01-04 13:56:28->CONTATTO-AGGIORNATO: Il contatto #:2203: Johnna Wamfors | 3D2B srl | Wamfors aggiornato (PIN: 99963972, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-01-04 14:52:57->CONTATTO-PIN: Disattivati tutti gli uffi a Jessica Costantini | All Consulting & Engineering - Maura Villeato - Maura Villeato
+2019-01-04 14:53:03->CONTATTO-AGGIORNATO: Il contatto #:1681: Jessica Costantini | All Consulting & Engineering aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 14:53:36->CONTATTO-AGGIORNATO: Il contatto #:2208: Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini aggiornato (PIN: 99300391, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 14:53:42->CONTATTO-PIN: Assegnati uffici REG07 a Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini - Maura Villeato - Maura Villeato
+2019-01-04 14:54:33->CONTATTO-ELIMINATO: Eliminato il contatto #1681: Jessica Costantini | All Consulting & Engineering da ACS - 
+2019-01-04 16:01:08->CONTATTO-ELIMINATO: Eliminato il contatto #1968: Daniela Discendenti | Game 360 Srl  da ACS - 
+2019-01-04 16:01:38->CONTATTO-AGGIORNATO: Il contatto #:1979: Daniela Discendenti | Game 360 Srl | Discendenti aggiornato (PIN: 99251280, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:01:56->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Daniela Discendenti | Game 360 Srl | Discendenti - Maura Villeato - Maura Villeato
+2019-01-04 16:02:52->CONTATTO-ELIMINATO: Eliminato il contatto #1977: Donato Sansone | Game 360 Srl  da ACS - 
+2019-01-04 16:03:25->CONTATTO-AGGIORNATO: Il contatto #:1984: Donato Sansone | Game 360 Srl | Sansone aggiornato (PIN: 99160791, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:03:33->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Donato Sansone | Game 360 Srl | Sansone - Maura Villeato - Maura Villeato
+2019-01-04 16:05:57->CONTATTO-ELIMINATO: Eliminato il contatto #1967: Vijay Prakash Jha | Game 360 Srl  da ACS - 
+2019-01-04 16:06:48->CONTATTO-AGGIORNATO: Il contatto #:1986: Jha Vigay Prakash | Game 360 Srl | Vigay Prakash aggiornato (PIN: 99061293, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:06:59->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Jha Vigay Prakash | Game 360 Srl | Vigay Prakash - Maura Villeato - Maura Villeato
+2019-01-04 16:08:48->CONTATTO-ELIMINATO: Eliminato il contatto #1963: Antonio D'amore | Game 360 Srl  da ACS - 
+2019-01-04 16:09:22->CONTATTO-AGGIORNATO: Il contatto #:1983: Antonio D'amore |  | D'amore aggiornato (PIN: 99150380, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:09:29->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Antonio D'amore |  | D'amore - Maura Villeato - Maura Villeato
+2019-01-04 16:10:03->CONTATTO-ELIMINATO: Eliminato il contatto #1962: Davide Lettieri | Game 360 Srl  da ACS - 
+2019-01-04 16:10:33->CONTATTO-AGGIORNATO: Il contatto #:1985: Davide Lettieri |  | Lettieri aggiornato (PIN: 99120161, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:10:42->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Davide Lettieri |  | Lettieri - Maura Villeato - Maura Villeato
+2019-01-04 16:11:11->CONTATTO-ELIMINATO: Eliminato il contatto #1961: Wong Yat Hin | Game 360 Srl  da ACS - 
+2019-01-04 16:11:44->CONTATTO-AGGIORNATO: Il contatto #:1982: Yat Hin Wong |  | Wong aggiornato (PIN: 99002307, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:11:53->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Yat Hin Wong |  | Wong - Maura Villeato - Maura Villeato
+2019-01-04 16:13:49->CONTATTO-ELIMINATO: Eliminato il contatto #1960: Domenico Voto | Game 360 Srl  da ACS - 
+2019-01-04 16:14:30->CONTATTO-AGGIORNATO: Il contatto #:1981: Domenico Voto | Game 360 Srl | Voto aggiornato (PIN: 99393002, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:14:38->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Domenico Voto | Game 360 Srl | Voto - Maura Villeato - Maura Villeato
+2019-01-04 16:15:26->CONTATTO-ELIMINATO: Eliminato il contatto #1959: Michele Cardinale | Game 360 Srl  da ACS - 
+2019-01-04 16:15:58->CONTATTO-AGGIORNATO: Il contatto #:1980: Michele Cardinale | Game 360 Srl | Cardinale aggiornato (PIN: 99092018, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:16:06->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Michele Cardinale | Game 360 Srl | Cardinale - Maura Villeato - Maura Villeato
+2019-01-04 16:23:41->CONTATTO-ELIMINATO: Eliminato il contatto #2014: Emanuele Diotallevi | Game 360 Srl da ACS - 
+2019-01-04 16:25:19->CONTATTO-AGGIORNATO: Il contatto #:2209: Emanuele Diotallevi | Game 360 Srl | Diotallevi aggiornato (PIN: 99946421, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:25:34->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Emanuele Diotallevi | Game 360 Srl | Diotallevi - Maura Villeato - Maura Villeato
+2019-01-04 16:29:15->CONTATTO-ELIMINATO: Eliminato il contatto #1965: Giuseppe Giorgio | Game 360 Srl  da ACS - 
+2019-01-04 16:29:50->CONTATTO-AGGIORNATO: Il contatto #:2210: Giuseppe Giorgio | Game 360 Srl | Giorgio aggiornato (PIN: 99748623, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-04 16:29:58->CONTATTO-PIN: Assegnati uffici REG20, REG21, REG22, REG23 a Giuseppe Giorgio | Game 360 Srl | Giorgio - Maura Villeato - Maura Villeato
+2019-01-04 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-07 08:48:19->CONTATTO-AGGIORNATO: Il contatto #:2106: Nello Acampora | Hi Performance Srl | Acampora aggiornato (PIN: 99644461, SCADENZA: 2019-01-11, TEL1: 3939113166, TEL2: , TEL2: 3939113166, ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 08:58:30->CONTATTO-AGGIORNATO: Il contatto #:2211: Pasquale Verrino | Hi Performance Srl | Verrino aggiornato (PIN: 99811147, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 08:59:49->CONTATTO-AGGIORNATO: Il contatto #:2212: Stefania Paties Montagner |  | Paties Montagner aggiornato (PIN: 99312441, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:02:02->CONTATTO-AGGIORNATO: Il contatto #:2213: Teresa Varriale | Varriale | Varriale aggiornato (PIN: 99420707, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:03:32->CONTATTO-AGGIORNATO: Il contatto #:2214: Giuseppe Delle Donne |  | Delle Donne aggiornato (PIN: 99663840, SCADENZA: 2019-01-10, TEL1: 3472236544, TEL2: , TEL2: 3472236544, ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:04:34->CONTATTO-AGGIORNATO: Il contatto #:2215: Filomena Cennami |  | Cennami aggiornato (PIN: 99594567, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:05:38->CONTATTO-AGGIORNATO: Il contatto #:2216: Edoardo Pavino |  | Pavino aggiornato (PIN: 99814987, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:06:44->CONTATTO-AGGIORNATO: Il contatto #:2217: Stefania Papaleo |  | Papaleo aggiornato (PIN: 99473510, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:07:51->CONTATTO-AGGIORNATO: Il contatto #:2218: Marina Sarandrea |  | Sarandrea aggiornato (PIN: 99639000, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:16:26->CONTATTO-AGGIORNATO: Il contatto #:2219: Maria Giulia Luciani |  | Luciani aggiornato (PIN: 99472552, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:17:30->CONTATTO-AGGIORNATO: Il contatto #:2220: Stella De Rubeis |  | De Rubeis aggiornato (PIN: 99578752, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:18:31->CONTATTO-AGGIORNATO: Il contatto #:2221: Elda Troiano |  | Troiano aggiornato (PIN: 99233263, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:19:15->CONTATTO-AGGIORNATO: Il contatto #:2221: Elda Troiano |  | Troiano aggiornato (PIN: 99233263, SCADENZA: 2019-10-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:20:51->CONTATTO-AGGIORNATO: Il contatto #:2222: Britta Biagi |  | Biagi aggiornato (PIN: 99988530, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:21:55->CONTATTO-AGGIORNATO: Il contatto #:2223: Mody Acampora |  | Acampora aggiornato (PIN: 99595460, SCADENZA: 2019-01-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-01-07 09:47:10->CONTATTO-AGGIORNATO: Il contatto #:2201: Moin Azeem | 3D2B srl | Azeem aggiornato (PIN: 99917319, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:33:26->CONTATTO-AGGIORNATO: Il contatto #:2201: Moin Azeem | 3D2B srl | Azeem aggiornato (PIN: 99917319, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:34:14->CONTATTO-AGGIORNATO: Il contatto #:2204: Abdullah Omar Bataineh | 3D2B srl | Bataineh aggiornato (PIN: 99133232, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:35:13->CONTATTO-AGGIORNATO: Il contatto #:2204: Abdullah Omar Bataineh | 3D2B srl | Bataineh aggiornato (PIN: 99133232, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:37:24->CONTATTO-AGGIORNATO: Il contatto #:2205: Iris Beuchel | 3D2B srl | Beuchel aggiornato (PIN: 99185438, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:38:17->CONTATTO-AGGIORNATO: Il contatto #:2224: Fabiano Desideri | 3D2B srl | Desideri aggiornato (PIN: 99205343, SCADENZA: 0000-00-00, TEL1: 3200475870, TEL2: , TEL2: 3200475870, ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:38:45->CONTATTO-AGGIORNATO: Il contatto #:2224: Fabiano Desideri | 3D2B srl | Desideri aggiornato (PIN: 99205343, SCADENZA: 0000-00-00, TEL1: 3200475870, TEL2: , TEL2: 3200475870, ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:40:44->CONTATTO-AGGIORNATO: Il contatto #:2196: Sabrina Ferraioli | 3D2B srl | Ferraioli aggiornato (PIN: 99261308, SCADENZA: 0000-00-00, TEL1: 3357781638, TEL2: 0649270845, TEL2: 3357781638, ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:44:00->CONTATTO-AGGIORNATO: Il contatto #:2202: Valeria Frattesi | 3D2B srl | Frattesi aggiornato (PIN: 99417184, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:44:39->CONTATTO-AGGIORNATO: Il contatto #:2202: Valeria Frattesi | 3D2B srl | Frattesi aggiornato (PIN: 99417184, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:44:53->CONTATTO-AGGIORNATO: Il contatto #:2202: Valeria Frattesi | 3D2B srl | Frattesi aggiornato (PIN: 99417184, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:46:29->CONTATTO-AGGIORNATO: Il contatto #:2198: Jeffrey Michael Kalter | 3D2B srl | Kalter aggiornato (PIN: 99416524, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:46:56->CONTATTO-AGGIORNATO: Il contatto #:2198: Jeffrey Michael Kalter | 3D2B srl | Kalter aggiornato (PIN: 99416524, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:48:45->CONTATTO-AGGIORNATO: Il contatto #:2200: Nicoletta Latteri | 3D2B srl | Latteri aggiornato (PIN: 99145276, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:49:24->CONTATTO-AGGIORNATO: Il contatto #:2200: Nicoletta Latteri | 3D2B srl | Latteri aggiornato (PIN: 99145276, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:49:35->CONTATTO-AGGIORNATO: Il contatto #:2200: Nicoletta Latteri | 3D2B srl | Latteri aggiornato (PIN: 99145276, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:50:08->CONTATTO-AGGIORNATO: Il contatto #:2197: Giorgia Rosati | 3D2B srl | Rosati aggiornato (PIN: 99148282, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:51:02->CONTATTO-AGGIORNATO: Il contatto #:2206: Francesca Salvato | 3D2B srl | Salvato aggiornato (PIN: 99870476, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:51:10->CONTATTO-AGGIORNATO: Il contatto #:2206: Francesca Salvato | 3D2B srl | Salvato aggiornato (PIN: 99870476, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:53:31->CONTATTO-AGGIORNATO: Il contatto #:2199: Marinella Tucci | 3D2B srl | Tucci aggiornato (PIN: 99504453, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 10:53:57->CONTATTO-AGGIORNATO: Il contatto #:2199: Marinella Tucci | 3D2B srl | Tucci aggiornato (PIN: 99504453, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 12:40:27->CONTATTO-AGGIORNATO: Il contatto #:2225: Giorgia Perfetti |  | Perfetti aggiornato (PIN: 99980831, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 13:22:44->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: 95260214, SCADENZA: 0000-00-00, TEL1: *5505*7703484045295, TEL2: , TEL2: *5505*7703484045295, ALT EMAIL:  ) - Francesca Donati
+2019-01-07 14:13:26->CONTATTO-AGGIORNATO: Il contatto #:2226: Giovanni Di Domenico |  | Di Domenico aggiornato (PIN: 99400800, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 14:14:46->CONTATTO-AGGIORNATO: Il contatto #:2226: Giovanni Di Domenico |  | Di Domenico aggiornato (PIN: 99400800, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 15:28:38->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: 99260214, SCADENZA: 0000-00-00, TEL1: *5505*7703484045295, TEL2: , TEL2: *5505*7703484045295, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-01-07 15:29:27->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: 95260214, SCADENZA: 0000-00-00, TEL1: *5505*7703484045295, TEL2: , TEL2: *5505*7703484045295, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-01-07 16:02:26->CONTATTO-AGGIORNATO: Il contatto #:2159: Tiziana Lucioli | Minerva Srls | Lucioli aggiornato (PIN: 99280570, SCADENZA: 0000-00-00, TEL1: *7018*7703471710268, TEL2: 392 3191228, TEL2: *7018*7703471710268, ALT EMAIL: t.lucioli@accademiadeglieventi.org ) - Francesca Donati
+2019-01-07 16:16:01->CONTATTO-AGGIORNATO: Il contatto #:2033: Vincenzo Ioffredi |  | Ioffredi aggiornato (PIN: 99808732, SCADENZA: 1970-01-01, TEL1: , TEL2: 0636003424, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-07 16:16:12->CONTATTO-PIN: Disattivati tutti gli uffi a Vincenzo Ioffredi |  | Ioffredi - Maura Villeato - Maura Villeato
+2019-01-07 16:16:42->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 07-01-2019, dalle: 16:30 alle 17:30 - Maura Villeato
+2019-01-07 16:29:15->CONTATTO-AGGIORNATO: Il contatto #:2226: Giovanni Di Domenico |  | Di Domenico aggiornato (PIN: 99400800, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-07 17:06:22->CONTATTO-PIN: Disattivati tutti gli uffi a Gaia Biolcati |  | Biolcati - Maura Villeato - Maura Villeato
+2019-01-07 17:06:45->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Gaia Biolcati |  | Biolcati, data: 09-01-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-01-07 17:37:46->CONTATTO-AGGIORNATO: Il contatto #:2194: Giovanni Tagliapietra | INCE _ Il Nuovo Corriere Editoriale Srl aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-01-07 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-08 14:43:42->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 95253396, SCADENZA: 2019-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-08 14:43:48->CONTATTO-AGGIORNATO: Il contatto #:2012: Riccardo Duca | PICK CENTER MNTN aggiornato (PIN: 95253396, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-08 15:42:15->CONTATTO-AGGIORNATO: Il contatto #:2231: Carlo Caboni | TUDING S.r.l. | Caboni aggiornato (PIN: 99659160, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-08 15:42:50->CONTATTO-PIN: Assegnati uffici REG03 a Carlo Caboni | TUDING S.r.l. | Caboni - Maura Villeato - Maura Villeato
+2019-01-08 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-09 09:10:17->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Cinzia Russo |  | Russo, data: 09-01-2019, dalle: 09:00 alle 11:00 - Maura Villeato
+2019-01-09 19:00:02->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-10 14:30:34->CONTATTO-AGGIORNATO: Il contatto #:2238: Nina Orenga De Gaffory |  | Orenga De Gaffory aggiornato (PIN: 979972595, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-01-10 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-11 13:34:22->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-01-11 - MASSIMILIANO SANTOLO
+2019-01-11 15:51:14->CONTATTO-AGGIORNATO: Il contatto #:1569: Filippo  Battaglia | BONITOCASA aggiornato (PIN: 99120189, SCADENZA: 2019-01-11, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-11 15:51:44->CONTATTO-AGGIORNATO: Il contatto #:1045: GIUSEPPE MARGIOTTA | BONITO CASA aggiornato (PIN: 99270885, SCADENZA: 2019-01-11, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-11 15:52:17->CONTATTO-AGGIORNATO: Il contatto #:139: Mauro Bonito | Bonito Casa aggiornato (PIN: 99131247, SCADENZA: 2019-01-11, TEL1: 3274, TEL2: *2013*7703423141717, TEL2: 3274, ALT EMAIL:  ) - Maura Villeato
+2019-01-11 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-12 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-14 09:04:17->CONTATTO-PIN: Assegnati uffici REG14 a Carlo Caboni | TUDING S.r.l. | Caboni - Valentina Tedesco - Valentina Tedesco
+2019-01-14 09:04:21->CONTATTO-AGGIORNATO: Il contatto #:2231: Carlo Caboni | TUDING S.r.l. | Caboni aggiornato (PIN: 99659160, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 09:04:29->CONTATTO-AGGIORNATO: Il contatto #:2231: Carlo Caboni | TUDING S.r.l. | Caboni aggiornato (PIN: 99659160, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 09:05:03->CONTATTO-PIN: Assegnati uffici REG14 a Cheng Zhao | TUDING SRL - Valentina Tedesco - Valentina Tedesco
+2019-01-14 09:05:06->CONTATTO-AGGIORNATO: Il contatto #:1848: Cheng Zhao | TUDING SRL aggiornato (PIN: 99942600, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 09:05:32->CONTATTO-PIN: Assegnati uffici REG14 a Xiaochen Ding | TUDING SRL - Valentina Tedesco - Valentina Tedesco
+2019-01-14 09:05:33->CONTATTO-AGGIORNATO: Il contatto #:1746: Xiaochen Ding | TUDING SRL aggiornato (PIN: 99374316, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 09:06:01->CONTATTO-PIN: Assegnati uffici REG14 a Luna Xie | TUDING SRL - Valentina Tedesco - Valentina Tedesco
+2019-01-14 09:06:03->CONTATTO-AGGIORNATO: Il contatto #:1516: Luna Xie | TUDING SRL aggiornato (PIN: 99478320, SCADENZA: 0000-00-00, TEL1: *2008*773388241468, TEL2: , TEL2: *2008*773388241468, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 09:06:05->CONTATTO-AGGIORNATO: Il contatto #:1516: Luna Xie | TUDING SRL aggiornato (PIN: 99478320, SCADENZA: 0000-00-00, TEL1: *2008*773388241468, TEL2: , TEL2: *2008*773388241468, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:20:58->CONTATTO-AGGIORNATO: Il contatto #:2059: Mario De Angelis | Studio Consulenza De Angelis & Bracigliano S.r.l.s. | De Angelis aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3385991811, TEL2: 0691968165, TEL2: 3385991811, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:22:45->CONTATTO-AGGIORNATO: Il contatto #:1936: Barbara Fulgenzi | Filippo Carusi | Fulgenzi aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:23:14->CONTATTO-AGGIORNATO: Il contatto #:148: Barbara Fulgenzi | Studio legale Carusi e Fulgenzi aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: *1018*7703288225302, TEL2: *1018*3383696800, TEL2: *1018*7703288225302, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:24:01->CONTATTO-PIN: Assegnati uffici REG03 a Filippo Carusi | Studio legale Carusi e Fulgenzi - Valentina Tedesco - Valentina Tedesco
+2019-01-14 11:24:04->CONTATTO-AGGIORNATO: Il contatto #:147: Filippo Carusi | Studio legale Carusi e Fulgenzi aggiornato (PIN: 99181176, SCADENZA: 0000-00-00, TEL1: *1018*7703288225302, TEL2: *1018*3383696800, TEL2: *1018*7703288225302, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:24:56->CONTATTO-PIN: Assegnati uffici REG08 a Mario De Angelis | Studio Consulenza De Angelis& Braciliano  - Valentina Tedesco - Valentina Tedesco
+2019-01-14 11:24:59->CONTATTO-AGGIORNATO: Il contatto #:1003: Mario De Angelis | Studio Consulenza De Angelis& Braciliano  aggiornato (PIN: 99107107, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:29:55->CONTATTO-PIN: Assegnati uffici REG03 a Cristina Prada  | PRADA  - Valentina Tedesco - Valentina Tedesco
+2019-01-14 11:29:57->CONTATTO-AGGIORNATO: Il contatto #:659: Cristina Prada  | PRADA  aggiornato (PIN: 99040966, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:30:16->CONTATTO-AGGIORNATO: Il contatto #:659: Cristina Prada  | PRADA  aggiornato (PIN: 99040966, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 11:31:22->CONTATTO-AGGIORNATO: Il contatto #:659: Cristina Prada  | PRADA  aggiornato (PIN: 99040966, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 13:45:39->CONTATTO-AGGIORNATO: Il contatto #:2245: Giorgia Cautiero | Game 360 Srl | Cautiero aggiornato (PIN: 99172611, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-14 13:45:50->CONTATTO-PIN: Assegnati uffici REG22 a Giorgia Cautiero | Game 360 Srl | Cautiero - Roberta Ghilardelli - Roberta Ghilardelli
+2019-01-14 13:46:04->CONTATTO-AGGIORNATO: Il contatto #:2245: Giorgia Cautiero | Game 360 Srl | Cautiero aggiornato (PIN: 99172611, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-14 13:50:10->CONTATTO-AGGIORNATO: Il contatto #:2245: Giorgia Cautiero | Game 360 Srl | Cautiero aggiornato (PIN: 99172611, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-14 13:53:32->CONTATTO-AGGIORNATO: Il contatto #:2246: Emanuele Francocci |  | Francocci aggiornato (PIN: 99884151, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 13:55:06->CONTATTO-AGGIORNATO: Il contatto #:2247: Stefano Bigelli |  | Bigelli aggiornato (PIN: 99512577, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 13:56:30->CONTATTO-AGGIORNATO: Il contatto #:2248: Milko Anello |  | Anello aggiornato (PIN: 99864598, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 13:57:58->CONTATTO-AGGIORNATO: Il contatto #:2249: Massimiliano Ascenzi |  | Ascenzi aggiornato (PIN: 99328406, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 13:59:09->CONTATTO-AGGIORNATO: Il contatto #:2250: Teresa Giordano |  | Giordano aggiornato (PIN: 99485938, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 14:00:12->CONTATTO-AGGIORNATO: Il contatto #:2251: Martino Marangi |  | Marangi aggiornato (PIN: 99263677, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 14:29:42->CONTATTO-AGGIORNATO: Il contatto #:2252: Irene Galletti |  | Galletti aggiornato (PIN: 99914473, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 14:30:35->CONTATTO-AGGIORNATO: Il contatto #:2253: Francesca Cottarelli |  | Cottarelli aggiornato (PIN: 99936780, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 14:31:31->CONTATTO-AGGIORNATO: Il contatto #:2254: Giulia Terlizi |  | Terlizi aggiornato (PIN: 99895576, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-01-14 14:58:12->CONTATTO-AGGIORNATO: Il contatto #:2245: Giorgia Cautiero | Game 360 Srl | Cautiero aggiornato (PIN: 99172611, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 15:47:23->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Federica Cristaudo | Hotelbeds Group Italy S.r.l. | Cristaudo - Valentina Tedesco - Valentina Tedesco
+2019-01-14 15:47:26->CONTATTO-AGGIORNATO: Il contatto #:2072: Federica Cristaudo | Hotelbeds Group Italy S.r.l. | Cristaudo aggiornato (PIN: 99951910, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-14 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-15 10:15:12->CONTATTO-AGGIORNATO: Il contatto #:2095: Mauro Falegname Arch. Guglielmone |  | Falegname Arch. Guglielmone aggiornato (PIN: 95784290, SCADENZA: 0000-00-00, TEL1: 3388744983, TEL2: , TEL2: 3388744983, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 10:49:11->CONTATTO-AGGIORNATO: Il contatto #:2255: Mirko Manzo |  | Manzo aggiornato (PIN: 99100601, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-15 10:49:55->CONTATTO-AGGIORNATO: Il contatto #:2255: Mirko Manzo |  | Manzo aggiornato (PIN: 99100601, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-15 11:32:09->CONTATTO-AGGIORNATO: Il contatto #:2062: Lucia Muttoni | Hotelbeds Group Italy S.r.l. | Muttoni aggiornato (PIN: 99804229, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:33:24->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:33:26->CONTATTO-AGGIORNATO: Il contatto #:2152: Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini aggiornato (PIN: 99964368, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:33:53->CONTATTO-PIN: Assegnati uffici REG02, REG13 a Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:34:10->CONTATTO-AGGIORNATO: Il contatto #:2126: Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici aggiornato (PIN: 99414145, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:35:02->CONTATTO-AGGIORNATO: Il contatto #:2126: Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici aggiornato (PIN: 99414145, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:35:30->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Clelia Pescetti | Hotelbeds Group Italy S.r.l. | Pescetti - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:35:31->CONTATTO-AGGIORNATO: Il contatto #:2073: Clelia Pescetti | Hotelbeds Group Italy S.r.l. | Pescetti aggiornato (PIN: 99137294, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:36:29->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Antonella D'ortona | Hotelbeds Group Italy S.r.l. | D'ortona - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:36:31->CONTATTO-AGGIORNATO: Il contatto #:2071: Antonella D'ortona | Hotelbeds Group Italy S.r.l. | D'ortona aggiornato (PIN: 99230430, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:36:58->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Nicola Liberti | Hotelbeds Group Italy S.r.l. | Liberti - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:37:00->CONTATTO-AGGIORNATO: Il contatto #:2066: Nicola Liberti | Hotelbeds Group Italy S.r.l. | Liberti aggiornato (PIN: 99253744, SCADENZA: 0000-00-00, TEL1: 3460017631, TEL2: , TEL2: 3460017631, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:37:25->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Chiara Bassi | Hotelbeds Group Italy S.r.l. | Bassi - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:37:27->CONTATTO-AGGIORNATO: Il contatto #:2064: Chiara Bassi | Hotelbeds Group Italy S.r.l. | Bassi aggiornato (PIN: 99143396, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:38:07->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Giorgia Amici | Hotelbeds Group Italy S.r.l. | Amici - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:38:10->CONTATTO-AGGIORNATO: Il contatto #:2063: Giorgia Amici | Hotelbeds Group Italy S.r.l. | Amici aggiornato (PIN: 99386288, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:38:40->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Lucia Muttoni | Hotelbeds Group Italy S.r.l. | Muttoni - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:38:43->CONTATTO-AGGIORNATO: Il contatto #:2062: Lucia Muttoni | Hotelbeds Group Italy S.r.l. | Muttoni aggiornato (PIN: 99804229, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:39:13->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Cecilia Olivieri | Hotelbeds Group Italy S.r.l. | Olivieri - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:39:16->CONTATTO-AGGIORNATO: Il contatto #:2058: Cecilia Olivieri | Hotelbeds Group Italy S.r.l. | Olivieri aggiornato (PIN: 99973284, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 11:39:48->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Julio Maria Giacon | Hotelbeds Group Italy S.r.l. | Giacon - Valentina Tedesco - Valentina Tedesco
+2019-01-15 11:39:50->CONTATTO-AGGIORNATO: Il contatto #:2055: Julio Maria Giacon | Hotelbeds Group Italy S.r.l. | Giacon aggiornato (PIN: 99839570, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-15 12:01:05->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a Massimiliano Santolo | SmartWorkingHub Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-01-15 15:26:11->CONTATTO-AGGIORNATO: Il contatto #:2257: Viliana Bogdanova | Hotelbeds Group Italy S.r.l. | Bogdanova aggiornato (PIN: 99990045, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-15 15:26:53->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Viliana Bogdanova | Hotelbeds Group Italy S.r.l. | Bogdanova - Roberta Ghilardelli - Roberta Ghilardelli
+2019-01-15 15:27:24->CONTATTO-AGGIORNATO: Il contatto #:2257: Viliana Bogdanova | Hotelbeds Group Italy S.r.l. | Bogdanova aggiornato (PIN: 99990045, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-15 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-16 09:13:29->CONTATTO-AGGIORNATO: Il contatto #:2258: Serena Boccacci |  | Boccacci aggiornato (PIN: 99333971, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 09:59:35->CONTATTO-PIN: Assegnati uffici REG02 a   | HOTELBEDS ITALY GROUP SRL - Valentina Tedesco - Valentina Tedesco
+2019-01-16 09:59:38->CONTATTO-AGGIORNATO: Il contatto #:911:   | HOTELBEDS ITALY GROUP SRL aggiornato (PIN: 99775314, SCADENZA: 0000-00-00, TEL1: 3206, TEL2: 3213, TEL2: 3206, ALT EMAIL: alara@hotelbeds.com ) - Valentina Tedesco
+2019-01-16 10:20:57->CONTATTO-AGGIORNATO: Il contatto #:2258: Serena Boccacci |  | Boccacci aggiornato (PIN: 99333971, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 10:24:53->CONTATTO-AGGIORNATO: Il contatto #:2259: Carolina Mastio |  | Mastio aggiornato (PIN: 99566202, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-16 10:25:13->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Carolina Mastio |  | Mastio - Roberta Ghilardelli - Roberta Ghilardelli
+2019-01-16 10:25:19->CONTATTO-AGGIORNATO: Il contatto #:2259: Carolina Mastio |  | Mastio aggiornato (PIN: 99566202, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Roberta Ghilardelli
+2019-01-16 10:58:21->CONTATTO-AGGIORNATO: Il contatto #:2260: Damiano Oliva |  | Oliva aggiornato (PIN: 99327712, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 10:59:51->CONTATTO-AGGIORNATO: Il contatto #:2260: Damiano Oliva |  | Oliva aggiornato (PIN: 99327712, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 11:02:34->CONTATTO-AGGIORNATO: Il contatto #:2261: Ricardo Carbonell |  | Carbonell aggiornato (PIN: 99659794, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 11:02:57->CONTATTO-AGGIORNATO: Il contatto #:2261: Ricardo Carbonell |  | Carbonell aggiornato (PIN: 99659794, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 11:11:29->CONTATTO-AGGIORNATO: Il contatto #:2263: Sahar Bani |  | Bani aggiornato (PIN: 99691472, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 11:11:59->CONTATTO-AGGIORNATO: Il contatto #:2263: Sahar Bani |  | Bani aggiornato (PIN: 99691472, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 11:12:27->CONTATTO-AGGIORNATO: Il contatto #:2263: Sahar Bani |  | Bani aggiornato (PIN: 99691472, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-16 14:25:30->CONTATTO-AGGIORNATO: Il contatto #:2264: Francesca Ottolini | Hotelbeds Group Italy S.r.l. | Ottolini aggiornato (PIN: 99754061, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-16 14:28:23->CONTATTO-AGGIORNATO: Il contatto #:2264: Francesca Ottolini | Hotelbeds Group Italy S.r.l. | Ottolini aggiornato (PIN: 99754061, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-16 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-17 12:13:50->CONTATTO-AGGIORNATO: Il contatto #:2278: Flavia Ferretti | Hotelbeds Group Italy S.r.l. | Ferretti aggiornato (PIN: 99665412, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-17 12:29:44->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Davide Cevoli | Hotelbeds Group Italy S.r.l. | Cevoli - Maura Villeato - Maura Villeato
+2019-01-17 15:39:13->CONTATTO-PIN: Assegnati uffici REG03, REG08 a Mario De Angelis | Studio Consulenza De Angelis& Braciliano  - Maura Villeato - Maura Villeato
+2019-01-17 16:14:23->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG08 cliente: Antonio Amendola | Romeing, data: 18-01-2019, dalle: 14:00 alle 20:00 - Maura Villeato
+2019-01-17 17:31:15->CONTATTO-AGGIORNATO: Il contatto #:1752: Luigi Marra | PIANETA CAR SRL aggiornato (PIN: 99178682, SCADENZA: 2019-01-17, TEL1: 3492799398, TEL2: 3224, TEL2: 3492799398, ALT EMAIL:  ) - Maura Villeato
+2019-01-17 17:31:53->CONTATTO-AGGIORNATO: Il contatto #:1817: Cosimo Lionetti | PIANETA CAR SRL aggiornato (PIN: 99970181, SCADENZA: 2019-01-17, TEL1: 3224, TEL2: , TEL2: 3224, ALT EMAIL:  ) - Maura Villeato
+2019-01-17 17:32:31->CONTATTO-AGGIORNATO: Il contatto #:1854: Eustachio Nicoletti | PIANETA CAR SRL aggiornato (PIN: 99280881, SCADENZA: 2019-01-17, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-17 19:00:02->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-18 09:31:28->CONTATTO-PIN: Assegnati uffici REG23 a Giorgia Cautiero | Game 360 Srl | Cautiero - Maura Villeato - Maura Villeato
+2019-01-18 10:50:49->CONTATTO-AGGIORNATO: Il contatto #:2281: Gianluca Zanusso | NTT DATA ITALIA spa | Zanusso aggiornato (PIN: 99405233, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-18 10:51:55->CONTATTO-AGGIORNATO: Il contatto #:2281: Gianluca Zanusso | NTT DATA ITALIA spa | Zanusso aggiornato (PIN: 99405233, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-18 10:52:40->CONTATTO-AGGIORNATO: Il contatto #:2281: Gianluca Zanusso | NTT DATA ITALIA spa | Zanusso aggiornato (PIN: 99405233, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-18 13:40:25->CONTATTO-ELIMINATO: Eliminato il contatto #1848: Cheng Zhao | TUDING SRL da ACS - 
+2019-01-18 13:40:42->CONTATTO-AGGIORNATO: Il contatto #:2284: Cheng Zhao | ET-GO COMPANY S.r.l.s. | Zhao aggiornato (PIN: 99942600, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-18 13:40:51->CONTATTO-PIN: Assegnati uffici REG14 a Cheng Zhao | ET-GO COMPANY S.r.l.s. | Zhao - Maura Villeato - Maura Villeato
+2019-01-18 13:41:51->CONTATTO-ELIMINATO: Eliminato il contatto #1516: Luna Xie | TUDING SRL da ACS - 
+2019-01-18 13:42:16->CONTATTO-AGGIORNATO: Il contatto #:2282: Luna Xie | ET-GO COMPANY S.r.l.s. | Xie aggiornato (PIN: 99478320, SCADENZA: 0000-00-00, TEL1: 3388241468, TEL2: , TEL2: 3388241468, ALT EMAIL:  ) - Maura Villeato
+2019-01-18 13:42:22->CONTATTO-PIN: Assegnati uffici REG14 a Luna Xie | ET-GO COMPANY S.r.l.s. | Xie - Maura Villeato - Maura Villeato
+2019-01-18 13:49:27->CONTATTO-AGGIORNATO: Il contatto #:2285: Tang Zhi |  | Zhi aggiornato (PIN: 99254506, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-18 13:49:34->CONTATTO-PIN: Assegnati uffici REG14 a Tang Zhi |  | Zhi - Maura Villeato - Maura Villeato
+2019-01-18 15:32:08->CONTATTO-PIN: Assegnati uffici REG03 a GIUSEPPE MARGIOTTA | BONITO CASA - Maura Villeato - Maura Villeato
+2019-01-18 15:32:14->CONTATTO-AGGIORNATO: Il contatto #:1045: GIUSEPPE MARGIOTTA | BONITO CASA aggiornato (PIN: 99952340, SCADENZA: 2019-01-18, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-18 16:20:20->CONTATTO-AGGIORNATO: Il contatto #:1045: GIUSEPPE MARGIOTTA | BONITO CASA aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-18 16:26:29->CONTATTO-ELIMINATO: Eliminato il contatto #1097: Mirko Saginario | Avv. Mirko Saginario da ACS - 
+2019-01-18 16:26:53->CONTATTO-AGGIORNATO: Il contatto #:1891: Mirko Saginario |  | Saginario aggiornato (PIN: 99300176, SCADENZA: 0000-00-00, TEL1: 3495952421, TEL2: 066538719, TEL2: 3495952421, ALT EMAIL:  ) - Valentina Tedesco
+2019-01-18 16:27:45->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG08 cliente: Mirko Saginario |  | Saginario, data: 22-01-2019, dalle: 16:30 alle 19:00 - Valentina Tedesco
+2019-01-18 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-21 09:15:21->CONTATTO-AGGIORNATO: Il contatto #:2289: Delia Cassaro |  | Cassaro aggiornato (PIN: 99959699, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-21 09:16:07->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Delia Cassaro |  | Cassaro - Valentina Tedesco - Valentina Tedesco
+2019-01-21 09:16:20->CONTATTO-AGGIORNATO: Il contatto #:2289: Delia Cassaro |  | Cassaro aggiornato (PIN: 99959699, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-21 09:17:19->CONTATTO-AGGIORNATO: Il contatto #:2289: Delia Cassaro |  | Cassaro aggiornato (PIN: 99959699, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-21 13:44:51->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella - Valentina Tedesco - Valentina Tedesco
+2019-01-21 13:44:53->CONTATTO-AGGIORNATO: Il contatto #:2049: Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella aggiornato (PIN: 99643557, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-21 13:46:16->CONTATTO-AGGIORNATO: Il contatto #:2049: Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella aggiornato (PIN: 99643557, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-21 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-22 12:33:29->CONTATTO-PIN: Assegnati uffici REG07 a Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini - Maura Villeato - Maura Villeato
+2019-01-22 12:33:39->CONTATTO-AGGIORNATO: Il contatto #:2208: Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini aggiornato (PIN: 99300391, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-22 16:06:35->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG12 a Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli - Valentina Tedesco - Valentina Tedesco
+2019-01-22 16:06:39->CONTATTO-AGGIORNATO: Il contatto #:2052: Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli aggiornato (PIN: 99302669, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-22 16:07:31->CONTATTO-AGGIORNATO: Il contatto #:2064: Chiara Bassi | Hotelbeds Group Italy S.r.l. | Bassi aggiornato (PIN: 99143396, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-22 16:08:01->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG13 a Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli - Valentina Tedesco - Valentina Tedesco
+2019-01-22 16:08:10->CONTATTO-AGGIORNATO: Il contatto #:2052: Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli aggiornato (PIN: 99302669, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-23 15:07:56->CONTATTO-AGGIORNATO: Il contatto #:2294: Noemi Antonini |  | Antonini aggiornato (PIN: 99132405, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-23 15:08:08->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Noemi Antonini |  | Antonini - Valentina Tedesco - Valentina Tedesco
+2019-01-23 15:08:58->CONTATTO-AGGIORNATO: Il contatto #:2294: Noemi Antonini |  | Antonini aggiornato (PIN: 99132405, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-23 15:45:02->CONTATTO-PIN: Assegnati uffici REG03 a Mario De Angelis | Studio Consulenza De Angelis& Braciliano  - Maura Villeato - Maura Villeato
+2019-01-23 16:28:14->CONTATTO-AGGIORNATO: Il contatto #:2298: Nicola De Vita |  | De Vita aggiornato (PIN: 99930925, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-23 16:34:02->CONTATTO-AGGIORNATO: Il contatto #:2299: Francesca Loprete |  | Loprete aggiornato (PIN: 99805260, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-23 16:39:04->CONTATTO-AGGIORNATO: Il contatto #:2300: Erika Cuccia |  | Cuccia aggiornato (PIN: 99797438, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-23 16:39:24->CONTATTO-AGGIORNATO: Il contatto #:2300: Erika Cuccia |  | Cuccia aggiornato (PIN: 99797438, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-23 16:39:54->CONTATTO-AGGIORNATO: Il contatto #:2301: Cristina Conti |  | Conti aggiornato (PIN: 99660996, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-23 16:40:15->CONTATTO-AGGIORNATO: Il contatto #:2301: Cristina Conti |  | Conti aggiornato (PIN: 99660996, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-23 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-24 09:10:29->CONTATTO-ELIMINATO: Eliminato il contatto #137: Luca Bonifaci | BOGIM S.a.s. di Bonifaci Luca &C. da ACS - 
+2019-01-24 09:10:55->CONTATTO-AGGIORNATO: Il contatto #:2305: Luca Bonifaci | BOGIM S.a.s. di Bonifaci Luca &amp;amp; C. | Bonifaci aggiornato (PIN: 99824815, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-24 09:12:05->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG08 cliente: Luca Bonifaci | BOGIM S.a.s. di Bonifaci Luca &amp;amp; C. | Bonifaci, data: 24-01-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-01-24 10:13:22->CONTATTO-AGGIORNATO: Il contatto #:2131: Luigi Moretta | ALTAVIA ITALIA SRL | Moretta aggiornato (PIN: 95260214, SCADENZA: 0000-00-00, TEL1: *5505*7703484045295, TEL2: , TEL2: *5505*7703484045295, ALT EMAIL:  ) - Francesca Donati
+2019-01-24 10:57:12->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG08 cliente: Cinzia Russo |  | Russo, data: 24-01-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-01-24 10:57:13->CONTATTO-AGGIORNATO: Il contatto #:2306: Giuseppe Ferrari |  | Ferrari aggiornato (PIN: 99265227, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-24 10:57:40->CONTATTO-PIN: Assegnati uffici REG02 a Giuseppe Ferrari |  | Ferrari - Valentina Tedesco - Valentina Tedesco
+2019-01-24 10:58:54->CONTATTO-AGGIORNATO: Il contatto #:2306: Giuseppe Ferrari |  | Ferrari aggiornato (PIN: 99265227, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-24 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-25 08:34:54->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-01-25 - MASSIMILIANO SANTOLO
+2019-01-25 14:36:53->CONTATTO-AGGIORNATO: Il contatto #:2309: Andrea Gagliardi |  | Gagliardi aggiornato (PIN: 99827837, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-25 14:37:11->CONTATTO-AGGIORNATO: Il contatto #:2309: Andrea Gagliardi |  | Gagliardi aggiornato (PIN: 99827837, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-01-25 14:42:47->CONTATTO-AGGIORNATO: Il contatto #:1391: Accesso Cliente Day REG 5 |  aggiornato (PIN: 99436965, SCADENZA: 2019-01-25, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-25 14:42:55->CONTATTO-PIN: Assegnati uffici REG03 a Accesso Cliente Day REG 5 |  - Maura Villeato - Maura Villeato
+2019-01-25 16:28:26->CONTATTO-AGGIORNATO: Il contatto #:1483:   | Alfa Contract aggiornato (PIN: 95345508, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-25 16:28:39->CONTATTO-AGGIORNATO: Il contatto #:1483:   | Alfa Contract aggiornato (PIN: 95345508, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-25 16:33:04->CONTATTO-AGGIORNATO: Il contatto #:1483:   | Alfa Contract aggiornato (PIN: 99345508, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-01-25 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-26 19:00:02->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-28 09:06:28->CONTATTO-PIN: Assegnati uffici REG02, REG08 a Giuseppe Ferrari | Hotelbeds Group Italy S.r.l. | Ferrari - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:06:55->CONTATTO-AGGIORNATO: Il contatto #:2306: Giuseppe Ferrari | Hotelbeds Group Italy S.r.l. | Ferrari aggiornato (PIN: 99265227, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:07:49->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Carolina Mastio | Hotelbeds Group Italy S.r.l. | Mastio - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:08:06->CONTATTO-AGGIORNATO: Il contatto #:2259: Carolina Mastio | Hotelbeds Group Italy S.r.l. | Mastio aggiornato (PIN: 99566202, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:08:35->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Viliana Bogdanova | Hotelbeds Group Italy S.r.l. | Bogdanova - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:08:37->CONTATTO-AGGIORNATO: Il contatto #:2257: Viliana Bogdanova | Hotelbeds Group Italy S.r.l. | Bogdanova aggiornato (PIN: 99990045, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:09:04->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Noemi Antonini |  | Antonini - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:09:06->CONTATTO-AGGIORNATO: Il contatto #:2294: Noemi Antonini |  | Antonini aggiornato (PIN: 99132405, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:09:47->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Delia Cassaro |  | Cassaro - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:09:49->CONTATTO-AGGIORNATO: Il contatto #:2289: Delia Cassaro |  | Cassaro aggiornato (PIN: 99959699, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:10:20->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Rita Orsini | Hotelbeds Group Italy S.r.l. | Orsini - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:10:22->CONTATTO-AGGIORNATO: Il contatto #:2168: Rita Orsini | Hotelbeds Group Italy S.r.l. | Orsini aggiornato (PIN: 99893238, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:10:35->CONTATTO-AGGIORNATO: Il contatto #:2168: Rita Orsini | Hotelbeds Group Italy S.r.l. | Orsini aggiornato (PIN: 99893238, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:11:15->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:11:17->CONTATTO-AGGIORNATO: Il contatto #:2152: Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini aggiornato (PIN: 99964368, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:27:10->CONTATTO-AGGIORNATO: Il contatto #:2152: Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini aggiornato (PIN: 99964368, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:27:14->CONTATTO-AGGIORNATO: Il contatto #:2152: Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini aggiornato (PIN: 99964368, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:28:08->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Giovanni Luca Lotti | Hotelbeds Group Italy S.r.l. | Lotti - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:28:10->CONTATTO-AGGIORNATO: Il contatto #:2128: Giovanni Luca Lotti | Hotelbeds Group Italy S.r.l. | Lotti aggiornato (PIN: 99301415, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:28:41->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG13 a Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:28:42->CONTATTO-AGGIORNATO: Il contatto #:2126: Chiara Felici | Hotelbeds Group Italy S.r.l. | Felici aggiornato (PIN: 99414145, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:29:27->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Clelia Pescetti | Hotelbeds Group Italy S.r.l. | Pescetti - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:29:29->CONTATTO-AGGIORNATO: Il contatto #:2073: Clelia Pescetti | Hotelbeds Group Italy S.r.l. | Pescetti aggiornato (PIN: 99137294, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:30:03->CONTATTO-PIN: Assegnati uffici REG02, REG08 a   | HOTELBEDS ITALY GROUP SRL - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:30:06->CONTATTO-AGGIORNATO: Il contatto #:911:   | HOTELBEDS ITALY GROUP SRL aggiornato (PIN: 99775314, SCADENZA: 0000-00-00, TEL1: 3206, TEL2: 3213, TEL2: 3206, ALT EMAIL: alara@hotelbeds.com ) - Valentina Tedesco
+2019-01-28 09:30:47->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:30:50->CONTATTO-AGGIORNATO: Il contatto #:2049: Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella aggiornato (PIN: 99643557, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:31:18->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Davide Cevoli | Hotelbeds Group Italy S.r.l. | Cevoli - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:31:20->CONTATTO-AGGIORNATO: Il contatto #:2050: Davide Cevoli | Hotelbeds Group Italy S.r.l. | Cevoli aggiornato (PIN: 99799283, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:31:55->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:31:57->CONTATTO-AGGIORNATO: Il contatto #:2052: Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli aggiornato (PIN: 99302669, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:32:21->CONTATTO-PIN: Assegnati uffici REG08, REG09 a Chiara Maria Augello | Hotelbeds Group Italy S.r.l. | Augello - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:32:23->CONTATTO-AGGIORNATO: Il contatto #:2053: Chiara Maria Augello | Hotelbeds Group Italy S.r.l. | Augello aggiornato (PIN: 99250031, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:32:50->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Julio Maria Giacon | Hotelbeds Group Italy S.r.l. | Giacon - Valentina Tedesco - Valentina Tedesco
+2019-01-28 09:32:52->CONTATTO-AGGIORNATO: Il contatto #:2055: Julio Maria Giacon | Hotelbeds Group Italy S.r.l. | Giacon aggiornato (PIN: 99839570, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-01-28 09:40:42->CONTATTO-PIN: Assegnati uffici REG08, REG09 a Chiara Maria Augello | Hotelbeds Group Italy S.r.l. | Augello - Maura Villeato - Maura Villeato
+2019-01-28 09:41:29->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Cecilia Olivieri | Hotelbeds Group Italy S.r.l. | Olivieri - Maura Villeato - Maura Villeato
+2019-01-28 09:42:19->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Oronzo Cosimo | Hotelbeds Group Italy S.r.l. | Cosimo - Maura Villeato - Maura Villeato
+2019-01-28 09:43:02->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Tatiana Muzychenko | Hotelbeds Group Italy S.r.l. | Muzychenko - Maura Villeato - Maura Villeato
+2019-01-28 09:43:47->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Lucia Muttoni | Hotelbeds Group Italy S.r.l. | Muttoni - Maura Villeato - Maura Villeato
+2019-01-28 09:44:30->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Giorgia Amici | Hotelbeds Group Italy S.r.l. | Amici - Maura Villeato - Maura Villeato
+2019-01-28 09:46:27->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Chiara Bassi | Hotelbeds Group Italy S.r.l. | Bassi - Maura Villeato - Maura Villeato
+2019-01-28 11:01:59->CONTATTO-PIN: Assegnati uffici REG03 a Cinzia Russo |  | Russo - Maura Villeato - Maura Villeato
+2019-01-29 09:05:42->CONTATTO-PIN: Assegnati uffici REG02, REG09 a Erika Cuccia |  | Cuccia - Maura Villeato - Maura Villeato
+2019-01-29 10:12:07->CONTATTO-AGGIORNATO: Il contatto #:2313: Marco Damiani | Tutti Noi Onlus | Damiani aggiornato (PIN: 99632891, SCADENZA: 2019-02-10, TEL1: 3345045247, TEL2: , TEL2: 3345045247, ALT EMAIL:  ) - Pina Aloisi
+2019-01-29 10:12:29->CONTATTO-AGGIORNATO: Il contatto #:2313: Marco Damiani | Tutti Noi Onlus | Damiani aggiornato (PIN: 99632891, SCADENZA: 2019-10-02, TEL1: 3345045247, TEL2: , TEL2: 3345045247, ALT EMAIL:  ) - Pina Aloisi
+2019-01-29 19:00:02->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-30 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-01-31 14:04:10->CONTATTO-AGGIORNATO: Il contatto #:147: Filippo Carusi | Studio legale Carusi e Fulgenzi aggiornato (PIN: 99181176, SCADENZA: 0000-00-00, TEL1: *1018*7703288225302, TEL2: *1018*3383696800, TEL2: *1018*7703288225302, ALT EMAIL:  ) - Valentina Tedesco
+2019-02-01 09:02:34->CONTATTO-AGGIORNATO: Il contatto #:2326: Harry Wood |  | Wood aggiornato (PIN: 99781267, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-01 09:07:23->CONTATTO-AGGIORNATO: Il contatto #:2327: Tania Russo |  | Russo aggiornato (PIN: 99696539, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-01 09:07:38->CONTATTO-AGGIORNATO: Il contatto #:2327: Tania Russo |  | Russo aggiornato (PIN: 99696539, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-01 09:08:54->CONTATTO-AGGIORNATO: Il contatto #:2328: Daniela Deger |  | Deger aggiornato (PIN: 99748375, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-01 09:13:29->CONTATTO-AGGIORNATO: Il contatto #:2330: Nargiz Ismayilova |  | Ismayilova aggiornato (PIN: 99893637, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-01 09:39:27->CONTATTO-AGGIORNATO: Il contatto #:2291: Claudio Serangeli |  | Serangeli aggiornato (PIN: 99369512, SCADENZA: 0000-00-00, TEL1: 3477951502, TEL2: 0692034988, TEL2: 3477951502, ALT EMAIL:  ) - Maura Villeato
+2019-02-01 09:39:56->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Claudio Serangeli |  | Serangeli, data: 01-02-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-02-01 09:49:36->CONTATTO-AGGIORNATO: Il contatto #:2302: Francesco Gaspari | Gaspari | Gaspari aggiornato (PIN: 99109304, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-01 11:14:25->CONTATTO-AGGIORNATO: Il contatto #:2291: Claudio Serangeli |  | Serangeli aggiornato (PIN: 99369512, SCADENZA: 0000-00-00, TEL1: 3477951502, TEL2: 0692034988, TEL2: 3477951502, ALT EMAIL:  ) - Valentina Tedesco
+2019-02-01 11:24:00->CONTATTO-AGGIORNATO: Il contatto #:2291: Claudio Serangeli |  | Serangeli aggiornato (PIN: 99369512, SCADENZA: 0000-00-00, TEL1: 3477951502, TEL2: 0692034988, TEL2: 3477951502, ALT EMAIL:  ) - Valentina Tedesco
+2019-02-01 16:11:40->CONTATTO-AGGIORNATO: Il contatto #:2327: Tania Russo |  | Russo aggiornato (PIN: 99696539, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-02-01 17:05:30->CONTATTO-AGGIORNATO: Il contatto #:2333: Pier Luigi Esposito | DOXEE S.p.A. | Esposito aggiornato (PIN: 99320079, SCADENZA: 0000-00-00, TEL1: 3357840338, TEL2: 05988860, TEL2: 3357840338, ALT EMAIL:  ) - Reception Generico
+2019-02-01 17:07:19->CONTATTO-AGGIORNATO: Il contatto #:2333: Pier Luigi Esposito | DOXEE S.p.A. | Esposito aggiornato (PIN: 99320079, SCADENZA: 0000-00-00, TEL1: 3357840338, TEL2: 05988860, TEL2: 3357840338, ALT EMAIL:  ) - Reception Generico
+2019-02-01 17:43:44->CONTATTO-AGGIORNATO: Il contatto #:2333: Pier Luigi Esposito | DOXEE S.p.A. | Esposito aggiornato (PIN: 99320079, SCADENZA: 0000-00-00, TEL1: 3357840338, TEL2: 05988860, TEL2: 3357840338, ALT EMAIL:  ) - Reception Generico
+2019-02-01 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-04 08:35:36->CONTATTO-AGGIORNATO: Il contatto #:2334: Anna Laura Palmarelli |  | Palmarelli aggiornato (PIN: 99619758, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 09:21:30->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Gaia Biolcati |  | Biolcati, data: 04-02-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-02-04 11:32:48->CONTATTO-AGGIORNATO: Il contatto #:2343: Agostino Fanti |  | Fanti aggiornato (PIN: 99939736, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-04 11:35:41->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Cristina Conti |  | Conti - Maura Villeato - Maura Villeato
+2019-02-04 11:47:37->CONTATTO-AGGIORNATO: Il contatto #:2343: Agostino Fanti |  | Fanti aggiornato (PIN: 99939736, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-04 12:13:38->CONTATTO-AGGIORNATO: Il contatto #:2344: Romina De Angelis |  | De Angelis aggiornato (PIN: 99676759, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 12:19:13->CONTATTO-AGGIORNATO: Il contatto #:2344: Romina De Angelis |  | De Angelis aggiornato (PIN: 99676759, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 13:04:41->CONTATTO-AGGIORNATO: Il contatto #:2345: Luisa Petri |  | Petri aggiornato (PIN: 99998142, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 13:45:49->CONTATTO-AGGIORNATO: Il contatto #:2346: Valerio Mellone |  | Mellone aggiornato (PIN: 99129584, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-04 13:46:03->CONTATTO-AGGIORNATO: Il contatto #:2346: Valerio Mellone |  | Mellone aggiornato (PIN: 99129584, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-04 15:02:18->CONTATTO-AGGIORNATO: Il contatto #:2335: Maria Cristina Calvano | Changee Srl | Calvano aggiornato (PIN: 99561628, SCADENZA: 2019-02-11, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-04 16:13:37->CONTATTO-AGGIORNATO: Il contatto #:2348: Leandro D'addario |  | D'addario aggiornato (PIN: 99541662, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 16:15:17->CONTATTO-AGGIORNATO: Il contatto #:2348: Leandro D'addario |  | D'addario aggiornato (PIN: 99541662, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 16:17:08->CONTATTO-AGGIORNATO: Il contatto #:2348: Leandro D'addario |  | D'addario aggiornato (PIN: 99541662, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-04 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-05 08:59:01->CONTATTO-AGGIORNATO: Il contatto #:2349: Tatiana Stopponi |  | Stopponi aggiornato (PIN: 99381751, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-05 08:59:02->CONTATTO-AGGIORNATO: Il contatto #:2349: Tatiana Stopponi |  | Stopponi aggiornato (PIN: 99381751, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-05 09:53:24->CONTATTO-AGGIORNATO: Il contatto #:2350: Lorenzo Valente |  | Valente aggiornato (PIN: 99189860, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-05 10:13:49->CONTATTO-AGGIORNATO: Il contatto #:2352: Lucia Russo | Russo | Russo aggiornato (PIN: 99407951, SCADENZA: 0000-00-00, TEL1: 3927296852, TEL2: , TEL2: 3927296852, ALT EMAIL:  ) - Pina Aloisi
+2019-02-05 11:55:16->CONTATTO-AGGIORNATO: Il contatto #:2353: Stefano Cavedoni |  | Cavedoni aggiornato (PIN: 99202140, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-05 11:56:37->CONTATTO-AGGIORNATO: Il contatto #:2353: Stefano Cavedoni |  | Cavedoni aggiornato (PIN: 99202140, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-05 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-06 09:06:29->CONTATTO-AGGIORNATO: Il contatto #:2355: Carmela Vadal&agrave; |  | Vadal&agrave; aggiornato (PIN: 99588642, SCADENZA: 0000-00-00, TEL1: 3929937448, TEL2: 0666515422, TEL2: 3929937448, ALT EMAIL:  ) - Maura Villeato
+2019-02-06 09:06:47->CONTATTO-PIN: Assegnati uffici REG03 a Carmela Vadal&agrave; |  | Vadal&agrave; - Maura Villeato - Maura Villeato
+2019-02-06 09:07:00->CONTATTO-AGGIORNATO: Il contatto #:2355: Carmela Vadal&agrave; |  | Vadal&agrave; aggiornato (PIN: 99588642, SCADENZA: 0000-00-00, TEL1: 3929937448, TEL2: 0666515422, TEL2: 3929937448, ALT EMAIL:  ) - Maura Villeato
+2019-02-06 09:07:41->CONTATTO-AGGIORNATO: Il contatto #:2355: Carmela Vadal&agrave; |  | Vadal&agrave; aggiornato (PIN: 99588642, SCADENZA: 0000-00-00, TEL1: 3929937448, TEL2: 0666515422, TEL2: 3929937448, ALT EMAIL:  ) - Maura Villeato
+2019-02-06 09:08:29->CONTATTO-AGGIORNATO: Il contatto #:2355: Carmela Vadal&agrave; |  | Vadal&agrave; aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3929937448, TEL2: 0666515422, TEL2: 3929937448, ALT EMAIL:  ) - Maura Villeato
+2019-02-06 09:08:39->CONTATTO-AGGIORNATO: Il contatto #:2355: Carmela Vadal&agrave; |  | Vadal&agrave; aggiornato (PIN: 99202771, SCADENZA: 0000-00-00, TEL1: 3929937448, TEL2: 0666515422, TEL2: 3929937448, ALT EMAIL:  ) - Maura Villeato
+2019-02-06 09:08:51->CONTATTO-AGGIORNATO: Il contatto #:2355: Carmela Vadal&agrave; |  | Vadal&agrave; aggiornato (PIN: 99202771, SCADENZA: 0000-00-00, TEL1: 3929937448, TEL2: 0666515422, TEL2: 3929937448, ALT EMAIL:  ) - Maura Villeato
+2019-02-06 09:09:15->CONTATTO-PIN: Disattivati tutti gli uffi a Carmela Vadal&agrave; |  | Vadal&agrave; - Maura Villeato - Maura Villeato
+2019-02-06 09:09:35->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Carmela Vadal&agrave; |  | Vadal&agrave;, data: 06-02-2019, dalle: 11:30 alle 12:30 - Maura Villeato
+2019-02-06 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-07 11:03:44->CONTATTO-AGGIORNATO: Il contatto #:2351: Caterina Russo |  | Russo aggiornato (PIN: 99546688, SCADENZA: 0000-00-00, TEL1: 3407989762, TEL2: , TEL2: 3407989762, ALT EMAIL:  ) - Reception Generico
+2019-02-07 13:34:03->CONTATTO-AGGIORNATO: Il contatto #:2351: Caterina Russo |  | Russo aggiornato (PIN: 99546688, SCADENZA: 0000-00-00, TEL1: 3407989762, TEL2: , TEL2: 3407989762, ALT EMAIL:  ) - Reception Generico
+2019-02-07 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-08 15:44:07->CONTATTO-PIN: Assegnati uffici REG03 a Agnese Camilli | Avvocato Camilli Agnese - Maura Villeato - Maura Villeato
+2019-02-10 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-11 08:42:52->CONTATTO-AGGIORNATO: Il contatto #:2365: Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio aggiornato (PIN: 99924009, SCADENZA: 0000-00-00, TEL1: 3668986530, TEL2: , TEL2: 3668986530, ALT EMAIL:  ) - Maura Villeato
+2019-02-11 08:43:34->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio, data: 11-02-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-02-11 13:31:27->CONTATTO-AGGIORNATO: Il contatto #:2367: Tiziana Colozza |  | Colozza aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3358384516, TEL2: , TEL2: 3358384516, ALT EMAIL:  ) - Francesca Donati
+2019-02-11 13:31:53->CONTATTO-AGGIORNATO: Il contatto #:2367: Tiziana Colozza |  | Colozza aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3358384516, TEL2: , TEL2: 3358384516, ALT EMAIL:  ) - Francesca Donati
+2019-02-11 13:33:15->CONTATTO-AGGIORNATO: Il contatto #:2367: Tiziana Colozza |  | Colozza aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: *7003*7703358384516, TEL2: , TEL2: *7003*7703358384516, ALT EMAIL:  ) - Francesca Donati
+2019-02-11 15:14:22->CONTATTO-AGGIORNATO: Il contatto #:2150: Heacliff Chiodi |  | Chiodi aggiornato (PIN: 99888484, SCADENZA: 0000-00-00, TEL1: 3351444074, TEL2: 0689566148, TEL2: 3351444074, ALT EMAIL:  ) - Maura Villeato
+2019-02-11 15:15:14->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Heacliff Chiodi |  | Chiodi, data: 11-02-2019, dalle: 17:00 alle 18:00 - Maura Villeato
+2019-02-11 15:15:44->CONTATTO-ELIMINATO: Eliminato il contatto #1394: Heacliff Chiodi | AVV. CHIODI da ACS - 
+2019-02-11 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-12 10:45:25->CONTATTO-AGGIORNATO: Il contatto #:1900: Stefania Crisari |  | Crisari aggiornato (PIN: 99914843, SCADENZA: 2019-02-18, TEL1: 3934378126, TEL2: , TEL2: 3934378126, ALT EMAIL:  ) - Francesca Donati
+2019-02-12 18:24:37->CONTATTO-AGGIORNATO: Il contatto #:2329: Julia Smidt |  | Smidt aggiornato (PIN: 99907307, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-12 18:25:31->CONTATTO-AGGIORNATO: Il contatto #:2329: Julia Smidt |  | Smidt aggiornato (PIN: 99907307, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-12 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-13 10:15:18->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio, data: 18-02-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-02-13 10:55:58->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Mirko Saginario |  | Saginario, data: 13-02-2019, dalle: 16:30 alle 17:30 - Maura Villeato
+2019-02-13 10:56:14->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Mirko Saginario |  | Saginario, data: 13-02-2019, dalle: 16:30 alle 17:30 - Maura Villeato
+2019-02-13 12:01:53->CONTATTO-AGGIORNATO: Il contatto #:2033: Vincenzo Ioffredi |  | Ioffredi aggiornato (PIN: 99808732, SCADENZA: 1970-01-01, TEL1: , TEL2: 0636003424, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-13 12:01:57->CONTATTO-AGGIORNATO: Il contatto #:2033: Vincenzo Ioffredi |  | Ioffredi aggiornato (PIN: 99808732, SCADENZA: 0000-00-00, TEL1: , TEL2: 0636003424, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-13 12:02:15->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 13-02-2019, dalle: 15:30 alle 17:30 - Maura Villeato
+2019-02-13 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-14 09:40:50->CONTATTO-AGGIORNATO: Il contatto #:2371: Cristian Stramacci | Agora Srl Unipersonale | Stramacci aggiornato (PIN: 99347741, SCADENZA: 0000-00-00, TEL1: 3381309829, TEL2: , TEL2: 3381309829, ALT EMAIL:  ) - Maura Villeato
+2019-02-14 09:41:18->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Cristian Stramacci | Agora Srl Unipersonale | Stramacci, data: 14-02-2019, dalle: 10:00 alle 12:00 - Maura Villeato
+2019-02-14 10:04:07->CONTATTO-AGGIORNATO: Il contatto #:2321: Luca Bertoletti |  | Bertoletti aggiornato (PIN: 99818378, SCADENZA: 2019-02-18, TEL1: 3451694519, TEL2: , TEL2: 3451694519, ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-14 10:32:29->CONTATTO-AGGIORNATO: Il contatto #:2377: Giovanni Tagliapietra | IL NUOVO CORRIERE EDITORIALE SRL | Tagliapietra aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3334909594, TEL2: , TEL2: 3334909594, ALT EMAIL:  ) - Francesca Donati
+2019-02-14 10:36:54->CONTATTO-ELIMINATO: Eliminato il contatto #2194: Giovanni Tagliapietra | INCE _ Il Nuovo Corriere Editoriale Srl da ACS - 
+2019-02-14 10:38:35->CONTATTO-AGGIORNATO: Il contatto #:2377: Giovanni Tagliapietra | IL NUOVO CORRIERE EDITORIALE SRL | Tagliapietra aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3334909594, TEL2: , TEL2: 3334909594, ALT EMAIL: gio.tagliapietra@gmail.com ) - Francesca Donati
+2019-02-14 10:38:48->CONTATTO-AGGIORNATO: Il contatto #:2377: Giovanni Tagliapietra | IL NUOVO CORRIERE EDITORIALE SRL | Tagliapietra aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3334909594, TEL2: , TEL2: 3334909594, ALT EMAIL: gio.tagliapietra@gmail.com ) - Francesca Donati
+2019-02-14 11:12:08->CONTATTO-AGGIORNATO: Il contatto #:2379: A B |  | B aggiornato (PIN: 99299939, SCADENZA: 0000-00-00, TEL1: , TEL2: 3, TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-14 12:48:26->CONTATTO-AGGIORNATO: Il contatto #:2380: Antonio Gabbi |  | Gabbi aggiornato (PIN: 99459594, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-02-14 14:41:53->CONTATTO-AGGIORNATO: Il contatto #:2382: Andrea Canalini |  | Canalini aggiornato (PIN: 99392272, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-14 14:42:00->CONTATTO-AGGIORNATO: Il contatto #:2382: Andrea Canalini |  | Canalini aggiornato (PIN: 99392272, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-14 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-15 08:39:59->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-02-15 - MASSIMILIANO SANTOLO
+2019-02-15 10:28:27->CONTATTO-AGGIORNATO: Il contatto #:146: Agnese Camilli | Avvocato Camilli Agnese aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-15 10:28:48->CONTATTO-AGGIORNATO: Il contatto #:2383: Ezio Carissimi |  | Carissimi aggiornato (PIN: 99160192, SCADENZA: 0000-00-00, TEL1: 3356507890, TEL2: , TEL2: 3356507890, ALT EMAIL:  ) - Maura Villeato
+2019-02-15 10:29:19->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Ezio Carissimi |  | Carissimi, data: 15-02-2019, dalle: 12:00 alle 13:00 - Maura Villeato
+2019-02-15 10:29:40->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 99568615, SCADENZA: 2019-02-18, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-15 10:31:57->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 99568615, SCADENZA: 1970-01-01, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-15 11:17:34->CONTATTO-AGGIORNATO: Il contatto #:2277: Massimiliano Liuzzi |  | Liuzzi aggiornato (PIN: 99289712, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-15 15:39:12->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Cristian Stramacci | Agora Srl Unipersonale | Stramacci, data: 18-02-2019, dalle: 10:00 alle 12:00 - Maura Villeato
+2019-02-15 17:02:41->CONTATTO-PIN: Assegnati uffici REG11 a MAURIZIO PAOLUCCI | STUDIO PAOLUCCI - Maura Villeato - Maura Villeato
+2019-02-15 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-16 10:50:56->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 55568615, SCADENZA: 0000-00-00, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-16 10:51:37->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 55568615, SCADENZA: 2019-02-14, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-16 10:52:40->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 99568615, SCADENZA: 1970-01-01, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-16 10:52:50->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 99568615, SCADENZA: 0000-00-00, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-16 10:53:32->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 2019-02-18, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com ) - MASSIMILIANO SANTOLO
+2019-02-16 10:53:45->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 2019-02-14, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com ) - MASSIMILIANO SANTOLO
+2019-02-16 10:54:16->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 0000-00-00, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com ) - MASSIMILIANO SANTOLO
+2019-02-16 10:54:21->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 2019-02-16, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com ) - MASSIMILIANO SANTOLO
+2019-02-16 10:54:28->CONTATTO-AGGIORNATO: Il contatto #:514: Massimiliano Santolo | SmartWorkingHub Santolo aggiornato (PIN: 95666666, SCADENZA: 0000-00-00, TEL1: +393931958785, TEL2: 0632803402, TEL2: +393931958785, ALT EMAIL: m.santolo@zoho.com ) - MASSIMILIANO SANTOLO
+2019-02-18 09:49:54->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 99568615, SCADENZA: 2019-02-18, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-18 09:49:58->CONTATTO-AGGIORNATO: Il contatto #:2384: Salvatore Coddetta | BP Euroconsult Srl | Coddetta aggiornato (PIN: 99568615, SCADENZA: 0000-00-00, TEL1: 3382441909, TEL2: , TEL2: 3382441909, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-18 11:52:32->CONTATTO-AGGIORNATO: Il contatto #:2389: Magnus Nordstrand |  | Nordstrand aggiornato (PIN: 99756080, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-18 14:24:06->CONTATTO-AGGIORNATO: Il contatto #:2390: Marcella Pasotti |  | Pasotti aggiornato (PIN: 99517080, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-18 17:00:26->CONTATTO-PIN: Disattivati tutti gli uffi a Accesso Cliente Day REG 5 |  - Maura Villeato - Maura Villeato
+2019-02-18 17:00:34->CONTATTO-AGGIORNATO: Il contatto #:1391: Accesso Cliente Day REG 5 |  aggiornato (PIN: 99436965, SCADENZA: 1970-01-01, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-18 17:00:44->CONTATTO-AGGIORNATO: Il contatto #:1391: Accesso Cliente Day REG 5 |  aggiornato (PIN: 99436965, SCADENZA: 2019-02-19, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-18 17:39:18->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a Accesso Cliente Day REG 5 |  - Maura Villeato - Maura Villeato
+2019-02-18 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-19 14:05:37->CONTATTO-AGGIORNATO: Il contatto #:2395: Luciano Di Piazza |  | Di Piazza aggiornato (PIN: 99457763, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-19 15:51:02->CONTATTO-AGGIORNATO: Il contatto #:1391: Accesso Cliente Day REG 5 |  aggiornato (PIN: 99436965, SCADENZA: 2019-02-20, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-19 17:53:41->CONTATTO-PIN: Assegnati uffici REG11 a Ezio Carissimi |  | Carissimi - Maura Villeato - Maura Villeato
+2019-02-19 17:54:27->CONTATTO-PIN: Assegnati uffici REG03, REG11 a Ezio Carissimi |  | Carissimi - Maura Villeato - Maura Villeato
+2019-02-19 17:59:00->CONTATTO-AGGIORNATO: Il contatto #:1390: Accesso Cliente Day REG 4 |  aggiornato (PIN: 99318589, SCADENZA: 2018-07-12, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-19 17:59:07->CONTATTO-AGGIORNATO: Il contatto #:1390: Accesso Cliente Day REG 4 |  aggiornato (PIN: 99318589, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-19 17:59:21->CONTATTO-PIN: Assegnati uffici REG11 a Accesso Cliente Day REG 4 |  - Maura Villeato - Maura Villeato
+2019-02-19 17:59:26->CONTATTO-AGGIORNATO: Il contatto #:1390: Accesso Cliente Day REG 4 |  aggiornato (PIN: 99318589, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-19 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-20 09:04:16->CONTATTO-AGGIORNATO: Il contatto #:2040: Ludovica Barbato | O.I.M. Organizzazione Internazionale per le Migrazioni | Barbato aggiornato (PIN: 55486985, SCADENZA: 2019-05-20, TEL1: *5018*770, TEL2: , TEL2: *5018*770, ALT EMAIL:  ) - Francesca Donati
+2019-02-20 09:04:37->CONTATTO-AGGIORNATO: Il contatto #:2040: Ludovica Barbato | O.I.M. Organizzazione Internazionale per le Migrazioni | Barbato aggiornato (PIN: 55486985, SCADENZA: 0000-00-00, TEL1: *5018*770, TEL2: , TEL2: *5018*770, ALT EMAIL:  ) - Francesca Donati
+2019-02-20 09:04:45->CONTATTO-AGGIORNATO: Il contatto #:2040: Ludovica Barbato | O.I.M. Organizzazione Internazionale per le Migrazioni | Barbato aggiornato (PIN: 55486985, SCADENZA: 0000-00-00, TEL1: *5018*770, TEL2: , TEL2: *5018*770, ALT EMAIL:  ) - Francesca Donati
+2019-02-20 09:05:45->CONTATTO-AGGIORNATO: Il contatto #:2040: Ludovica Barbato | O.I.M. Organizzazione Internazionale per le Migrazioni | Barbato aggiornato (PIN: 99486985, SCADENZA: 0000-00-00, TEL1: *5018*770, TEL2: , TEL2: *5018*770, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-02-20 09:14:28->CONTATTO-AGGIORNATO: Il contatto #:1391: Accesso Cliente Day REG 5 |  aggiornato (PIN: 99436965, SCADENZA: 2019-02-21, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-02-21 13:06:00->CONTATTO-AGGIORNATO: Il contatto #:1708: Orlando Ramos | Portiere Via Boezio  aggiornato (PIN: 99323482, SCADENZA: 0000-00-00, TEL1: 3289432644, TEL2: , TEL2: 3289432644, ALT EMAIL:  ) - Maura Villeato
+2019-02-21 16:48:26->CONTATTO-AGGIORNATO: Il contatto #:2400: Francesca Salucci |  | Salucci aggiornato (PIN: 99550645, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-21 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-22 10:12:01->CONTATTO-AGGIORNATO: Il contatto #:2398: Stefania Cervoni | A.I.C.I. Associazione Italiana Counseling | Cervoni aggiornato (PIN: 99915726, SCADENZA: 0000-00-00, TEL1: 3292639270, TEL2: , TEL2: 3292639270, ALT EMAIL:  ) - Agnese Micomonaco
+2019-02-22 16:48:04->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio, data: 25-02-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-02-22 17:01:24->CONTATTO-AGGIORNATO: Il contatto #:2030: Roberto De Biase | Il Prisma | De Biase aggiornato (PIN: 99750345, SCADENZA: 2019-02-25, TEL1: 3939917584, TEL2: , TEL2: 3939917584, ALT EMAIL:  ) - Maura Villeato
+2019-02-22 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-25 14:13:12->CONTATTO-AGGIORNATO: Il contatto #:2437: Laura Grun |  | Grun aggiornato (PIN: 99486465, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-25 14:14:53->CONTATTO-AGGIORNATO: Il contatto #:2438: Martina Causarano |  | Causarano aggiornato (PIN: 99486368, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-25 15:36:05->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Erika Cuccia | Hotelbeds Group Italy S.r.l. | Cuccia - Maura Villeato - Maura Villeato
+2019-02-25 15:36:59->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Chiara Maria Augello | Hotelbeds Group Italy S.r.l. | Augello - Maura Villeato - Maura Villeato
+2019-02-25 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-26 15:57:52->CONTATTO-AGGIORNATO: Il contatto #:2439: Carlo Camilli |  | Camilli aggiornato (PIN: 99656003, SCADENZA: 0000-00-00, TEL1: 3387746915, TEL2: , TEL2: 3387746915, ALT EMAIL:  ) - Maura Villeato
+2019-02-26 15:58:13->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Carlo Camilli |  | Camilli, data: 27-02-2019, dalle: 18:00 alle 19:00 - Maura Villeato
+2019-02-26 17:12:34->CONTATTO-AGGIORNATO: Il contatto #:2440: Santa Gangale |  | Gangale aggiornato (PIN: 99110486, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-02-26 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-02-27 08:47:45->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Gaia Biolcati |  | Biolcati, data: 27-02-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-02-27 08:49:20->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Claudio Serangeli |  | Serangeli, data: 27-02-2019, dalle: 13:30 alle 14:30 - Maura Villeato
+2019-02-27 17:24:32->CONTATTO-PIN: Assegnati uffici REG03 a Carlo Camilli |  | Camilli - Maura Villeato - Maura Villeato
+2019-02-27 17:29:52->CONTATTO-AGGIORNATO: Il contatto #:2439: Carlo Camilli |  | Camilli aggiornato (PIN: 99656003, SCADENZA: 0000-00-00, TEL1: 3387746915, TEL2: , TEL2: 3387746915, ALT EMAIL:  ) - Maura Villeato
+2019-02-28 16:49:40->CONTATTO-ELIMINATO: Eliminato il contatto #533: Agostino Pizzi | AGROROMA da ACS - 
+2019-02-28 16:50:10->CONTATTO-AGGIORNATO: Il contatto #:2119: Agostino Pizzi | Agroroma Srl | Pizzi aggiornato (PIN: 99845635, SCADENZA: 0000-00-00, TEL1: 3292636948, TEL2: , TEL2: 3292636948, ALT EMAIL:  ) - Valentina Tedesco
+2019-02-28 16:50:42->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Agostino Pizzi | Agroroma Srl | Pizzi, data: 01-03-2019, dalle: 15:00 alle 18:00 - Valentina Tedesco
+2019-02-28 16:53:25->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - Valentina Tedesco
+2019-02-28 16:53:40->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Agostino Pizzi | Agroroma Srl | Pizzi, data: 01-03-2019, dalle: 15:00 alle 18:00 - Valentina Tedesco
+2019-02-28 16:54:18->CONTATTO-PIN: Assegnati uffici REG11 a Agostino Pizzi | Agroroma Srl | Pizzi - Valentina Tedesco - Valentina Tedesco
+2019-02-28 16:54:23->CONTATTO-AGGIORNATO: Il contatto #:2119: Agostino Pizzi | Agroroma Srl | Pizzi aggiornato (PIN: 99845635, SCADENZA: 0000-00-00, TEL1: 3292636948, TEL2: , TEL2: 3292636948, ALT EMAIL:  ) - Valentina Tedesco
+2019-02-28 18:22:20->CONTATTO-PIN: Disattivati tutti gli uffi a Agostino Pizzi | Agroroma Srl | Pizzi - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-02-28 19:00:02->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-01 09:22:07->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 01-03-2019, dalle: 17:30 alle 18:30 - Maura Villeato
+2019-03-01 15:10:36->CONTATTO-AGGIORNATO: Il contatto #:2442: Andrea Serpietri |  | Serpietri aggiornato (PIN: 99862933, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:14:21->CONTATTO-AGGIORNATO: Il contatto #:2442: Andrea Serpietri |  | Serpietri aggiornato (PIN: 99862933, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:14:34->CONTATTO-AGGIORNATO: Il contatto #:2443: Letizia Caria |  | Caria aggiornato (PIN: 99400975, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:18:21->CONTATTO-AGGIORNATO: Il contatto #:2444: Mario Della Ragione |  | Della Ragione aggiornato (PIN: 99624083, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:19:05->CONTATTO-AGGIORNATO: Il contatto #:2444: Mario Della Ragione |  | Della Ragione aggiornato (PIN: 99624083, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:19:12->CONTATTO-AGGIORNATO: Il contatto #:2443: Letizia Caria |  | Caria aggiornato (PIN: 99400975, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:24:09->CONTATTO-AGGIORNATO: Il contatto #:2445: Nicoletta Della Valle |  | Della Valle aggiornato (PIN: 99765048, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:26:13->CONTATTO-AGGIORNATO: Il contatto #:2446: Debora Gentili |  | Gentili aggiornato (PIN: 99360063, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:29:27->CONTATTO-AGGIORNATO: Il contatto #:2448: Domenico Lupone |  | Lupone aggiornato (PIN: 99326766, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:31:00->CONTATTO-AGGIORNATO: Il contatto #:2449: Marco Modestini |  | Modestini aggiornato (PIN: 99722200, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:32:37->CONTATTO-AGGIORNATO: Il contatto #:2449: Marco Modestini |  | Modestini aggiornato (PIN: 99722200, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:33:02->CONTATTO-AGGIORNATO: Il contatto #:2449: Marco Modestini |  | Modestini aggiornato (PIN: 99722200, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:38:55->CONTATTO-AGGIORNATO: Il contatto #:2452: Claudio Romeo |  | Romeo aggiornato (PIN: 99676077, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 15:40:14->CONTATTO-AGGIORNATO: Il contatto #:2453: Fabio Giovi |  | Giovi aggiornato (PIN: 99297695, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-01 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-04 09:02:56->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio, data: 04-03-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-03-04 09:03:33->CONTATTO-AGGIORNATO: Il contatto #:2435: Roberto Romano |  | Romano aggiornato (PIN: 99308904, SCADENZA: 0000-00-00, TEL1: 3279522336, TEL2: 0686213175, TEL2: 3279522336, ALT EMAIL:  ) - Maura Villeato
+2019-03-04 09:14:50->CONTATTO-AGGIORNATO: Il contatto #:2454: Doriana Standoli |  | Standoli aggiornato (PIN: 130581, SCADENZA: 2019-06-05, TEL1: 3295308530, TEL2: , TEL2: 3295308530, ALT EMAIL:  ) - Agnese Micomonaco
+2019-03-04 09:15:57->CONTATTO-AGGIORNATO: Il contatto #:2454: Doriana Standoli |  | Standoli aggiornato (PIN: 130581, SCADENZA: 2019-05-06, TEL1: 3295308530, TEL2: , TEL2: 3295308530, ALT EMAIL:  ) - Agnese Micomonaco
+2019-03-04 09:53:28->CONTATTO-AGGIORNATO: Il contatto #:2456: Beniamino Pisano |  | Pisano aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: *7040*7703355209109, TEL2: , TEL2: *7040*7703355209109, ALT EMAIL:  ) - Francesca Donati
+2019-03-04 10:50:20->CONTATTO-AGGIORNATO: Il contatto #:1950: Lorenzo Varchetta | PICK CENTER MNTN aggiornato (PIN: 95692122, SCADENZA: 2019-02-28, TEL1: 3383558495, TEL2: , TEL2: 3383558495, ALT EMAIL:  ) - Maura Villeato
+2019-03-04 10:50:32->CONTATTO-AGGIORNATO: Il contatto #:1950: Lorenzo Varchetta | PICK CENTER MNTN aggiornato (PIN: 55692122, SCADENZA: 1970-01-01, TEL1: 3383558495, TEL2: , TEL2: 3383558495, ALT EMAIL:  ) - Maura Villeato
+2019-03-04 11:03:39->CONTATTO-AGGIORNATO: Il contatto #:2459: Stefano Guidoni |  | Guidoni aggiornato (PIN: 99256460, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-04 11:04:00->CONTATTO-AGGIORNATO: Il contatto #:2459: Stefano Guidoni |  | Guidoni aggiornato (PIN: 99256460, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-04 11:06:46->CONTATTO-AGGIORNATO: Il contatto #:2460: Clara Di Giulio |  | Di Giulio aggiornato (PIN: 99332832, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-03-04 11:07:26->CONTATTO-AGGIORNATO: Il contatto #:2460: Clara Di Giulio |  | Di Giulio aggiornato (PIN: 99332832, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-03-04 14:29:08->CONTATTO-AGGIORNATO: Il contatto #:2451: Alfredo Nunziata |  | Nunziata aggiornato (PIN: 99612252, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-04 14:29:18->CONTATTO-AGGIORNATO: Il contatto #:2451: Alfredo Nunziata |  | Nunziata aggiornato (PIN: 99612252, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-04 15:19:37->CONTATTO-AGGIORNATO: Il contatto #:2466: Sabrina Mogli&egrave; | Gruppo Pragma S.r.l. | Mogli&egrave; aggiornato (PIN: 99570362, SCADENZA: 0000-00-00, TEL1: 3293815232, TEL2: , TEL2: 3293815232, ALT EMAIL:  ) - Maura Villeato
+2019-03-04 17:05:16->CONTATTO-AGGIORNATO: Il contatto #:2460: Clara Di Giulio |  | Di Giulio aggiornato (PIN: 99332832, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-03-04 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-05 14:33:57->CONTATTO-AGGIORNATO: Il contatto #:2473: Mariana Giuliano | Airhelp LTD | Giuliano aggiornato (PIN: 99221358, SCADENZA: 0000-00-00, TEL1: *5006*7703485107516, TEL2: , TEL2: *5006*7703485107516, ALT EMAIL:  ) - Francesca Donati
+2019-03-05 19:00:03->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-06 11:27:31->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a Raffaella Neri | PICK CENTER NERI - Valentina Tedesco - Valentina Tedesco
+2019-03-06 11:27:44->CONTATTO-AGGIORNATO: Il contatto #:1036: Raffaella Neri | PICK CENTER NERI aggiornato (PIN: 95232323, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-03-06 11:27:48->CONTATTO-AGGIORNATO: Il contatto #:1036: Raffaella Neri | PICK CENTER NERI aggiornato (PIN: 95232323, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-03-06 11:28:46->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a ILARIA QUATTRINI | PICK CENTER QUATTRINI - Valentina Tedesco - Valentina Tedesco
+2019-03-06 11:28:49->CONTATTO-AGGIORNATO: Il contatto #:1035: ILARIA QUATTRINI | PICK CENTER QUATTRINI aggiornato (PIN: 95171717, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-03-06 11:29:16->CONTATTO-AGGIORNATO: Il contatto #:1035: ILARIA QUATTRINI | PICK CENTER QUATTRINI aggiornato (PIN: 95171717, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-03-06 11:41:37->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Cristian Stramacci | Agora Srl Unipersonale | Stramacci, data: 06-03-2019, dalle: 12:00 alle 16:00 - Maura Villeato
+2019-03-06 17:08:38->CONTATTO-AGGIORNATO: Il contatto #:2479: Cosleep Codice Prova |  | Codice Prova aggiornato (PIN: 80463766, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-03-06 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-07 09:22:25->CONTATTO-AGGIORNATO: Il contatto #:2028: Maria Alessandra Iazzi |  | Iazzi aggiornato (PIN: 99702307, SCADENZA: 0000-00-00, TEL1: 3475465300, TEL2: , TEL2: 3475465300, ALT EMAIL:  ) - Maura Villeato
+2019-03-07 09:22:33->CONTATTO-PIN: Disattivati tutti gli uffi a Maria Alessandra Iazzi |  | Iazzi - Maura Villeato - Maura Villeato
+2019-03-07 09:23:04->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Maria Alessandra Iazzi |  | Iazzi, data: 07-03-2019, dalle: 14:30 alle 15:30 - Maura Villeato
+2019-03-07 10:02:22->CONTATTO-AGGIORNATO: Il contatto #:2480: Andrea Onorati |  | Onorati aggiornato (PIN: 99342188, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-07 13:25:27->CONTATTO-AGGIORNATO: Il contatto #:2450: Arianna Natalucci |  | Natalucci aggiornato (PIN: 99131402, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-03-07 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-08 10:25:35->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG12 a Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella - Valentina Tedesco - Valentina Tedesco
+2019-03-08 10:26:03->CONTATTO-PIN: Assegnati uffici REG02, REG09, REG10, REG13 a Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella - Valentina Tedesco - Valentina Tedesco
+2019-03-08 10:26:27->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella - Valentina Tedesco - Valentina Tedesco
+2019-03-08 10:26:32->CONTATTO-AGGIORNATO: Il contatto #:2049: Fabiana Gambardella | Hotelbeds Group Italy S.r.l. | Gambardella aggiornato (PIN: 99643557, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Valentina Tedesco
+2019-03-08 14:04:45->CONTATTO-PIN: Assegnati uffici REG03 a Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio - Roberta Ghilardelli - Roberta Ghilardelli
+2019-03-08 14:04:48->CONTATTO-AGGIORNATO: Il contatto #:2365: Amedeo Polisicchio | Experta Srl a socio unico | Polisicchio aggiornato (PIN: 99924009, SCADENZA: 0000-00-00, TEL1: 3668986530, TEL2: , TEL2: 3668986530, ALT EMAIL:  ) - Roberta Ghilardelli
+2019-03-08 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-11 09:14:03->CONTATTO-AGGIORNATO: Il contatto #:2484: Marianna Blasio |  | Blasio aggiornato (PIN: 99870235, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-03-11 09:14:29->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Marianna Blasio |  | Blasio - Maura Villeato - Maura Villeato
+2019-03-11 09:18:37->CONTATTO-AGGIORNATO: Il contatto #:2471: Tommaso Iacopi | Airhelp LTD | Iacopi aggiornato (PIN: 99640173, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-03-11 10:00:04->CONTATTO-AGGIORNATO: Il contatto #:2485: Emanuela Yovanidis |  | Yovanidis aggiornato (PIN: 99604414, SCADENZA: 0000-00-00, TEL1: 3283525183, TEL2: 0698352275, TEL2: 3283525183, ALT EMAIL:  ) - Maura Villeato
+2019-03-11 10:02:08->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Emanuela Yovanidis |  | Yovanidis, data: 11-03-2019, dalle: 16:00 alle 17:00 - Maura Villeato
+2019-03-11 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-12 10:58:39->CONTATTO-AGGIORNATO: Il contatto #:2487: Richard Kloosterman |  | Kloosterman aggiornato (PIN: 99525944, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-12 11:00:02->CONTATTO-AGGIORNATO: Il contatto #:2486: Riccardo Piersantelli | INTERSOFT C.E.E. SRL | Piersantelli aggiornato (PIN: 99207185, SCADENZA: 0000-00-00, TEL1: *8029*77000393925367312, TEL2: , TEL2: *8029*77000393925367312, ALT EMAIL:  ) - Pina Aloisi
+2019-03-12 11:00:31->CONTATTO-AGGIORNATO: Il contatto #:2486: Riccardo Piersantelli | INTERSOFT C.E.E. SRL | Piersantelli aggiornato (PIN: 99207185, SCADENZA: 0000-00-00, TEL1: *8029*77000393925367312, TEL2: , TEL2: *8029*77000393925367312, ALT EMAIL:  ) - Pina Aloisi
+2019-03-12 11:03:02->CONTATTO-AGGIORNATO: Il contatto #:2488: Emilio Puglisi |  | Puglisi aggiornato (PIN: 99264538, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-12 12:42:14->CONTATTO-AGGIORNATO: Il contatto #:2490: Mauro Simeone |  | Simeone aggiornato (PIN: 99421875, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-12 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-13 09:28:03->CONTATTO-PIN: Assegnati uffici REG11 a Maria Alessandra Iazzi |  | Iazzi - Maura Villeato - Maura Villeato
+2019-03-13 09:28:09->CONTATTO-AGGIORNATO: Il contatto #:2028: Maria Alessandra Iazzi |  | Iazzi aggiornato (PIN: 99702307, SCADENZA: 0000-00-00, TEL1: 3475465300, TEL2: , TEL2: 3475465300, ALT EMAIL:  ) - Maura Villeato
+2019-03-13 09:30:51->CONTATTO-AGGIORNATO: Il contatto #:2492: Giancarlo De Bernardis | KEY ELEMENT Srl | De Bernardis aggiornato (PIN: 99309222, SCADENZA: 0000-00-00, TEL1: 3312624812, TEL2: , TEL2: 3312624812, ALT EMAIL:  ) - Pina Aloisi
+2019-03-13 09:31:12->CONTATTO-AGGIORNATO: Il contatto #:2492: Giancarlo De Bernardis | KEY ELEMENT Srl | De Bernardis aggiornato (PIN: 99309222, SCADENZA: 0000-00-00, TEL1: 3312624812, TEL2: , TEL2: 3312624812, ALT EMAIL:  ) - Pina Aloisi
+2019-03-13 09:40:54->CONTATTO-PIN: Disattivati tutti gli uffi a Cinzia Russo |  | Russo - Maura Villeato - Maura Villeato
+2019-03-13 09:41:15->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 13-03-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-03-13 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-14 11:56:45->CONTATTO-AGGIORNATO: Il contatto #:2495: Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo aggiornato (PIN: 99314352, SCADENZA: 0000-00-00, TEL1: *6666*7703931958785, TEL2: 0632803402, TEL2: *6666*7703931958785, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-03-14 13:15:54->CONTATTO-AGGIORNATO: Il contatto #:2030: Roberto De Biase | Il Prisma | De Biase aggiornato (PIN: 99750345, SCADENZA: 0000-00-00, TEL1: 3939917584, TEL2: , TEL2: 3939917584, ALT EMAIL:  ) - Maura Villeato
+2019-03-14 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-15 11:14:16->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Carolina Baldini | Hotelbeds Group Italy S.r.l. | Baldini - Maura Villeato - Maura Villeato
+2019-03-15 13:30:24->CONTATTO-AGGIORNATO: Il contatto #:2496: Giuliano Pierucci |  | Pierucci aggiornato (PIN: 99220494, SCADENZA: 0000-00-00, TEL1: 3917573066, TEL2: , TEL2: 3917573066, ALT EMAIL:  ) - Reception Generico
+2019-03-15 14:01:58->CONTATTO-AGGIORNATO: Il contatto #:2052: Massimiliano Marzoli | Hotelbeds Group Italy S.r.l. | Marzoli aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-03-15 14:07:45->CONTATTO-AGGIORNATO: Il contatto #:2496: Giuliano Pierucci |  | Pierucci aggiornato (PIN: 99220494, SCADENZA: 0000-00-00, TEL1: 3917573066, TEL2: , TEL2: 3917573066, ALT EMAIL:  ) - Reception Generico
+2019-03-15 17:09:27->CONTATTO-AGGIORNATO: Il contatto #:2501: Gianluca Imperiale |  | Imperiale aggiornato (PIN: 99319330, SCADENZA: 0000-00-00, TEL1: 3934880170, TEL2: , TEL2: 3934880170, ALT EMAIL:  ) - Reception Generico
+2019-03-15 17:36:22->CONTATTO-AGGIORNATO: Il contatto #:2501: Gianluca Imperiale |  | Imperiale aggiornato (PIN: 99319330, SCADENZA: 0000-00-00, TEL1: 3934880170, TEL2: , TEL2: 3934880170, ALT EMAIL:  ) - Reception Generico
+2019-03-15 17:36:54->CONTATTO-AGGIORNATO: Il contatto #:2501: Gianluca Imperiale |  | Imperiale aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3934880170, TEL2: , TEL2: 3934880170, ALT EMAIL:  ) - Reception Generico
+2019-03-15 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-16 19:00:04->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-17 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-18 08:54:26->CONTATTO-PIN: Disattivati tutti gli uffi a Cheng Zhao | ET-GO COMPANY S.r.l.s. | Zhao - Maura Villeato - Maura Villeato
+2019-03-18 08:54:35->CONTATTO-AGGIORNATO: Il contatto #:2284: Cheng Zhao | ET-GO COMPANY S.r.l.s. | Zhao aggiornato (PIN: 55942600, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-03-18 08:55:11->CONTATTO-PIN: Disattivati tutti gli uffi a Luna Xie | ET-GO COMPANY S.r.l.s. | Xie - Maura Villeato - Maura Villeato
+2019-03-18 08:55:30->CONTATTO-AGGIORNATO: Il contatto #:2282: Luna Xie | ET-GO COMPANY S.r.l.s. | Xie aggiornato (PIN: 55478320, SCADENZA: 0000-00-00, TEL1: 3388241468, TEL2: , TEL2: 3388241468, ALT EMAIL:  ) - Maura Villeato
+2019-03-18 08:56:05->CONTATTO-PIN: Disattivati tutti gli uffi a Carlo Caboni | ET-GO COMPANY S.r.l.s. | Caboni - Maura Villeato - Maura Villeato
+2019-03-18 08:56:16->CONTATTO-AGGIORNATO: Il contatto #:2231: Carlo Caboni | ET-GO COMPANY S.r.l.s. | Caboni aggiornato (PIN: 55659160, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-03-18 09:42:45->CONTATTO-AGGIORNATO: Il contatto #:2504: Francesca Cataldi |  | Cataldi aggiornato (PIN: 99784446, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-03-18 09:43:16->CONTATTO-AGGIORNATO: Il contatto #:2504: Francesca Cataldi |  | Cataldi aggiornato (PIN: 99784446, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-03-18 17:02:58->CONTATTO-AGGIORNATO: Il contatto #:2507: Ester Sarto |  | Sarto aggiornato (PIN: 99924931, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-18 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-19 09:33:58->CONTATTO-AGGIORNATO: Il contatto #:2508: Marta Cardillo |  | Cardillo aggiornato (PIN: 99217947, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-03-19 09:34:58->CONTATTO-AGGIORNATO: Il contatto #:2508: Marta Cardillo |  | Cardillo aggiornato (PIN: 99217947, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-03-19 17:14:20->CONTATTO-AGGIORNATO: Il contatto #:2525: Matteo Prete | Prete | Prete aggiornato (PIN: 99189655, SCADENZA: 0000-00-00, TEL1: *8045*7703409439652, TEL2: , TEL2: *8045*7703409439652, ALT EMAIL:  ) - Pina Aloisi
+2019-03-19 17:14:29->CONTATTO-AGGIORNATO: Il contatto #:2525: Matteo Prete | Prete | Prete aggiornato (PIN: 99189655, SCADENZA: 0000-00-00, TEL1: *8045*7703409439652, TEL2: , TEL2: *8045*7703409439652, ALT EMAIL:  ) - Pina Aloisi
+2019-03-19 17:22:45->CONTATTO-AGGIORNATO: Il contatto #:2275: Giovanni Valensise | Hotelbeds Group Italy S.r.l. | Valensise aggiornato (PIN: 99400092, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-03-19 17:23:29->CONTATTO-PIN: Assegnati uffici REG02 a Giovanni Valensise | Hotelbeds Group Italy S.r.l. | Valensise - Maura Villeato - Maura Villeato
+2019-03-19 19:00:01->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-20 09:21:12->CONTATTO-AGGIORNATO: Il contatto #:2510: Daniele Cafora |  | Cafora aggiornato (PIN: 99297278, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-20 09:22:06->CONTATTO-AGGIORNATO: Il contatto #:2518: Matteo Dardari |  | Dardari aggiornato (PIN: 99287212, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-20 09:22:08->CONTATTO-AGGIORNATO: Il contatto #:2518: Matteo Dardari |  | Dardari aggiornato (PIN: 99287212, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-20 09:22:35->CONTATTO-AGGIORNATO: Il contatto #:2521: Salvatore Mecca |  | Mecca aggiornato (PIN: 99890478, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-20 09:22:39->CONTATTO-AGGIORNATO: Il contatto #:2521: Salvatore Mecca |  | Mecca aggiornato (PIN: 99890478, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-20 09:23:01->CONTATTO-AGGIORNATO: Il contatto #:2514: Francesco Fontana |  | Fontana aggiornato (PIN: 99329336, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-03-20 19:00:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - 
+2019-03-21 08:51:04->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG11 cliente: Gaia Biolcati |  | Biolcati, data: 21-03-2019, dalle: 09:30 alle 11:30 - Maura Villeato

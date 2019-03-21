@@ -1,0 +1,1 @@
+wget -qO- http://acs.pickcenter.com/checkinday/cron_checkin.php >>log.txt

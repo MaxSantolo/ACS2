@@ -1,0 +1,1 @@
+wget -qO- http://acs.pickcenter.com/pinutils/cron_pinslst.php >>log.txt
