@@ -27,7 +27,8 @@ class Log
     public static function wLog($message,$type = 'Evento') {
         $now = ACSBase::Now();
         $logfile = $_SERVER['DOCUMENT_ROOT'].'/tech/logs/general.log';
-        $text = $now."->".$type.": ".$message." - ".$_SESSION['user_name'].PHP_EOL;
+        ($_SESSION['user_name'] == "") ? $user = 'SISTEMA' : $user = $_SESSION['user_name'];
+        $text = $now."->".$type.": ".$message." - ".$user.PHP_EOL;
         file_put_contents($logfile,$text,FILE_APPEND);
     }
 

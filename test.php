@@ -3,6 +3,7 @@
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/builder.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/ACSBase.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/DB.php';
+require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/PickLog.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/Log.php';
 
 builder::startSession();
@@ -10,8 +11,17 @@ builder::Header('ACS 2.0 - Menu Principale','sfondo.jpg');
 builder::Navbar('DataTable');
 
 $db = new DB();
-$conn_vb = $db->getPBXConn('asterisk');
+$conn_vb = $db->getPBXConn('asteriskcdrdb');
 
+/*$plog = new PickLog();
+
+$result = $conn_vb->query("SELECT * FROM acs_checkday");
+
+
+
+echo $text = urlencode($plog->sql2Text($result) . "(" . $conn_vb->affected_rows . " righe)");
+
+$res = $plog->sendLog(array('app' => 'ACS','action' => 'parolina22','content' => $text,'user' => 'Max',));*/
 
 
 /*$text = "<table>

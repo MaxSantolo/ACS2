@@ -10,9 +10,13 @@ class Mail extends PHPMailer
 {
     public function __construct($exceptions=true)
     {
-        $this->CharSet="UTF-8";
-        $this->Host = '10.20.20.227';
-        $this->SMTPAuth = false;
+        $this->CharSet= 'UTF-8';
+        $this->Host = 'smtp.gmail.com';
+        $this->SMTPAuth = true;
+        $this->Port = 587;
+        $this->SMTPSecure = 'tls';
+        $this->Username = "info@pickcenter.com";
+        $this->Password = "fm105pick";
         $this->isSMTP();
         parent::__construct($exceptions);
     }

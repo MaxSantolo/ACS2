@@ -361,10 +361,28 @@ class DB
 
     //registra i pin modificati
     function registerPinChange($conn,$oldpin,$vbid) {
+
+        require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/PickLog.php';
+
         $now = ACSBase::Now();
         if ($oldpin != '') {
-            $conn->query("INSERT INTO acs_pinchange (phoneb_id,old_pin,cdate,cuser) VALUES ('{$vbid}','{$oldpin}','{$now}','{$_SESSION['user_name']}')");
-            //echo "INSERT INTO acs_pinchange (phoneb_id,old_pin,cdate,cuser) VALUES ('{$vbid}','{$oldpin}','{$now}','{$_SESSION['user_name']}')";
+
+            $sql = "INSERT INTO acs_pinchange (phoneb_id,old_pin,cdate,cuser) VALUES ('{$vbid}','{$oldpin}','{$now}','{$_SESSION['user_name']}')";
+            $conn->query($sql);
+
+            $plog = new PickLog();
+            $content = $sql;
+            $params = array(
+                'app' => 'ACS',
+                'action' => 'MOD_PIN',
+                'content' => $content . PHP_EOL . "Numero di righe: " . $conn->affected_rows,
+                'user' => $_SESSION['user_name'],
+                'description' => "Registro la modifica al PIN",
+                'origin' => 'PBX.asterisk.visual_phonebook',
+                'destination' => 'PBM.asteriskcdrdb.acs_pinchange',
+            );
+            $plog->sendLog($params);
+
         }
     }
     //se utente ha dei cambiamenti di pin registrati mostra pulsante sulla pagina vbdetail.php

@@ -13,48 +13,36 @@
     <pharConfigPath>$PROJECT_DIR$/bin/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="intcom_grps.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php">
+    <leaf>
+      <file leaf-file-name="cron_checkin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1944">
-              <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+            <state relative-caret-position="648">
+              <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intcom_grps.ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php">
+      <file leaf-file-name="cron_pinslst.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinutils/cron_pinslst.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="69" />
+            <state relative-caret-position="558">
+              <caret line="76" column="41" lean-forward="true" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builder.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struct/classes/builder.php">
+      <file leaf-file-name="vbdetail.ajax.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinutils/vbdetail.ajax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2466">
-              <caret line="137" column="82" selection-start-line="137" selection-start-column="82" selection-end-line="137" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DB.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struct/classes/DB.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10134">
-              <caret line="568" column="91" selection-start-line="568" selection-start-column="91" selection-end-line="568" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="whole_search.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/whole_search.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3258">
-              <caret line="181" column="49" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="49" />
+            <state>
+              <folding>
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,45 +50,25 @@
       <file leaf-file-name="vbdetail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pinutils/vbdetail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3474">
-              <caret line="193" column="59" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="59" />
+            <state relative-caret-position="-162">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acs2.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/acs2.ini">
+      <file leaf-file-name="DB.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/struct/classes/DB.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="560">
+              <caret line="377" column="93" selection-start-line="377" selection-start-column="93" selection-end-line="377" selection-end-column="93" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="PickLog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struct/classes/PickLog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkinday.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/checkinday/checkinday.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="107" column="80" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkinday.ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/checkinday/checkinday.ajax.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-            </state>
+            <state relative-caret-position="-318" />
           </provider>
         </entry>
       </file>
@@ -111,9 +79,13 @@
       <find>visual_phonebook</find>
       <find>delete from visual_phonebook</find>
       <find>meta</find>
+      <find>log</find>
+      <find>wlog</find>
+      <find>lo</find>
     </findStrings>
     <dirStrings>
       <dir>U:\acs2</dir>
+      <dir>W:\acs2</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -124,15 +96,18 @@
       <list>
         <option value="$PROJECT_DIR$/pinutils/addrbook.ajax.php" />
         <option value="$PROJECT_DIR$/pinutils/addrbook.php" />
-        <option value="$PROJECT_DIR$/pinutils/vbdetail.php" />
-        <option value="$PROJECT_DIR$/checkinday/cron_checkin.php" />
         <option value="$PROJECT_DIR$/struct/classes/builder.php" />
-        <option value="$PROJECT_DIR$/struct/classes/Log.php" />
-        <option value="$PROJECT_DIR$/acs2.ini" />
         <option value="$PROJECT_DIR$/areaclienti/cancella.php" />
-        <option value="$PROJECT_DIR$/pinutils/cron_pinslst.php" />
-        <option value="$PROJECT_DIR$/struct/classes/DB.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/acs2.ini" />
+        <option value="$PROJECT_DIR$/struct/classes/Mail.php" />
+        <option value="$PROJECT_DIR$/struct/classes/PickLog.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/struct/classes/Log.php" />
+        <option value="$PROJECT_DIR$/pinutils/cron_pinslst.php" />
+        <option value="$PROJECT_DIR$/checkinday/cron_checkin.php" />
+        <option value="$PROJECT_DIR$/pinutils/vbdetail.php" />
+        <option value="$PROJECT_DIR$/struct/classes/DB.php" />
       </list>
     </option>
   </component>
@@ -164,7 +139,6 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -174,6 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,17 +166,22 @@
               <item name="acs2" type="462c0819:PsiDirectoryNode" />
               <item name="struct" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="acs2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acs2" type="462c0819:PsiDirectoryNode" />
+              <item name="struct" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="grpdeldata&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="T:/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -259,27 +239,42 @@
       <workItem from="1551946859669" duration="247000" />
       <workItem from="1552400247578" duration="378000" />
       <workItem from="1553153720582" duration="79000" />
-      <workItem from="1553156157156" duration="167000" />
+      <workItem from="1553156157156" duration="767000" />
+      <workItem from="1553158351593" duration="623000" />
+      <workItem from="1553176877752" duration="39000" />
+      <workItem from="1553685023205" duration="1037000" />
+      <workItem from="1553686993360" duration="72000" />
+      <workItem from="1554100902157" duration="173000" />
+      <workItem from="1554101083422" duration="35000" />
+      <workItem from="1554101145017" duration="1773000" />
+      <workItem from="1554108723461" duration="661000" />
+      <workItem from="1554110501846" duration="25000" />
+      <workItem from="1554110802620" duration="1085000" />
+      <workItem from="1554116381839" duration="31000" />
+      <workItem from="1554117668138" duration="563000" />
+      <workItem from="1554363348640" duration="15000" />
+      <workItem from="1554363417914" duration="5060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43916000" />
+    <option name="totallyTimeSpent" value="55708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1171875" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32897604" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1171875" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,7 +283,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,328 +297,112 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/acs2.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/struct/classes/builder.php" />
+    <entry file="file://$PROJECT_DIR$/menu.php" />
+    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php" />
+    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/menu.php" />
+    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php" />
+    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/menu.php" />
+    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php" />
+    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/menu.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php" />
+    <entry file="file://$PROJECT_DIR$/struct/classes/builder.php" />
+    <entry file="file://$PROJECT_DIR$/whole_search.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/acs2.ini" />
+    <entry file="file://$PROJECT_DIR$/checkinday/checkinday.ajax.php" />
+    <entry file="file://$PROJECT_DIR$/checkinday/checkinday.php" />
+    <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
+        <state relative-caret-position="-660" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/DB.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11592">
-          <caret line="649" column="35" lean-forward="true" selection-start-line="649" selection-start-column="35" selection-end-line="649" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/vbdetail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4284">
-          <caret line="238" column="103" selection-start-line="238" selection-start-column="103" selection-end-line="238" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="161" column="21" selection-start-line="159" selection-start-column="29" selection-end-line="161" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/builder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2466">
-          <caret line="137" column="82" selection-start-line="137" selection-start-column="82" selection-end-line="137" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="161" column="21" selection-start-line="159" selection-start-column="29" selection-end-line="161" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="161" column="21" selection-start-line="159" selection-start-column="29" selection-end-line="161" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="161" column="21" lean-forward="true" selection-start-line="159" selection-start-column="29" selection-end-line="161" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/addrbook.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/areaclienti/cancella.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="396">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/struct/classes/Mail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struct/classes/Log.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="396">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinutils/vbdetail.ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#thead#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struct/classes/PickLog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkinday/cron_checkin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pinutils/cron_pinslst.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" selection-start-line="7" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/checkinday.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="107" column="80" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkinday/checkinday.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/DB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10134">
-          <caret line="568" column="91" selection-start-line="568" selection-start-column="91" selection-end-line="568" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinutils/intcom_grps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struct/classes/builder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2466">
-          <caret line="137" column="82" selection-start-line="137" selection-start-column="82" selection-end-line="137" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/whole_search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3258">
-          <caret line="181" column="49" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="49" />
+        <state relative-caret-position="558">
+          <caret line="76" column="41" lean-forward="true" selection-start-line="76" selection-start-column="41" selection-end-line="76" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pinutils/vbdetail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3474">
-          <caret line="193" column="59" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="59" />
+        <state relative-caret-position="-162">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/acs2.ini">
+    <entry file="file://$PROJECT_DIR$/struct/classes/DB.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="560">
+          <caret line="377" column="93" selection-start-line="377" selection-start-column="93" selection-end-line="377" selection-end-column="93" />
         </state>
       </provider>
     </entry>

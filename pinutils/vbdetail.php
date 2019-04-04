@@ -38,7 +38,9 @@ if ($vbid != '') {
     $p2 = $vb['phone2'];
     $p3 = $vb['phone3'];
     $pin = $vb['pin'];
-    $pe = $db->dateFormat($vb['scadenza_pin'],'d/m/Y');
+
+    ($vb['scadenza_pin'] == '0000-00-00') ? $pe = '' : $pe = $db->dateFormat($vb['scadenza_pin'],'d/m/Y');
+
     $tp = $vb['tipo'];
     $em = $vb['email'];
     $em1 = $vb['email2'];
@@ -55,7 +57,7 @@ if ($vbid != '') {
 }
 if (isset($_POST["vbedit"])) {
     $fpin = $_POST['pin'];
-    $_POST['expdate'] == '' ? $fep = '0000-00-00' : $fep = date('Y-m-d',strtotime($_POST['expdate']));
+    $_POST['expdate'] == '' ? $fep = NULL : $fep = date('Y-m-d',strtotime($_POST['expdate']));
     $fp1 = $_POST['telefono1'];
     $fp2 = $_POST['telefono2'];
     $fp3 = $_POST['telefono3'];

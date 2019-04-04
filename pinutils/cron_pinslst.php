@@ -5,6 +5,7 @@ require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/builder.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/ACSBase.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/DB.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/Log.php';
+require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/PickLog.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/tech/class/PHPMailerAutoload.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/Mail.php';
 
@@ -47,6 +48,7 @@ if ($result->num_rows > 0) {
         $todayfile = Log::wTodayPinFile($table);
         //echo $todayfile;
         $ini = builder::readIniFile();
+        $now = ACSBase::Now();
 
         if (md5_file($todayfile) != md5_file($yesterdayfile)) {
           //echo $date2check.'<br>'.$time2check.'<br>'.$time23; //test
@@ -55,12 +57,27 @@ if ($result->num_rows > 0) {
                                     $ini['Email']['NomeNotificaPin'],
                                     $ini['Email']['From'],
                                     $ini['Email']['FromName'],
-                               'Pick Center - Lista persone autorizzate con PIN - '.$date2check,
+                               'Pick Center - Lista persone autorizzate con PIN - '.$now,
                                     $table,
                                     array($ini['Email']['NotificaPinCC'],$ini['Email']['NotificaPinCCPC2'],$ini['Email']['NotificaPinCCPC']));
 
-
+        //log locale dell'app
           Log::wLog('Inviata Mail Pin a '.$ini['Email']['NotificaPin'].', '.$ini['Email']['NotificaPinCC'].', '.$ini['Email']['NotificaPinCCPC2'].', '.$ini['Email']['NotificaPinCCPC'], 'SISTEMA');
+
+        //.logs
+            $plog = new PickLog();
+            $content = $table;
+            $params = array(
+                'app' => 'ACS',
+                'action' => 'COD_SICUR',
+                'content' => $content,
+                'user' => $_SESSION['user_name'],
+                'description' => "Inviata Mail Pin a {$ini['Email']['NotificaPin']}, {$ini['Email']['NotificaPinCC']}, {$ini['Email']['NotificaPinCCPC2']}, {$ini['Email']['NotificaPinCCPC']}",
+                'origin' => 'PBX.asterisk.visual_phonebook',
+                'destination' => 'Email',
+            );
+            $plog->sendLog($params);
+
         }
 
 
