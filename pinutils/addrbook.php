@@ -53,7 +53,9 @@ if ($addrbook_data->num_rows > 0) {
 
 
     while ($addr = $addrbook_data->fetch_assoc()) {
-        $expdate = $db->dateFormat($addr['scadenza_pin'],'d/m/Y');
+
+        ($addr['scadenza_pin'] == '0000-00-00') ? $expdate = '' : $expdate = $db->dateFormat($addr['scadenza_pin'],'d/m/Y');
+
         $type = $db->showType($conn_acs,$addr['tipo']);
         $realpin = substr($addr['pin'],2);
         $offices = $db->printPairings($conn_acs,$addr['id'],'text');
