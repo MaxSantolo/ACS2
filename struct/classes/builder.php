@@ -286,7 +286,7 @@ public static function Navbar($table) {
 function startSession() {
     session_start();
     if(!isset($_SESSION['user_id'])){
-        header("location:https://acs.pickcenter.com/index.php");
+        header("location:http://acs.pickcenter.com/index.php");
     }
 }
 //prepara il datepicker per tutte i campi nominati nell'array

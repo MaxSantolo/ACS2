@@ -898,3 +898,6 @@
 2019-04-04 11:21:10->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99390867, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
 2019-04-04 11:27:08->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99390867, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
 2019-04-04 11:30:21->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99390867, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-04-04 19:00:11->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 10:50:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cristian Stramacci | Agora Srl Unipersonale | Stramacci, data: 05-04-2019, dalle: 11:00 alle 13:00 - Maura Villeato
+2019-04-05 11:11:20->CONTATTO-AGGIORNATO: Il contatto #:2310: Martina Lella |  | Lella aggiornato (PIN: 99480716, SCADENZA: 2019-04-09, TEL1: 3355630527, TEL2: , TEL2: 3355630527, ALT EMAIL:  ) - Agnese Micomonaco
