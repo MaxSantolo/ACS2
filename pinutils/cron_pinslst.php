@@ -41,17 +41,17 @@ if ($result->num_rows > 0) {
 		$table .= "</table></div>";
 		} else { echo "<p align=center>Nessun risultato</P>"; }
 
-		echo $table;
+		//echo $table;
         $yesterday = date('Y-m-d', strtotime("-1 days"));
-        $yesterdayfile = $_SERVER['DOCUMENT_ROOT'].'\tech\logs\pinlist\pinlist_' . $yesterday . '.html';
-        //echo $yesterdayfile.'<br>';
+        $yesterdayfile = 'tech/logs/pinlist/pinlist_' . $yesterday . '.html';
+        echo $yesterdayfile.'<br>';
         $todayfile = Log::wTodayPinFile($table);
-        //echo $todayfile;
+        echo $todayfile;
         $ini = builder::readIniFile();
         $now = ACSBase::Now();
 
-        if (md5_file($todayfile) != md5_file($yesterdayfile)) {
-          //echo $date2check.'<br>'.$time2check.'<br>'.$time23; //test
+        if (!Log::compareFiles($todayfile,$yesterdayfile) || !file_exists($yesterday)) {
+          echo "Yeppa!";
           $mail = new Mail();
           $smail = $mail->sendEmail($ini['Email']['NotificaPin'],
                                     $ini['Email']['NomeNotificaPin'],
@@ -66,7 +66,7 @@ if ($result->num_rows > 0) {
 
         //.logs
             $plog = new PickLog();
-            $content = $table;
+            $content = "";
             $params = array(
                 'app' => 'ACS',
                 'action' => 'COD_SICUR',

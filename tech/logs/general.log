@@ -901,3 +901,31 @@
 2019-04-04 19:00:11->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
 2019-04-05 10:50:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cristian Stramacci | Agora Srl Unipersonale | Stramacci, data: 05-04-2019, dalle: 11:00 alle 13:00 - Maura Villeato
 2019-04-05 11:11:20->CONTATTO-AGGIORNATO: Il contatto #:2310: Martina Lella |  | Lella aggiornato (PIN: 99480716, SCADENZA: 2019-04-09, TEL1: 3355630527, TEL2: , TEL2: 3355630527, ALT EMAIL:  ) - Agnese Micomonaco
+2019-04-05 14:16:38->CONTATTO-AGGIORNATO: Il contatto #:2593: Eleonora Filoni |  | Filoni aggiornato (PIN: 99518218, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-04-05 14:38:38->CONTATTO-AGGIORNATO: Il contatto #:2593: Eleonora Filoni |  | Filoni aggiornato (PIN: 99518218, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-04-05 14:42:39->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99352386, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-04-05 14:47:21->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 14:49:29->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 14:51:35->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 14:53:00->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 14:54:02->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 14:54:28->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 15:01:14->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 15:01:59->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-05 15:21:42->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99596619, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-04-05 16:01:30->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99923959, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-04-05 16:01:57->CONTATTO-AGGIORNATO: Il contatto #:2579: Test Bean |  | Bean aggiornato (PIN: 99748229, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-04-08 09:01:25->CONTATTO-PIN: Assegnati uffici REG11 a Alessandro Grassi | STUDIO DI CONSULENZA FISCALE E TRIBUTARIO DOTT. ALESSANDRO GRASSI - Maura Villeato - Maura Villeato
+2019-04-08 09:01:52->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - Maura Villeato
+2019-04-08 09:02:30->CONTATTO-PIN: Assegnati uffici REG11 a Alessandro Grassi | STUDIO DI CONSULENZA FISCALE E TRIBUTARIO DOTT. ALESSANDRO GRASSI - Maura Villeato - Maura Villeato
+2019-04-08 09:21:52->CONTATTO-AGGIORNATO: Il contatto #:2595: Nicola Ricciardi |  | Ricciardi aggiornato (PIN: 99438014, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-04-08 09:22:01->CONTATTO-PIN: Assegnati uffici REG11 a Nicola Ricciardi |  | Ricciardi - Maura Villeato - Maura Villeato
+2019-04-08 09:22:39->CONTATTO-AGGIORNATO: Il contatto #:2594: Valerio Rizzo |  | Rizzo aggiornato (PIN: 99736462, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-04-08 09:23:03->CONTATTO-PIN: Assegnati uffici REG11 a Valerio Rizzo |  | Rizzo - Maura Villeato - Maura Villeato
+2019-04-08 09:23:33->CONTATTO-PIN: Assegnati uffici REG11 a Valerio Rizzo |  | Rizzo - Maura Villeato - Maura Villeato
+2019-04-08 10:19:09->CONTATTO-AGGIORNATO: Il contatto #:2596: Stefano Lagravinese | ClinOpsHub srls | Lagravinese aggiornato (PIN: 99106730, SCADENZA: 2019-04-14, TEL1: 3478258145, TEL2: , TEL2: 3478258145, ALT EMAIL:  ) - Agnese Micomonaco
+2019-04-08 11:15:15->CONTATTO-AGGIORNATO: Il contatto #:2597: Emanuele Casalino | Ente Nazionale per il Microcredito | Casalino aggiornato (PIN: 99638960, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-04-08 12:19:02->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 08-04-2019, dalle: 15:00 alle 17:00 - Maura Villeato
+2019-04-08 12:20:48->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Jean Michel Arcega | Benji &amp;amp; Co. Srl | Arcega, data: 09-04-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-04-08 13:05:22->CONTATTO-AGGIORNATO: Il contatto #:2598: Claudia Crupi |  | Crupi aggiornato (PIN: 99236362, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-04-08 13:21:51->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA

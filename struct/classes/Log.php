@@ -11,7 +11,7 @@ class Log
 //scrive file e ritorna il percorso per confronto
     public static function wTodayPinFile($content) {
         $now = date('Y-m-d');
-        $actual_filename = $_SERVER['DOCUMENT_ROOT'].'\tech\logs\pinlist\pinlist_'.$now.'.html';
+        $actual_filename = $_SERVER['DOCUMENT_ROOT'].'/tech/logs/pinlist/pinlist_'.$now.'.html';
         $filetoday = fopen($actual_filename, 'w');
         fwrite($filetoday, $content);
         fclose($filetoday);
@@ -20,7 +20,8 @@ class Log
     }
 
     public static function compareFiles($file_a, $file_b)    {
-        if (md5_file($file_a) == md5_file($file_b)) return true;
+        if (filesize($file_a) == filesize($file_b)
+            && md5_file($file_a) == md5_file($file_b)) return true;
         else return false;
     }
 

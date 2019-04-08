@@ -13,15 +13,23 @@ builder::Navbar('DataTable');
 $db = new DB();
 $conn_vb = $db->getPBXConn('asteriskcdrdb');
 
-/*$plog = new PickLog();
-
-$result = $conn_vb->query("SELECT * FROM acs_checkday");
 
 
 
-echo $text = urlencode($plog->sql2Text($result) . "(" . $conn_vb->affected_rows . " righe)");
 
-$res = $plog->sendLog(array('app' => 'ACS','action' => 'parolina22','content' => $text,'user' => 'Max',));*/
+
+$plog = new PickLog();
+$text = 'cippitimerlo';
+$params = array(
+    'app' => 'PERT',
+    'action' => 'COD_SICUR',
+    'content' => "Test",
+    'user' => $_SESSION['user_name'],
+    'description' => "Inviata Mail Pin",
+    'origin' => 'PBX.asterisk.visual_phonebook',
+    'destination' => 'Email',
+);
+$plog->sendLog($params);
 
 
 /*$text = "<table>
