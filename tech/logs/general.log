@@ -929,3 +929,14 @@
 2019-04-08 12:20:48->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Jean Michel Arcega | Benji &amp;amp; Co. Srl | Arcega, data: 09-04-2019, dalle: 09:00 alle 18:00 - Maura Villeato
 2019-04-08 13:05:22->CONTATTO-AGGIORNATO: Il contatto #:2598: Claudia Crupi |  | Crupi aggiornato (PIN: 99236362, SCADENZA: , TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
 2019-04-08 13:21:51->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-04-08 14:54:07->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 08-04-2019, dalle: 15:00 alle 17:00 - Maura Villeato
+2019-04-08 14:54:28->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - Maura Villeato
+2019-04-08 14:55:45->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 08-04-2019, dalle: 15:00 alle 17:00 - Maura Villeato
+2019-04-08 14:56:24->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - Maura Villeato
+2019-04-08 14:57:00->CONTATTO-PIN: Assegnati uffici REG03 a Vincenzo Ioffredi |  | Ioffredi - Maura Villeato - Maura Villeato
+2019-04-08 14:57:04->CONTATTO-AGGIORNATO: Il contatto #:2033: Vincenzo Ioffredi |  | Ioffredi aggiornato (PIN: 99808732, SCADENZA: , TEL1: , TEL2: 0636003424, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-04-08 16:58:55->CONTATTO-PIN: Disattivati tutti gli uffi a Vincenzo Ioffredi |  | Ioffredi - Maura Villeato - Maura Villeato
+2019-04-08 17:03:28->CONTATTO-PIN: Assegnati uffici REG14 a MAURIZIO PAOLUCCI | STUDIO PAOLUCCI - Maura Villeato - Maura Villeato
+2019-04-09 08:34:22->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-04-09 - MASSIMILIANO SANTOLO
+2019-04-09 08:34:49->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-04-09 - MASSIMILIANO SANTOLO
+2019-04-09 08:35:52->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-04-08 - MASSIMILIANO SANTOLO
