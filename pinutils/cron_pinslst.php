@@ -51,7 +51,7 @@ if ($result->num_rows > 0) {
         $now = ACSBase::Now();
 
         if (!Log::compareFiles($todayfile,$yesterdayfile) || !file_exists($yesterday)) {
-          echo "Yeppa!";
+
           $mail = new Mail();
           $smail = $mail->sendEmail($ini['Email']['NotificaPin'],
                                     $ini['Email']['NomeNotificaPin'],
