@@ -1,10 +1,19 @@
 <?php
+
+/**
+ *Paqina per le ricerche di base dell'applicazione. Mostra una tabella
+ *dati (dataTable) non raggruppata con un filtro in vase al centro e al ruolo
+ *degli utenti che hanno avuto accesso agli ingressi principali (citofoni esterni).
+*/
+
+
+
 require_once 'struct/classes/builder.php';
 require_once 'struct/classes/ACSBase.php';
 require_once 'struct/classes/DB.php';
 require_once 'struct/classes/Log.php';
 
-
+//se trova i parametri nell'URL li carica altrimenti ne prende di standard
 isset($_GET['bg']) ? $bg = $_GET['bg'] : $bg = 'sfondo.jpg';
 isset($_GET['role']) ? $role = $_GET['role'] : $role = '';
 isset($_GET['thcolor']) ? $thcolor = $_GET['thcolor'] : $thcolor = 'AF4c50';
@@ -173,7 +182,7 @@ $conn = $db->getPBXConn('asteriskcdrdb');
 	    	        }
 
 echo '<BR>';
-
+// post del modale note
 if (isset($_POST["addnote"])) {
 
     $noteid = $_POST['fnoteid'];
@@ -192,7 +201,7 @@ if (isset($_POST["addnote"])) {
    echo builder::createDatePicker(array('fromdate','todate'));
 
 
-    //pass data to modal for notes
+    //passa data al modal per le note
     echo "
     <script>    
                 $(document).on('click', '.notedata', function(){ 

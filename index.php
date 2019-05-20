@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * Pagina che passa i parametri alla sessione. I paramentri
+ * vengono caricati dal file acs2.ini;
+ *
+ *
+ */
+
+
 include 'struct/classes/DB.php';
 include 'struct/classes/builder.php';
 
@@ -18,6 +26,7 @@ if (isset($_POST["button"])) {
     $result = $conn->query($sql)->fetch_assoc();
     $check = $db->checkPassword($mypassword,$result['user_hash']);
     if ($check) {
+        //se la password è corretta carichiamo nella sessione alcuni dati dal database e da acs2.ini
         session_start();
         $_SESSION['user_id'] = $result['id'];
         $_SESSION['user_name'] = $result['first_name']. ' '. $result['last_name'];
@@ -37,7 +46,7 @@ if (isset($_POST["button"])) {
     }
 }
 
-builder::Header('A.C.S. Sistema integrato di controllo accessi - v. 2.0b','techbg.jpg');
+builder::Header('A.C.S. Sistema integrato di controllo accessi - v. 2.0','techbg.jpg');
 ?>
 
 </head>

@@ -4,12 +4,18 @@
  * User: msantolo
  * Date: 30/10/2018
  * Time: 10:46
+ *
+ *
+ * Classe per la gestione dei database. Inizializza le stringhe di connessione e definisce i metodi di gestione dei dati.
+ *
+ *
  */
 
 
 class DB
 {
 
+    //funzione di costruzione di base eseguita sul comando NEW
     function __construct()    {
         $ini = parse_ini_file($_SERVER['DOCUMENT_ROOT'].'/acs2.ini',true);
         $this->PBX = $ini['DB']['PBX'];
@@ -41,7 +47,8 @@ class DB
         mysqli_close($conn);
     }
 
-//genera il sql per l'estrazione degli accessi ai citofoni principali
+//genera e ritorna il sql per l'estrazione degli accessi ai citofoni principali in base ai parametri indicati. Se i paramentri non sono indicati vengono inizializzati
+//con dati di base
     function sqlAllAccesses($role,$company,$pin,$from,$to,$intercoms,$firstname,$lastname) {
         if (is_null($from) || $from == '') $from = date("Y-m-d", strtotime("first day of this month"));
         if (is_null($to) || $to == '') $to = date("Y-m-d", strtotime("last day of this month"));
@@ -87,7 +94,7 @@ class DB
         return crypt(strtolower(md5($password)), $user_hash) == $user_hash;
     }
 
-//genera la stringa di ricerca per ruolo
+//genera la stringa di ricerca per ruolo, se il ruolo è nullo o vuoto vengono presi tutti. Ritorna una stringa da includere nel sql.
     private function roleCheckSQL($role) {
 
         if (is_null($role) || $role =='') {$role_out = " AND (role LIKE '%%' OR role IS NULL) "; }
@@ -96,7 +103,7 @@ class DB
         return $role_out;
     }
 
-//sql per la ricerca report presenze
+//sql per la ricerca report presenze, questa è una componente per il report delle presenze interne
     function sqlIngressiReport($pin,$exact_date) {
         $sql = "select *, group_concat(ingressi separator ' | ') as ingressi_totali from (
                     select data_ingresso,pin,firstname,lastname,nota,ingressi from accessi_boezio_v where data_ingresso = '{$exact_date}'
@@ -110,7 +117,7 @@ class DB
                 ";
         return $sql;
     }
-//sql per elenco impiegati
+//sql per elenco impiegati, ritorna una stringa sql
     function sqlEmployees($roles,$firstname,$lastname) {
         $sql = "select * from (
                   select distinct(pin) as pin, nome_azienda, firstname, lastname from accessi_boezio_v where role ".$roles." and firstname like '%{$firstname}%' and lastname like '%{$lastname}%' 
@@ -137,11 +144,6 @@ class DB
         return $dates;
     }
 
-//da creare
-    function log($username,$userid,$module,$sql,$date) {
-        //log azioni da ACS
-    }
-
 //aggiorna o inserisce nota ad ingresso
     public static function addNote($conn,$noteid,$code,$center,$date,$note) {
         if ($noteid == '' || !isset($noteid) ) { $sql = "INSERT INTO acs_note_ingressi (pin, data, sede, nota) VALUES ('".$code."', '".$date."', '".$center."', '".$note."')";  }
@@ -149,7 +151,7 @@ class DB
         $conn->query($sql);
 }
 
-//formatta la data per correggere gli errori del visual phonebook dove alcune date di scadenza invece di null solo '0000-00-00'
+//formatta la data per correggere gli errori del visual phonebook (PBX) dove alcune date di scadenza invece di null solo '0000-00-00'
     public static function dateFormat($date,$format) {
         if (strtotime($date) != '-62169995212' && $date != '')  {
             $dateout = date($format,strtotime($date));
@@ -189,7 +191,7 @@ class DB
         ";
     }
 
-//genera contenuto form per assegnazione citofoni
+//genera contenuto form (caricato nel modale) per assegnazione citofoni, ritorna form HTML
     public static function formIntercomsCB($conn,$type,$center,$btnname,$vbid,$aicgrp,$namevalue,$btnlabel,$tableid) {
         $idata = $conn->query("SELECT * FROM acs_doors WHERE type LIKE '%{$type}%' AND center LIKE '%{$center}%' AND phone_num !='0000'");
         ($namevalue == '') ? $vis = 'hidden' : $vis = '';
@@ -222,6 +224,8 @@ class DB
                               <th>CENTRO</th>
                            </tr>
                        </thead>";
+
+        //segna i citofoni selezionati
         while ($intercom = $idata->fetch_assoc()) {
             $label = $intercom['name'];
             (DB::isPairing($conn,$intercom['id'],$vbid) || in_array($intercom['id'],$aicgrp)) ? $cladd = 'checked' : $cladd = '';
@@ -252,31 +256,33 @@ class DB
 //aggiorna e salva le selezioni
     public static function updateIntercoms($conn,$intercoms,$user) {
         $now = ACSBase::Now();
-		$aicdel = DB::getUncheckedIntercoms($conn,$intercoms);
+		$aicdel = DB::getUncheckedIntercoms($conn,$intercoms); //elenco associazioni da eliminare
         if (!empty($aicdel)) {
             foreach ($aicdel as $icdel) {
                 //echo "DELETE FROM acs_phoneb_doors WHERE door_id ='{$icdel}' AND phoneb_id ='{$user}'"."<br>"; //for testing
                 $conn->query("DELETE FROM acs_phoneb_doors WHERE door_id ='{$icdel}' AND phoneb_id ='{$user}'");
             }
         } else $conn->query("DELETE FROM acs_phoneb_doors WHERE phoneb_id ='{$user}'");
+        //elenco citofoni da associare (passati come parametro)
         foreach ($intercoms as $ic) {
             (DB::isPairing($conn,$ic,$user)) ?:
             $conn->query("INSERT INTO acs_phoneb_doors (phoneb_id,door_id,edit_date,user) VALUES ('{$user}','{$ic}','{$now}','{$_SESSION['user_name']}')");
         }
     }
 
-    //controlla se esiste la coppia citofono utente
+    //controlla se esiste la coppia citofono utente, ritorna bool
     public static function isPairing($conn,$intercom,$user) {
             $pairing = $conn->query("SELECT id FROM acs_phoneb_doors WHERE phoneb_id = '{$user}' AND door_id = '{$intercom}'");
             if ($pairing->num_rows == 0) return false; else return true;
         }
-//controlla se esiste la coppia citofono gruppo
+
+    //controlla se esiste la coppia citofono gruppo, ritorna bool
     function isGroup($conn,$intercom,$groupname) {
         $grouping = $conn->query("SELECT id FROM acs_doors_grps WHERE acs_doors_grps.group ='{$groupname}' AND door_id='{$intercom}'");
         if ($grouping->num_rows == 0) return false; else return true;
     }
 
-    //mostra a quali porte è abilitato un utente
+    //mostra a quali porte è abilitato un utente ritorna una stringa formattata html con link
     public static function printPairings($conn,$user,$mode) {
         $pairings = $conn->query("SELECT acs_doors.name as oname, acs_doors.phone_num as num, acs_phoneb_doors.user as cuser FROM acs_phoneb_doors LEFT JOIN acs_doors ON door_id = acs_doors.id WHERE phoneb_id = '{$user}' ORDER BY acs_doors.name");
         while ($pair = $pairings->fetch_assoc()) {
@@ -289,7 +295,7 @@ class DB
         return $op;
     }
 
-    //seleziona quali citofoni non sono selezionati
+    //elenco citofoni non selezionati
     function getUncheckedIntercoms($conn,$checkic) {
         $aintercoms = $conn->query("SELECT id from acs_doors WHERE phone_num!='0000' AND type !='CIT'");
         while ($intercom = $aintercoms->fetch_assoc()) {
@@ -299,7 +305,7 @@ class DB
         return $intercoms;
     }
 
-//inserisce il gruppo citofoni
+    //inserisce il gruppo citofoni nella tabella dedicata
     public static function insertIntercomsGroup($conn,$name,$intercoms) {
         $now = ACSBase::Now();
         foreach ($intercoms as $ic) {
@@ -308,7 +314,7 @@ class DB
         }
     }
 
-    //aggiorna il gruppo citofoni
+    //aggiorna il gruppo citofoni se viene variata la selezione
     public static function updateIntercomsGroup($conn,$checkedintercoms,$grpname) {
     $now = ACSBase::Now();
     $aicdel = DB::getUncheckedIntercoms($conn,$checkedintercoms);
@@ -324,7 +330,7 @@ class DB
     }
     }
 
-    //genera le option con l'elenco dei gruppi per assegnazione
+    //genera le option con l'elenco dei gruppi per assegnazione nel form, ritorna una stringa html
     public static function showGroupsOpts($conn) {
         $adata = $conn->query("SELECT distinct name, icarray FROM asteriskcdrdb.icgroups_v");
         while ($data = $adata->fetch_assoc()) {
@@ -341,7 +347,7 @@ class DB
         return $grpintercoms;
     }*/
 
-//controll d'errore creando un nuovo gruppo
+    //controll d'errore creando un nuovo gruppo, in caso ritorna messaggio d'errore
     function checkNewGrpCreate($conn,$intercoms,$grpname) {
         if (count($intercoms) <=1 ) { $erromsg .='Scegli almeno due Uffici.\n'; }
         if ($grpname == 'INSERISCI NOME QUI') { $erromsg .= 'Scegli un nome per il gruppo\n';}
@@ -350,7 +356,7 @@ class DB
         return $erromsg;
     }
 
-//controlla che il pin non esista
+    //controlla che il pin non esista
     function isPin($conn,$pin,$oldpin) {
         if (is_null($pin) || $pin == '') return false;
         if ($pin == $oldpin ) return false; else {
@@ -692,6 +698,7 @@ class DB
         return $dates;
     }
 
+    //genere le options per l'elenco dei clienti per la maschera del checkin day
     public static function optClients($conn,$selectedid) {
         if (!isset($selectedid)) $selectedid = 0;
         $array = $conn->query("SELECT id, concat(coalesce(company,''), ' | ', coalesce(firstname,''), ' ', coalesce(lastname,'')) as vbname

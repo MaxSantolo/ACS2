@@ -1,10 +1,11 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/**
+ * Template grafici (HTML, CSS INLINE) per i modelli email inviati dall'applicazione.
+ * I nomi delle variabili sono autoesplicativi.
+ **/
+
+
 
 $footer_email_standard = '<table style="width: 100%; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; color: #777; border-collapse: collapse; padding: 0; margin: 0;" border="0" cellspacing="0" cellpadding="0">'
                         .'<tr><td style="text-align: center;"><table id="sugar_text_social-network" style="margin-top: 20px; width: 100%; font-size: 100%; color: #777;" border="0" cellspacing="0" cellpadding="0" align="right" bgcolor="#f2f2f2">'

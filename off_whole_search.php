@@ -4,12 +4,14 @@
  * User: msantolo
  * Date: 12/11/2018
  * Time: 10:08
+ * Pagina per la dataTable degli accessi agli uffici. Parametri presenti nell'URL.
  */
 
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/builder.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/ACSBase.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/DB.php';
 
+//parametri leggibili dall'URL
 isset($_GET['bg']) ? $bg = $_GET['bg'] : $bg = 'sfondo.jpg';
 isset($_GET['role']) ? $role = $_GET['role'] : $role = '';
 isset($_GET['thcolor']) ? $thcolor = $_GET['thcolor'] : $thcolor = 'AF4c50';
@@ -23,7 +25,7 @@ builder::Header('ACCESSO AGLI UFFICI',$bg);
 builder::Navbar('OffAccTable');
 
 ?>
-
+<!-- form ricerca temporale -->
 <p class="titolo">ACCESSO AGLI UFFICI</p>
 <div style="width: 25%; margin: auto">
     <form method="post">
@@ -34,7 +36,6 @@ builder::Navbar('OffAccTable');
             <div class="col">
                 <input name="to" type="text" id="todate" class="form-control" placeholder="Al" value="<?php echo isset($_POST['to']) ? $_POST['to'] : '' ?>" >
             </div>
-
                 <div class="col">
                     <button class="btn btn-indigo" type="submit" name="search" onclick="showloader()" style="margin: auto">Cerca</button>
                 </div>
@@ -47,6 +48,7 @@ $db = new DB();
 $conn_addrbook = $db->getPBXConn('asterisk');
 $conn_acs = $db->getPBXConn('asteriskcdrdb');
 
+//periodo mostrato: se sono definite nella ricerca prendo data di inizio e di fine altrimenti mostro il mese in corso
 if (isset($_POST['search'])) {
     $from = $_POST['from'];
     $to = $_POST['to'];
@@ -55,6 +57,7 @@ if (isset($_POST['search'])) {
     $to = date("Y-m-d", strtotime("last day of this month"));
 }
 
+//genero la stringa di ricerca sql dipendentemente dai parametri in URL
 $sql = DB::sqlOffAcc($from,$to,$vbid,$phonenum);
 
 $acc_offices_data = $conn_acs->query($sql);

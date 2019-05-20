@@ -4,6 +4,11 @@
  * User: msantolo
  * Date: 26/11/2018
  * Time: 15:20
+ *
+ * Pagina per la visualizzazione degli accessi temporanei agli uffici.
+ * Permette di crearne di nuovi e controlla che quelli creati rispettino le regole del centro.
+ *
+ *
  */
 
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/builder.php';

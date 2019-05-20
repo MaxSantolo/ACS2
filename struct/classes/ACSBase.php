@@ -4,6 +4,9 @@
  * User: msantolo
  * Date: 30/10/2018
  * Time: 10:27
+ *
+ * Questa è classe che contiene tutti i metodi necessari alla gestione dei PIN sia per la creazione
+ * sia per l'interrogazione delle tabelle. Inoltre contiene le funzioni per la formattazione dei dati nel frontend.
  */
 
 
@@ -22,7 +25,7 @@ class ACSBase
         }
         return $array_intercoms;
     }
-//genera stringa in per la query
+//genera stringa in per la stringa sql
     public static function GenerateInString($array)
     {
         $intstring = "IN(";

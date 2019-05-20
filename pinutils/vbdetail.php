@@ -57,18 +57,24 @@ if ($vbid != '') {
 }
 if (isset($_POST["vbedit"])) {
     $fpin = $_POST['pin'];
-    $_POST['expdate'] == '' ? $fep = NULL : $fep = date('Y-m-d',strtotime($_POST['expdate']));
+    $_POST['expdate'] == '' ? $fep = '0000-00-00' : $fep = date('Y-m-d',strtotime($_POST['expdate']));
     $fp1 = $_POST['telefono1'];
     $fp2 = $_POST['telefono2'];
     $fp3 = $_POST['telefono3'];
     $fem1 = $_POST['email1'];
 
-    if (!$db::isPin($connvb,$fpin,$vbpin)) {
-        $db::registerPinChange($conn,$vbpin,$vbid);
-        $connvb->query($db::vbUpdate($vbid,$fpin,$fep,$fp1,$fp2,$fp3,$fem1));
-        Log::wLog('Il contatto #:'.$vbid.': '.Log::pUser($connvb,$vbid).' aggiornato (PIN: '.$fpin.', SCADENZA: '.$fep.', TEL1: '.$fp1.', TEL2: '.$fp2.', TEL2: '.$fp1.', ALT EMAIL: '.$fem1.' )','CONTATTO-AGGIORNATO');
-        echo "<meta http-equiv='refresh' content='0;URL=vbdetail.php?vbid={$vbid}&vbpin={$fpin}'>"; } //http://acs.pickcenter.com/pinutils/vbdetail.php?vbid=2050&vbpin=99799283
-    else echo "<SCRIPT>window.alert('PIN duplicato')</SCRIPT>";
+    $now = (new DateTime("Europe/Rome"))->format('Y-m-d');
+
+    if ((strtotime($fep) > strtotime($now)) || $fep == '0000-00-00') {
+
+        if (!$db::isPin($connvb, $fpin, $vbpin)) {
+            $db::registerPinChange($conn, $vbpin, $vbid);
+            $connvb->query($db::vbUpdate($vbid, $fpin, $fep, $fp1, $fp2, $fp3, $fem1));
+            Log::wLog('Il contatto #:' . $vbid . ': ' . Log::pUser($connvb, $vbid) . ' aggiornato (PIN: ' . $fpin . ', SCADENZA: ' . $fep . ', TEL1: ' . $fp1 . ', TEL2: ' . $fp2 . ', TEL2: ' . $fp1 . ', ALT EMAIL: ' . $fem1 . ' )', 'CONTATTO-AGGIORNATO');
+            echo "<meta http-equiv='refresh' content='0;URL=vbdetail.php?vbid={$vbid}&vbpin={$fpin}'>";
+        } //http://acs.pickcenter.com/pinutils/vbdetail.php?vbid=2050&vbpin=99799283
+        else echo "<SCRIPT>window.alert('PIN duplicato')</SCRIPT>";
+    } else echo "<SCRIPT>window.alert('Attenzione data di scadenza precedente ad oggi.')</SCRIPT>";
 }
 
 if (isset($_POST["optic"])) {
@@ -194,7 +200,7 @@ if (isset($_POST["setgrp"])) {
                             <label for="pin" style="color:antiquewhite;font-weight: bold">Pin</label>
                             <input type="text" name ="pin" id="pin" class="form-control text-white border-info" value="<?php echo $pin ?>">
                             <span class="input-group-addon">
-                                <a href="#" onclick="random(); return false;"><img src="../images/random.png" width="32"></a>
+                                <a href="#" onclick="random(); return false;"><img src="../images/random.png" width="32" TITLE="GENERA PIN CASUALE"></a>
                             </span>
                         </div>
                     </div>
@@ -202,9 +208,12 @@ if (isset($_POST["setgrp"])) {
             </div>
             <div class="col-md-4">
                 <div class="md-form form-sm">
-                    <div class="form-group">
+                    <div class="input-group">
                         <label for="expdate" style="color:antiquewhite;font-weight: bold">Scadenza Pin</label>
                         <input type="text" name="expdate" id="expdate" class="form-control text-white border-info" value="<?php echo $pe ?>">
+                        <span class="input-group-addon">
+                                <a href="#" onclick="expdel(); return false;"><img src="../images/exp_delete.png" TITLE = "ELIMINA DATA DI SCADENZA" width="32"></a>
+                            </span>
                     </div>
                 </div>
             </div>
@@ -350,6 +359,13 @@ echo '
             document.getElementById(\'pin\').value = \'99\' + (Math.floor(Math.random() * 900000)+100000);
             document.getElementById(\'pin\').focus()}
     </script>
+    
+    <script type="text/javascript">
+        function expdel() {
+            document.getElementById(\'expdate\').value = \'\';
+            }
+    </script>
+    
     <script type="text/javascript">
         function isPin(modal) {
             if (document.getElementById(\'pin\').value == \'\') {
