@@ -13,10 +13,6 @@ require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/Mail.php';
 $db = new DB();
 $conn = $db->getPBXConn('asterisk');
 
-
-
-
-
 $sql2 = "SELECT firstname, lastname, company, pin from visual_phonebook where pin != '' and pin not like '5%' order by lastname" ;
 $result = $conn->query($sql2);
 $num_righe = $result->num_rows;
@@ -59,7 +55,7 @@ if ($result->num_rows > 0) {
                                     $ini['Email']['FromName'],
                                'Pick Center - Lista persone autorizzate con PIN - '.$now,
                                     $table,
-                                    array($ini['Email']['NotificaPinCC'],$ini['Email']['NotificaPinCCPC2'],$ini['Email']['NotificaPinCCPC']));
+                                    array($ini['Email']['NotificaPinCC'],$ini['Email']['NotificaPinCC2'],$ini['Email']['NotificaPinCCPC2'],$ini['Email']['NotificaPinCCPC']));
 
         //log locale dell'app
           Log::wLog('Inviata Mail Pin a '.$ini['Email']['NotificaPin'].', '.$ini['Email']['NotificaPinCC'].', '.$ini['Email']['NotificaPinCCPC2'].', '.$ini['Email']['NotificaPinCCPC'], 'SISTEMA');

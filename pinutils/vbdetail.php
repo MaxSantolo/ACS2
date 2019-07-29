@@ -27,7 +27,7 @@ $connvb = $db->getPBXConn('asterisk');
 $btntxt = 'Inserisci';
 
 
-
+//controllo dei campi del form dettagli
 if ($vbid != '') {
     $avb = $connvb->query("SELECT * FROM visual_phonebook WHERE id = '{$vbid}'");
     $vb = $avb->fetch_assoc();
@@ -39,7 +39,7 @@ if ($vbid != '') {
     $p3 = $vb['phone3'];
     $pin = $vb['pin'];
 
-    ($vb['scadenza_pin'] == '0000-00-00') ? $pe = '' : $pe = $db->dateFormat($vb['scadenza_pin'],'d/m/Y');
+    ($vb['scadenza_pin'] == '0000-00-00') ? $pe = '' : $pe = $db->dateFormat($vb['scadenza_pin'],'d/m/Y'); //mostra niente se la scadenza è 0000-00-00 altrimenti formatta la data
 
     $tp = $vb['tipo'];
     $em = $vb['email'];
@@ -57,7 +57,7 @@ if ($vbid != '') {
 }
 if (isset($_POST["vbedit"])) {
     $fpin = $_POST['pin'];
-    $_POST['expdate'] == '' ? $fep = '0000-00-00' : $fep = date('Y-m-d',strtotime($_POST['expdate']));
+    $_POST['expdate'] == '' ? $fep = '0000-00-00' : $fep = date('Y-m-d',strtotime($_POST['expdate'])); //controlla il post della data di scadenza e se non è vuoto lo formatta
     $fp1 = $_POST['telefono1'];
     $fp2 = $_POST['telefono2'];
     $fp3 = $_POST['telefono3'];

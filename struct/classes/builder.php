@@ -196,6 +196,9 @@ public static function configGroupedDataTable($grpclmn,$tablename,$paging,$lengh
 //crea la barra di navigazione, la tabella dei parametri è quella scaricabile
 public static function Navbar($table) {
 
+
+
+
     echo '<nav class="navbar navbar-expand-lg navbar-dark indigo">
 
     <a class="navbar-brand" href="..\menu.php"><img src="../../images/logo_acs2.png" width="100"></a>

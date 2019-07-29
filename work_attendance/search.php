@@ -79,7 +79,7 @@ if (isset($_POST["button"])) {
     $from_format = date('d/m', strtotime($from));
     $to_format = date('d/m', strtotime($to));
 
-    echo "<div style='width: 75%;background-color: antiquewhite;margin: auto'>";
+    echo "<div style='width: 90%;background-color: antiquewhite;margin: auto'>";
     echo "<table id='ReportTable' class='table table-hover table-sm'><thead style='background-color: #0e4377;'><tr><th colspan='4' style='color: antiquewhite;font-size: medium'>PRESENZE NEL PERIODO DAL {$from_format} AL {$to_format}</th></tr>
           <tr style='color: antiquewhite;font-weight: bold;font-size: medium' ><th>$role_text</th><th>INGRESSI</th><th>TURNI</th><th>FER/PERM/RITAR/MAL/STRAOR</th></tr></thead>";
 
@@ -95,7 +95,7 @@ if (isset($_POST["button"])) {
             $acc_form = str_replace("|"," | ",$report_row['ingressi_totali']);
             echo "<tr style='font-size: small'>
                     <td style='width: 15%'>{$date_format}</td>
-                    <td style='width: 50%'>{$acc_form}</td>
+                    <td style='width: 50%;font-size: small'>{$acc_form}</td>
                     <td style='width: 5%'></td>
                     <td style='width: 30%'>{$report_row['nota']}</td>
                   </tr>";

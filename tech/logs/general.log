@@ -1142,3 +1142,334 @@
 2019-05-20 11:43:27->CONTATTO-AGGIORNATO: Il contatto #:830: DUMMY TEST | QUALUNQUE aggiornato (PIN: 99453802, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
 2019-05-20 11:52:14->CONTATTO-AGGIORNATO: Il contatto #:830: DUMMY TEST | QUALUNQUE aggiornato (PIN: 99453802, SCADENZA: 2019-05-28, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
 2019-05-20 11:52:17->CONTATTO-AGGIORNATO: Il contatto #:830: DUMMY TEST | QUALUNQUE aggiornato (PIN: 99453802, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-05-20 19:00:05->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-21 09:12:52->CONTATTO-AGGIORNATO: Il contatto #:2706: Antonello Paiola |  | Paiola aggiornato (PIN: 99338986, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-05-21 09:17:25->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 21-05-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-05-21 09:18:48->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Gaia Biolcati |  | Biolcati, data: 21-05-2019, dalle: 12:00 alle 13:00 - Maura Villeato
+2019-05-21 16:40:50->CONTATTO-AGGIORNATO: Il contatto #:2708: Beatrice Palma | Hotelbeds Group Italy S.r.l. | Palma aggiornato (PIN: 99657175, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-21 16:41:38->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09 a Beatrice Palma | Hotelbeds Group Italy S.r.l. | Palma - Maura Villeato - Maura Villeato
+2019-05-21 16:41:42->CONTATTO-AGGIORNATO: Il contatto #:2708: Beatrice Palma | Hotelbeds Group Italy S.r.l. | Palma aggiornato (PIN: 99657175, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-21 19:00:05->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-22 19:00:04->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-23 19:00:05->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-24 13:23:10->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Heacliff Chiodi |  | Chiodi, data: 27-05-2019, dalle: 17:00 alle 18:00 - Maura Villeato
+2019-05-24 19:00:05->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-25 19:00:04->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-26 19:00:06->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-27 09:57:37->CONTATTO-ELIMINATO: Eliminato il contatto #1838: Francesco Welcome | PICK CENTER MNTN da ACS - SISTEMA
+2019-05-27 19:00:05->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-28 19:00:06->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-29 11:00:20->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 29-05-2019, dalle: 11:00 alle 13:00 - Maura Villeato
+2019-05-29 12:17:23->CONTATTO-AGGIORNATO: Il contatto #:2719: Carlo Stazzi | Associazione della Croce Rossa Italiana | Stazzi aggiornato (PIN: 99293984, SCADENZA: 2019-06-03, TEL1: 3483927423, TEL2: 0655100653, TEL2: 3483927423, ALT EMAIL:  ) - Francesca Donati
+2019-05-29 19:00:04->SISTEMA: Inviata Mail Pin a centro.roma@grupposecuritas.it, denni.mario@grupposecuritas.it, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-30 10:50:13->CONTATTO-AGGIORNATO: Il contatto #:2724: Domenico Di Gioia | GSA VIGILANZA | Di Gioia aggiornato (PIN: 99113014, SCADENZA: 0000-00-00, TEL1: 3249227080, TEL2: , TEL2: 3249227080, ALT EMAIL:  ) - Pina Aloisi
+2019-05-30 11:24:17->CONTATTO-AGGIORNATO: Il contatto #:2728: Paolo Cantatore | ITABUS SPA | Cantatore aggiornato (PIN: 99681482, SCADENZA: 0000-00-00, TEL1: *5023*7703397302017, TEL2: , TEL2: *5023*7703397302017, ALT EMAIL:  ) - Francesca Donati
+2019-05-30 11:24:53->CONTATTO-AGGIORNATO: Il contatto #:2727: Enrico Zampone | ITABUS SPA | Zampone aggiornato (PIN: 99657073, SCADENZA: 0000-00-00, TEL1: *5023*770, TEL2: , TEL2: *5023*770, ALT EMAIL:  ) - Francesca Donati
+2019-05-30 11:25:25->CONTATTO-AGGIORNATO: Il contatto #:2726: Francesco Fiore | ITABUS SPA | Fiore aggiornato (PIN: 99638947, SCADENZA: 0000-00-00, TEL1: *5023*770, TEL2: , TEL2: *5023*770, ALT EMAIL:  ) - Francesca Donati
+2019-05-30 14:11:33->CONTATTO-AGGIORNATO: Il contatto #:2729: Francesca Marinotti |  | Marinotti aggiornato (PIN: 99270731, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-30 14:11:46->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Francesca Marinotti |  | Marinotti - Maura Villeato - Maura Villeato
+2019-05-30 14:11:56->CONTATTO-AGGIORNATO: Il contatto #:2729: Francesca Marinotti |  | Marinotti aggiornato (PIN: 99270731, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-30 15:32:03->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Alessandra Messina |  | Messina, data: 31-05-2019, dalle: 12:00 alle 13:00 - Maura Villeato
+2019-05-30 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-05-31 11:46:25->CONTATTO-ELIMINATO: Eliminato il contatto #783: MAURIZIO PAOLUCCI | STUDIO PAOLUCCI da ACS - SISTEMA
+2019-05-31 11:47:34->CONTATTO-AGGIORNATO: Il contatto #:2387: Maurizio Paolucci | Acli Service Terra di Lavoro Srl | Paolucci aggiornato (PIN: 99719601, SCADENZA: 0000-00-00, TEL1: , TEL2: 3666362925, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 11:47:39->CONTATTO-AGGIORNATO: Il contatto #:2387: Maurizio Paolucci | Acli Service Terra di Lavoro Srl | Paolucci aggiornato (PIN: 99719601, SCADENZA: 0000-00-00, TEL1: , TEL2: 3666362925, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:07:23->CONTATTO-PIN: Disattivati tutti gli uffi a Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini - Maura Villeato - Maura Villeato
+2019-05-31 13:07:30->CONTATTO-AGGIORNATO: Il contatto #:2208: Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini aggiornato (PIN: 55300391, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:07:37->CONTATTO-AGGIORNATO: Il contatto #:2208: Jessica Costantini | All Consulting &amp;amp; Engineering Srl | Costantini aggiornato (PIN: 55300391, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:09:35->CONTATTO-AGGIORNATO: Il contatto #:1096: Claudio  Massi | All Consulting & Engeneering aggiornato (PIN: 55261968, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:09:40->CONTATTO-PIN: Disattivati tutti gli uffi a Claudio  Massi | All Consulting & Engeneering - Maura Villeato - Maura Villeato
+2019-05-31 13:10:35->CONTATTO-AGGIORNATO: Il contatto #:1051: Fabio Pintori | All Consulting & Engeneering aggiornato (PIN: 55150473, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:10:41->CONTATTO-PIN: Disattivati tutti gli uffi a Fabio Pintori | All Consulting & Engeneering - Maura Villeato - Maura Villeato
+2019-05-31 13:10:44->CONTATTO-AGGIORNATO: Il contatto #:1051: Fabio Pintori | All Consulting & Engeneering aggiornato (PIN: 55150473, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:11:25->CONTATTO-AGGIORNATO: Il contatto #:125: Paolo Palantrani | All Consulting & Engeneering aggiornato (PIN: 55887766, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:11:40->CONTATTO-PIN: Disattivati tutti gli uffi a Paolo Palantrani | All Consulting & Engeneering - Maura Villeato - Maura Villeato
+2019-05-31 13:11:44->CONTATTO-AGGIORNATO: Il contatto #:125: Paolo Palantrani | All Consulting & Engeneering aggiornato (PIN: 55887766, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-05-31 13:39:11->CONTATTO-AGGIORNATO: Il contatto #:2737: Sonia Bernardini | Sia Advisor | Bernardini aggiornato (PIN: 99713239, SCADENZA: 0000-00-00, TEL1: 393280642446, TEL2: 0669275455, TEL2: 393280642446, ALT EMAIL:  ) - Reception Generico
+2019-05-31 14:14:19->CONTATTO-AGGIORNATO: Il contatto #:2730: Elena Santiemma | Elena Santiemma | Santiemma aggiornato (PIN: 99293984, SCADENZA: 2019-06-03, TEL1: 3311732533, TEL2: , TEL2: 3311732533, ALT EMAIL:  ) - Francesca Donati
+2019-05-31 14:26:55->CONTATTO-AGGIORNATO: Il contatto #:2730: Elena Santiemma | Elena Santiemma | Santiemma aggiornato (PIN: 99293984, SCADENZA: 2019-06-03, TEL1: 3311732533, TEL2: , TEL2: 3311732533, ALT EMAIL:  ) - Francesca Donati
+2019-05-31 15:33:48->CONTATTO-AGGIORNATO: Il contatto #:2737: Sonia Bernardini | Sia Advisor | Bernardini aggiornato (PIN: 99713239, SCADENZA: 0000-00-00, TEL1: 393280642446, TEL2: 0669275455, TEL2: 393280642446, ALT EMAIL:  ) - Reception Generico
+2019-05-31 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-01 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-02 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-03 09:58:53->CONTATTO-AGGIORNATO: Il contatto #:2733: Ivan Martinez | ITABUS SPA | Martinez aggiornato (PIN: 99640511, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-06-03 09:59:24->CONTATTO-AGGIORNATO: Il contatto #:2732: Stefano Leonardi | ITABUS SPA | Leonardi aggiornato (PIN: 99961164, SCADENZA: 0000-00-00, TEL1: 3357814875, TEL2: , TEL2: 3357814875, ALT EMAIL:  ) - Francesca Donati
+2019-06-03 09:59:52->CONTATTO-AGGIORNATO: Il contatto #:2727: Enrico Zampone | ITABUS SPA | Zampone aggiornato (PIN: 99657073, SCADENZA: 0000-00-00, TEL1: *5023*770, TEL2: , TEL2: *5023*770, ALT EMAIL:  ) - Francesca Donati
+2019-06-03 10:01:18->CONTATTO-AGGIORNATO: Il contatto #:2726: Francesco Fiore | ITABUS SPA | Fiore aggiornato (PIN: 99638947, SCADENZA: 0000-00-00, TEL1: *5023*770, TEL2: , TEL2: *5023*770, ALT EMAIL:  ) - Francesca Donati
+2019-06-03 11:24:02->CONTATTO-AGGIORNATO: Il contatto #:2742: Pasquale Montalto |  | Montalto aggiornato (PIN: 99548653, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-03 11:27:52->CONTATTO-AGGIORNATO: Il contatto #:2742: Pasquale Montalto |  | Montalto aggiornato (PIN: 99548653, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-03 12:02:31->CONTATTO-AGGIORNATO: Il contatto #:2743: Sara Joelle Habib) |  | Habib) aggiornato (PIN: 99498111, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-03 13:53:15->CONTATTO-AGGIORNATO: Il contatto #:2703: Riccardo Balzano |  | Balzano aggiornato (PIN: 99439256, SCADENZA: 0000-00-00, TEL1: 3492561205, TEL2: , TEL2: 3492561205, ALT EMAIL:  ) - Maura Villeato
+2019-06-03 13:53:22->CONTATTO-PIN: Assegnati uffici REG03 a Riccardo Balzano |  | Balzano - Maura Villeato - Maura Villeato
+2019-06-03 13:55:46->CONTATTO-PIN: Disattivati tutti gli uffi a Riccardo Balzano |  | Balzano - Maura Villeato - Maura Villeato
+2019-06-03 13:56:02->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Riccardo Balzano |  | Balzano, data: 03-06-2019, dalle: 14:00 alle 15:00 - Maura Villeato
+2019-06-03 17:42:52->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Mirko Saginario |  | Saginario, data: 03-06-2019, dalle: 17:00 alle 19:00 - Maura Villeato
+2019-06-03 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-04 10:42:15->CONTATTO-AGGIORNATO: Il contatto #:123: Corrado De Francisci | All Consulting & Engeneering aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL: info@allconsulting.org ) - Maura Villeato
+2019-06-04 10:42:18->CONTATTO-AGGIORNATO: Il contatto #:123: Corrado De Francisci | All Consulting & Engeneering aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL: info@allconsulting.org ) - Maura Villeato
+2019-06-04 10:43:37->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Maurizio Paolucci | Acli Service Terra di Lavoro Srl | Paolucci, data: 05-06-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-06-04 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-05 08:59:24->CONTATTO-PIN: Assegnati uffici REG07 a Maurizio Paolucci | Acli Service Terra di Lavoro Srl | Paolucci - Maura Villeato - Maura Villeato
+2019-06-05 09:44:27->CONTATTO-ELIMINATO: Eliminato il contatto #1556: DAY EUR  DAY EUR | PICK da ACS - SISTEMA
+2019-06-05 11:07:58->CONTATTO-AGGIORNATO: Il contatto #:2753: Valentina D'amendola | EOLO Spa | D'amendola aggiornato (PIN: 99930930, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-05 11:08:27->CONTATTO-AGGIORNATO: Il contatto #:2753: Valentina D'amendola | EOLO Spa | D'amendola aggiornato (PIN: 99930930, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-05 11:49:57->CONTATTO-AGGIORNATO: Il contatto #:2754: Sara Hani | HMS SRL | Hani aggiornato (PIN: 99915130, SCADENZA: 2019-06-10, TEL1: , TEL2: 031243007, TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-05 12:51:21->CONTATTO-AGGIORNATO: Il contatto #:2753: Valentina D'amendola | EOLO Spa | D'amendola aggiornato (PIN: 99930930, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-05 15:33:24->CONTATTO-AGGIORNATO: Il contatto #:2764: Luca Casagrande | TECNICOM TLC S.r.l. | Casagrande aggiornato (PIN: 99966082, SCADENZA: 0000-00-00, TEL1: 3934078997, TEL2: , TEL2: 3934078997, ALT EMAIL:  ) - Maura Villeato
+2019-06-05 19:00:03->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-06 09:25:50->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Cinzia Russo |  | Russo, data: 06-06-2019, dalle: 11:00 alle 13:00 - Maura Villeato
+2019-06-06 13:00:50->CONTATTO-AGGIORNATO: Il contatto #:2765: Stefano Motti |  | Motti aggiornato (PIN: 99668177, SCADENZA: 2019-06-10, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-06 13:01:46->CONTATTO-AGGIORNATO: Il contatto #:2765: Stefano Motti |  | Motti aggiornato (PIN: 99668177, SCADENZA: 2019-10-06, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-06 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-07 08:56:33->CONTATTO-AGGIORNATO: Il contatto #:2718: Bruno De Angelis |  | De Angelis aggiornato (PIN: 99331578, SCADENZA: 0000-00-00, TEL1: , TEL2: 069320343, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-07 08:57:18->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Bruno De Angelis |  | De Angelis, data: 07-06-2019, dalle: 09:00 alle 13:00 - Maura Villeato
+2019-06-07 09:08:51->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Gaia Biolcati |  | Biolcati, data: 07-06-2019, dalle: 12:00 alle 13:00 - Maura Villeato
+2019-06-07 09:09:06->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Gaia Biolcati |  | Biolcati, data: 07-06-2019, dalle: 12:00 alle 13:00 - Maura Villeato
+2019-06-07 09:11:29->CONTATTO-AGGIORNATO: Il contatto #:2767: Francesco Del Vecchio | Mikaline Srl | Del Vecchio aggiornato (PIN: 99662895, SCADENZA: 0000-00-00, TEL1: 3429204314, TEL2: , TEL2: 3429204314, ALT EMAIL:  ) - Pina Aloisi
+2019-06-07 09:12:40->CONTATTO-AGGIORNATO: Il contatto #:2767: Francesco Del Vecchio | Mikaline Srl | Del Vecchio aggiornato (PIN: 99662895, SCADENZA: 0000-00-00, TEL1: 3429204314, TEL2: , TEL2: 3429204314, ALT EMAIL:  ) - Pina Aloisi
+2019-06-07 09:22:54->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Gaia Biolcati |  | Biolcati, data: 10-06-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-06-07 10:41:58->CONTATTO-AGGIORNATO: Il contatto #:2756: Eric Hewett |  | Hewett aggiornato (PIN: 99278617, SCADENZA: 0000-00-00, TEL1: 3384979192, TEL2: , TEL2: 3384979192, ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:42:41->CONTATTO-AGGIORNATO: Il contatto #:2757: Jason Pedicone |  | Pedicone aggiornato (PIN: 99915399, SCADENZA: 0000-00-00, TEL1: 0012016376395, TEL2: , TEL2: 0012016376395, ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:43:11->CONTATTO-AGGIORNATO: Il contatto #:2758: Marco Romani |  | Romani aggiornato (PIN: 99834791, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:45:08->CONTATTO-AGGIORNATO: Il contatto #:2759: Eric Simpson |  | Simpson aggiornato (PIN: 99596264, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:45:45->CONTATTO-AGGIORNATO: Il contatto #:2760: Henrietta Hakes |  | Hakes aggiornato (PIN: 99845057, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:46:19->CONTATTO-AGGIORNATO: Il contatto #:2761: Clare Nash |  | Nash aggiornato (PIN: 99636048, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:48:57->CONTATTO-AGGIORNATO: Il contatto #:2768: Codice Per Dipendenti Paideia |  | Paideia aggiornato (PIN: 99254714, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 10:59:04->CONTATTO-AGGIORNATO: Il contatto #:2769: Charles Ntumba |  | Ntumba aggiornato (PIN: 99184784, SCADENZA: 0000-00-00, TEL1: 3343715103, TEL2: , TEL2: 3343715103, ALT EMAIL:  ) - Reception Generico
+2019-06-07 11:52:34->CONTATTO-AGGIORNATO: Il contatto #:2769: Charles Ntumba |  | Ntumba aggiornato (PIN: 99184784, SCADENZA: 0000-00-00, TEL1: 3343715103, TEL2: , TEL2: 3343715103, ALT EMAIL:  ) - Reception Generico
+2019-06-07 16:20:21->CONTATTO-AGGIORNATO: Il contatto #:2773: Jamel Daugherty |  | Daugherty aggiornato (PIN: 99139995, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 16:22:06->CONTATTO-AGGIORNATO: Il contatto #:2774: Joseph Conlon |  | Conlon aggiornato (PIN: 99852688, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-07 17:50:43->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Bruno De Angelis |  | De Angelis, data: 07-06-2019, dalle: 09:00 alle 18:00 - Maura Villeato
+2019-06-07 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-08 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-09 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-10 14:42:01->CONTATTO-AGGIORNATO: Il contatto #:2756: Eric Hewett | Paideia Institute For Humanistic Study, Inc. | Hewett aggiornato (PIN: 99278617, SCADENZA: 0000-00-00, TEL1: 3384979192, TEL2: , TEL2: 3384979192, ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-10 14:43:15->CONTATTO-AGGIORNATO: Il contatto #:2758: Marco Romani | Paideia Institute For Humanistic Study, Inc. | Romani aggiornato (PIN: 99834791, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-10 14:44:20->CONTATTO-AGGIORNATO: Il contatto #:2757: Jason Pedicone | Paideia Institute For Humanistic Study, Inc. | Pedicone aggiornato (PIN: 99915399, SCADENZA: 0000-00-00, TEL1: 0012016376395, TEL2: , TEL2: 0012016376395, ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-10 15:22:25->CONTATTO-AGGIORNATO: Il contatto #:2775: Sebastiano Perugini |  | Perugini aggiornato (PIN: 99868799, SCADENZA: 0000-00-00, TEL1: 3357968066, TEL2: , TEL2: 3357968066, ALT EMAIL:  ) - Maura Villeato
+2019-06-10 15:22:43->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Sebastiano Perugini |  | Perugini, data: 18-06-2019, dalle: 10:30 alle 11:30 - Maura Villeato
+2019-06-10 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-11 08:53:35->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-06-10 - MASSIMILIANO SANTOLO
+2019-06-11 08:54:01->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-06-03 - MASSIMILIANO SANTOLO
+2019-06-11 12:00:12->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Ezio Carissimi |  | Carissimi, data: 12-06-2019, dalle: 09:00 alle 10:00 - Maura Villeato
+2019-06-11 12:01:29->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 12-06-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-06-11 15:06:22->CONTATTO-AGGIORNATO: Il contatto #:2771: Joseph Kolokouris | Paideia Institute For Humanistic Study, Inc. | Kolokouris aggiornato (PIN: 99543075, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-11 15:12:07->CONTATTO-AGGIORNATO: Il contatto #:2755: Eugene Cunningham | Paideia Institute For Humanistic Study, Inc. | Cunningham aggiornato (PIN: 99260430, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-11 15:12:38->CONTATTO-AGGIORNATO: Il contatto #:2772: Allegra Forbes |  | Forbes aggiornato (PIN: 99767881, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-11 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-12 10:31:09->CONTATTO-AGGIORNATO: Il contatto #:2776: Noel Noel | Pick Center Roma srl Unipersonale | Noel aggiornato (PIN: 95864040, SCADENZA: 0000-00-00, TEL1: 3293381223, TEL2: , TEL2: 3293381223, ALT EMAIL:  ) - Maura Villeato
+2019-06-12 10:31:20->CONTATTO-AGGIORNATO: Il contatto #:2776: Noel Noel | Pick Center Roma srl Unipersonale | Noel aggiornato (PIN: 95864040, SCADENZA: 0000-00-00, TEL1: 3293381223, TEL2: , TEL2: 3293381223, ALT EMAIL:  ) - Maura Villeato
+2019-06-12 10:31:33->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a Noel Noel | Pick Center Roma srl Unipersonale | Noel - Maura Villeato - Maura Villeato
+2019-06-12 10:38:58->CONTATTO-AGGIORNATO: Il contatto #:2776: Noel Noel | Pick Center Roma srl Unipersonale | Noel aggiornato (PIN: 95864040, SCADENZA: 0000-00-00, TEL1: 3293381223, TEL2: , TEL2: 3293381223, ALT EMAIL:  ) - Maura Villeato
+2019-06-12 17:27:29->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-06-12 - MASSIMILIANO SANTOLO
+2019-06-12 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-13 16:11:19->CONTATTO-PIN: Disattivati tutti gli uffi a Raffaella Neri | PICK CENTER NERI - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-06-13 16:11:38->CONTATTO-PIN: Assegnati uffici REG24 a ILARIA QUATTRINI | PICK CENTER QUATTRINI - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-06-13 16:11:40->CONTATTO-AGGIORNATO: Il contatto #:1035: ILARIA QUATTRINI | PICK CENTER QUATTRINI aggiornato (PIN: 95171717, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-06-13 16:12:03->CONTATTO-PIN: Assegnati uffici REG24 a Raffaella Neri | PICK CENTER NERI - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-06-13 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-14 11:22:56->CONTATTO-AGGIORNATO: Il contatto #:2779: Andrea Marini Sera | Ente Formazione Ricerca e Studi sulla Pace &quot;Jus et Pax&quot; S.e M.Sera | Marini Sera aggiornato (PIN: 99549909, SCADENZA: 0000-00-00, TEL1: 3932830195, TEL2: , TEL2: 3932830195, ALT EMAIL:  ) - Reception Generico
+2019-06-14 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-15 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-16 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-17 08:57:23->CONTATTO-PIN: Disattivati tutti gli uffi a Francesco Pettini | Starting Finance Srl | Pettini - Maura Villeato - Maura Villeato
+2019-06-17 08:57:29->CONTATTO-AGGIORNATO: Il contatto #:2631: Francesco Pettini | Starting Finance Srl | Pettini aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-17 08:58:13->CONTATTO-PIN: Disattivati tutti gli uffi a Francesco Cirillo | Starting Finance Srl | Cirillo - Maura Villeato - Maura Villeato
+2019-06-17 08:58:17->CONTATTO-AGGIORNATO: Il contatto #:2630: Francesco Cirillo | Starting Finance Srl | Cirillo aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:01:56->CONTATTO-PIN: Disattivati tutti gli uffi a Roberto Sfoglietta | Starting Finance Srl | Sfoglietta - Maura Villeato - Maura Villeato
+2019-06-17 09:02:02->CONTATTO-AGGIORNATO: Il contatto #:2623: Roberto Sfoglietta | Starting Finance Srl | Sfoglietta aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3345080281, TEL2: , TEL2: 3345080281, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:02:53->CONTATTO-AGGIORNATO: Il contatto #:2622: Riccardo Carnevale | Starting Finance Srl | Carnevale aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3398856106, TEL2: , TEL2: 3398856106, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:03:37->CONTATTO-AGGIORNATO: Il contatto #:2621: Luca Barrile | Starting Finance Srl | Barrile aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3921693510, TEL2: , TEL2: 3921693510, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:04:19->CONTATTO-PIN: Disattivati tutti gli uffi a Lorenzo Smeraldi | Starting Finance Srl | Smeraldi - Maura Villeato - Maura Villeato
+2019-06-17 09:04:25->CONTATTO-AGGIORNATO: Il contatto #:2620: Lorenzo Smeraldi | Starting Finance Srl | Smeraldi aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3319589568, TEL2: , TEL2: 3319589568, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:05:12->CONTATTO-AGGIORNATO: Il contatto #:2619: Simone Conti | Starting Finance Srl | Conti aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3286903039, TEL2: , TEL2: 3286903039, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:05:56->CONTATTO-PIN: Disattivati tutti gli uffi a Riccardo Angioli | Starting Finance Srl | Angioli - Maura Villeato - Maura Villeato
+2019-06-17 09:06:01->CONTATTO-AGGIORNATO: Il contatto #:2618: Riccardo Angioli | Starting Finance Srl | Angioli aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3389800331, TEL2: , TEL2: 3389800331, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:06:46->CONTATTO-PIN: Disattivati tutti gli uffi a Edoardo Di Lella | Starting Finance Srl | Di Lella - Maura Villeato - Maura Villeato
+2019-06-17 09:06:55->CONTATTO-AGGIORNATO: Il contatto #:2617: Edoardo Di Lella | Starting Finance Srl | Di Lella aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3389985378, TEL2: , TEL2: 3389985378, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:11:33->CONTATTO-PIN: Disattivati tutti gli uffi a Marco Scioli | Starting Finance Srl | Scioli - Maura Villeato - Maura Villeato
+2019-06-17 09:11:37->CONTATTO-AGGIORNATO: Il contatto #:2616: Marco Scioli | Starting Finance Srl | Scioli aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3465138431, TEL2: , TEL2: 3465138431, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 09:12:20->CONTATTO-PIN: Disattivati tutti gli uffi a Matteo Albergati | Starting Finance Srl | Albergati - Maura Villeato - Maura Villeato
+2019-06-17 09:12:24->CONTATTO-AGGIORNATO: Il contatto #:2615: Matteo Albergati | Starting Finance Srl | Albergati aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3397971796, TEL2: , TEL2: 3397971796, ALT EMAIL:  ) - Maura Villeato
+2019-06-17 10:42:59->CONTATTO-AGGIORNATO: Il contatto #:2781: Ester Tedesco |  | Tedesco aggiornato (PIN: 99311704, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-17 10:43:26->CONTATTO-AGGIORNATO: Il contatto #:2781: Ester Tedesco |  | Tedesco aggiornato (PIN: 99311704, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-17 10:46:16->CONTATTO-AGGIORNATO: Il contatto #:2782: Gian Marco Marzo |  | Marzo aggiornato (PIN: 99872633, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-17 13:14:39->CONTATTO-AGGIORNATO: Il contatto #:2785: Marco Irollo | Aruba Pec SpA | Irollo aggiornato (PIN: 99216247, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-17 13:18:04->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Ezio Carissimi |  | Carissimi, data: 17-06-2019, dalle: 15:30 alle 16:30 - Maura Villeato
+2019-06-17 13:30:38->CONTATTO-AGGIORNATO: Il contatto #:2786: Gerardo Sorrenti | Aruba Pec SpA | Sorrenti aggiornato (PIN: 99285971, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-17 15:08:08->CONTATTO-AGGIORNATO: Il contatto #:2787: Francesca Morgana |  | Morgana aggiornato (PIN: 99225172, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-17 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-18 08:31:55->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-06-18 - MASSIMILIANO SANTOLO
+2019-06-18 08:46:39->CONTATTO-AGGIORNATO: Il contatto #:2734: Gian Piero Di Muro | ITABUS SPA | Di Muro aggiornato (PIN: 99384936, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-18 08:47:41->CONTATTO-AGGIORNATO: Il contatto #:2788: Liliana Zarobbi |  | Zarobbi aggiornato (PIN: 99768687, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-18 11:42:56->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Mirko Saginario |  | Saginario, data: 18-06-2019, dalle: 16:00 alle 19:00 - Maura Villeato
+2019-06-18 11:43:09->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Mirko Saginario |  | Saginario, data: 18-06-2019, dalle: 16:00 alle 19:00 - Maura Villeato
+2019-06-18 11:43:15->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Mirko Saginario |  | Saginario, data: 18-06-2019, dalle: 16:00 alle 19:00 - Maura Villeato
+2019-06-18 15:59:14->CONTATTO-AGGIORNATO: Il contatto #:2790: Giovanna Dettori | Associazione Faip Counseling | Dettori aggiornato (PIN: 99426906, SCADENZA: 0000-00-00, TEL1: 3290481528, TEL2: , TEL2: 3290481528, ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-18 17:18:50->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Maria Alessandra Iazzi |  | Iazzi, data: 20-06-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-06-18 17:19:42->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 20-06-2019, dalle: 11:30 alle 12:30 - Maura Villeato
+2019-06-18 17:20:17->CONTATTO-AGGIORNATO: Il contatto #:2610: Luca Bonifaci | BOGIM S.a.s. di Bonifaci Luca & C. | Bonifaci aggiornato (PIN: 99395598, SCADENZA: 0000-00-00, TEL1: *1051*7703460008471, TEL2: , TEL2: *1051*7703460008471, ALT EMAIL:  ) - Maura Villeato
+2019-06-18 17:20:42->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Luca Bonifaci | BOGIM S.a.s. di Bonifaci Luca & C. | Bonifaci, data: 20-06-2019, dalle: 10:30 alle 13:30 - Maura Villeato
+2019-06-18 18:31:09->CONTATTO-AGGIORNATO: Il contatto #:2791: Raffaele Brunetti | B&amp;amp;Bfilm srl | Brunetti aggiornato (PIN: 99340759, SCADENZA: 0000-00-00, TEL1: , TEL2: 0639729989, TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-18 18:31:34->CONTATTO-AGGIORNATO: Il contatto #:2791: Raffaele Brunetti | B&amp;amp;Bfilm srl | Brunetti aggiornato (PIN: 99340759, SCADENZA: 0000-00-00, TEL1: , TEL2: 0639729989, TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-18 18:31:53->CONTATTO-AGGIORNATO: Il contatto #:2791: Raffaele Brunetti | B&amp;amp;Bfilm srl | Brunetti aggiornato (PIN: 99340759, SCADENZA: 0000-00-00, TEL1: , TEL2: 0639729989, TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-18 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-19 17:09:45->CONTATTO-AGGIORNATO: Il contatto #:2794: Michael Campurra |  | Campurra aggiornato (PIN: 99597100, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-19 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-20 10:02:34->CONTATTO-AGGIORNATO: Il contatto #:2795: Tommaso Bovignoli |  | Bovignoli aggiornato (PIN: 99729202, SCADENZA: 0000-00-00, TEL1: 3385254067, TEL2: , TEL2: 3385254067, ALT EMAIL:  ) - Maura Villeato
+2019-06-20 10:03:06->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Tommaso Bovignoli |  | Bovignoli, data: 25-06-2019, dalle: 10:30 alle 12:30 - Maura Villeato
+2019-06-20 10:13:58->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 20-06-2019, dalle: 11:30 alle 12:30 - Maura Villeato
+2019-06-20 11:07:31->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Beatrice Palma | Hotelbeds Group Italy S.r.l. | Palma - Maura Villeato - Maura Villeato
+2019-06-20 11:07:34->CONTATTO-AGGIORNATO: Il contatto #:2708: Beatrice Palma | Hotelbeds Group Italy S.r.l. | Palma aggiornato (PIN: 99657175, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-20 11:56:18->CONTATTO-AGGIORNATO: Il contatto #:2796: Christina Cooley | American Women&rsquo;s Association of Rome | Cooley aggiornato (PIN: 99777717, SCADENZA: 0000-00-00, TEL1: , TEL2: 064825268, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-20 11:56:50->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Christina Cooley | American Women&rsquo;s Association of Rome | Cooley, data: 25-06-2019, dalle: 18:00 alle 20:00 - Maura Villeato
+2019-06-20 14:45:50->CONTATTO-AGGIORNATO: Il contatto #:2797: Gerardo Della Monica | NTT DATA ITALIA spa | Della Monica aggiornato (PIN: 99544558, SCADENZA: 0000-00-00, TEL1: , TEL2: 06398811, TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-20 14:47:45->CONTATTO-AGGIORNATO: Il contatto #:2797: Gerardo Della Monica | NTT DATA ITALIA spa | Della Monica aggiornato (PIN: 99544558, SCADENZA: 0000-00-00, TEL1: , TEL2: 06398811, TEL2: , ALT EMAIL:  ) - Reception Generico
+2019-06-20 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-21 09:20:02->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Ezio Carissimi |  | Carissimi, data: 21-06-2019, dalle: 16:30 alle 17:30 - Maura Villeato
+2019-06-21 10:09:47->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a Raffaella Neri | PICK CENTER NERI - Maura Villeato - Maura Villeato
+2019-06-21 10:09:52->CONTATTO-AGGIORNATO: Il contatto #:1036: Raffaella Neri | PICK CENTER NERI aggiornato (PIN: 95232323, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-21 10:10:36->CONTATTO-PIN: Assegnati uffici REG02, REG02B, REG03, REG05, REG06, REG07, REG08, REG09, REG10, REG11, REG12, REG13, REG14, REG15, REG19, REG20, REG21, REG22, REG23, REG24 a ILARIA QUATTRINI | PICK CENTER QUATTRINI - Maura Villeato - Maura Villeato
+2019-06-21 10:10:40->CONTATTO-AGGIORNATO: Il contatto #:1035: ILARIA QUATTRINI | PICK CENTER QUATTRINI aggiornato (PIN: 95171717, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-21 11:02:54->CONTATTO-AGGIORNATO: Il contatto #:2799: Adolfo Pellegrino |  | Pellegrino aggiornato (PIN: 99406447, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-21 11:28:01->CONTATTO-AGGIORNATO: Il contatto #:2778: Loredana Cossu |  | Cossu aggiornato (PIN: 99998046, SCADENZA: 2019-06-26, TEL1: 3929783534, TEL2: , TEL2: 3929783534, ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-21 11:30:58->CONTATTO-AGGIORNATO: Il contatto #:2799: Adolfo Pellegrino |  | Pellegrino aggiornato (PIN: 99406447, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-21 17:55:14->CONTATTO-PIN: Assegnati uffici REG03 a Ezio Carissimi |  | Carissimi - Maura Villeato - Maura Villeato
+2019-06-21 17:55:17->CONTATTO-AGGIORNATO: Il contatto #:2383: Ezio Carissimi |  | Carissimi aggiornato (PIN: 99160192, SCADENZA: 0000-00-00, TEL1: 3356507890, TEL2: , TEL2: 3356507890, ALT EMAIL:  ) - Maura Villeato
+2019-06-21 19:00:03->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-22 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-23 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-24 09:25:38->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Maria Alessandra Iazzi |  | Iazzi, data: 24-06-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-06-24 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-25 09:03:57->CONTATTO-AGGIORNATO: Il contatto #:2796: Christina Cooley | American Women&rsquo;s Association of Rome | Cooley aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: , TEL2: 064825268, TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-25 11:40:50->CONTATTO-AGGIORNATO: Il contatto #:2804: Antonio Ferraguti |  | Ferraguti aggiornato (PIN: 99514921, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-25 11:41:19->CONTATTO-AGGIORNATO: Il contatto #:2804: Antonio Ferraguti |  | Ferraguti aggiornato (PIN: 99514921, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-25 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-26 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-27 10:19:59->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Gaia Biolcati |  | Biolcati, data: 27-06-2019, dalle: 10:30 alle 11:30 - Maura Villeato
+2019-06-27 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-28 09:13:34->CONTATTO-AGGIORNATO: Il contatto #:2807: Roberto Mariani | Mariani Medical Srls | Mariani aggiornato (PIN: 99515631, SCADENZA: 2019-07-01, TEL1: , TEL2: 0668891598, TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-06-28 10:02:20->CONTATTO-AGGIORNATO: Il contatto #:2102: Ivana Trevisi | F.S.N. Fashion System Network S.r.l.s. | Trevisi aggiornato (PIN: 99194957, SCADENZA: 2019-07-01, TEL1: *7025*7703495657224, TEL2: , TEL2: *7025*7703495657224, ALT EMAIL: nicole@firstmodelandactor.com ) - Agnese Micomonaco
+2019-06-28 13:21:01->CONTATTO-AGGIORNATO: Il contatto #:2811: Damiano Carvelli | Hotelbeds Group Italy S.r.l. | Carvelli aggiornato (PIN: 99298473, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:21:15->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Damiano Carvelli | Hotelbeds Group Italy S.r.l. | Carvelli - Maura Villeato - Maura Villeato
+2019-06-28 13:21:25->CONTATTO-AGGIORNATO: Il contatto #:2811: Damiano Carvelli | Hotelbeds Group Italy S.r.l. | Carvelli aggiornato (PIN: 99298473, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:22:40->CONTATTO-AGGIORNATO: Il contatto #:2810: Valentina Maiorino | Hotelbeds Group Italy S.r.l. | Maiorino aggiornato (PIN: 99219478, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:22:49->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Valentina Maiorino | Hotelbeds Group Italy S.r.l. | Maiorino - Maura Villeato - Maura Villeato
+2019-06-28 13:22:54->CONTATTO-AGGIORNATO: Il contatto #:2810: Valentina Maiorino | Hotelbeds Group Italy S.r.l. | Maiorino aggiornato (PIN: 99219478, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:24:15->CONTATTO-AGGIORNATO: Il contatto #:2809: Cristian Greco | Hotelbeds Group Italy S.r.l. | Greco aggiornato (PIN: 99583827, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:24:25->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Cristian Greco | Hotelbeds Group Italy S.r.l. | Greco - Maura Villeato - Maura Villeato
+2019-06-28 13:24:36->CONTATTO-AGGIORNATO: Il contatto #:2809: Cristian Greco | Hotelbeds Group Italy S.r.l. | Greco aggiornato (PIN: 99583827, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:25:52->CONTATTO-AGGIORNATO: Il contatto #:2808: Michael Bender | Hotelbeds Group Italy S.r.l. | Bender aggiornato (PIN: 99630294, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-06-28 13:26:01->CONTATTO-PIN: Assegnati uffici REG02, REG08, REG09, REG13 a Michael Bender | Hotelbeds Group Italy S.r.l. | Bender - Maura Villeato - Maura Villeato
+2019-06-28 17:09:31->CONTATTO-AGGIORNATO: Il contatto #:2812: Catia Fruci |  | Fruci aggiornato (PIN: 99225652, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-28 17:11:09->CONTATTO-AGGIORNATO: Il contatto #:2813: Vincenzo Matarazzo |  | Matarazzo aggiornato (PIN: 99498419, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-06-28 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-29 19:00:11->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-06-30 19:00:07->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-01 08:49:10->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Vincenzo Ioffredi |  | Ioffredi, data: 01-07-2019, dalle: 14:00 alle 15:00 - Maura Villeato
+2019-07-01 11:33:23->CONTATTO-AGGIORNATO: Il contatto #:2814: Luca Lombardozzi |  | Lombardozzi aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3356573860, TEL2: , TEL2: 3356573860, ALT EMAIL:  ) - Agnese Micomonaco
+2019-07-01 17:14:49->CONTATTO-AGGIORNATO: Il contatto #:2816: Mariano Leggio |  | Leggio aggiornato (PIN: 99394372, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-01 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-02 09:08:26->CONTATTO-AGGIORNATO: Il contatto #:2819: Elisabetta Mantovani |  | Mantovani aggiornato (PIN: 99499124, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 09:09:44->CONTATTO-AGGIORNATO: Il contatto #:2819: Elisabetta Mantovani |  | Mantovani aggiornato (PIN: 99499124, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 09:13:00->CONTATTO-AGGIORNATO: Il contatto #:2819: Elisabetta Mantovani |  | Mantovani aggiornato (PIN: 99499124, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 10:40:31->CONTATTO-AGGIORNATO: Il contatto #:2823: Massimo Armeni |  | Armeni aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: 3206407471, TEL2: , TEL2: 3206407471, ALT EMAIL:  ) - Agnese Micomonaco
+2019-07-02 11:37:44->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-07-02 - MASSIMILIANO SANTOLO
+2019-07-02 14:39:15->CONTATTO-AGGIORNATO: Il contatto #:2824: Massimo Calio' |  | Calio' aggiornato (PIN: 99876380, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 14:51:13->CONTATTO-AGGIORNATO: Il contatto #:2824: Massimo Calio' |  | Calio' aggiornato (PIN: 99876380, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 14:56:11->CONTATTO-AGGIORNATO: Il contatto #:2822: Nicolo Musumeci | NTT DATA ITALIA spa | Musumeci aggiornato (PIN: 99395436, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 14:56:31->CONTATTO-AGGIORNATO: Il contatto #:2824: Massimo Calio' |  | Calio' aggiornato (PIN: 99876380, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 14:56:36->CONTATTO-AGGIORNATO: Il contatto #:2822: Nicolo Musumeci | NTT DATA ITALIA spa | Musumeci aggiornato (PIN: 99395436, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 14:58:50->CONTATTO-AGGIORNATO: Il contatto #:2825: Elisa Iezzi |  | Iezzi aggiornato (PIN: 99903668, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-02 16:21:55->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Mirko Saginario |  | Saginario, data: 02-07-2019, dalle: 17:00 alle 19:00 - Maura Villeato
+2019-07-02 16:26:30->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Maurizio Paolucci | Acli Service Terra di Lavoro Srl | Paolucci, data: 03-07-2019, dalle: 08:30 alle 18:30 - Maura Villeato
+2019-07-02 16:28:36->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Maurizio Paolucci | Acli Service Terra di Lavoro Srl | Paolucci, data: 16-07-2019, dalle: 08:30 alle 18:30 - Maura Villeato
+2019-07-02 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-03 14:22:40->CONTATTO-AGGIORNATO: Il contatto #:2817: Valentina Sannino |  | Sannino aggiornato (PIN: 99475101, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-03 14:22:42->CONTATTO-AGGIORNATO: Il contatto #:2817: Valentina Sannino |  | Sannino aggiornato (PIN: 99475101, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-03 14:33:14->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 04-07-2019, dalle: 12:00 alle 13:00 - Maura Villeato
+2019-07-03 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-04 09:03:41->ACCESSO-NOTA: Aggiornata una nota (PIN: 666666) per ingresso del 2019-07-03 - MASSIMILIANO SANTOLO
+2019-07-04 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-05 15:47:58->CONTATTO-AGGIORNATO: Il contatto #:2835: Francesco Compiani | NTT DATA ITALIA spa | Compiani aggiornato (PIN: 99519141, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Pina Aloisi
+2019-07-05 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-06 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-07 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-08 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-09 12:37:58->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Claudio Serangeli | Avvocato Claudio Serangeli, data: 09-07-2019, dalle: 15:00 alle 16:00 - Maura Villeato
+2019-07-09 17:25:04->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Alessandra Messina |  | Messina, data: 10-07-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-07-09 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-10 09:16:42->CONTATTO-AGGIORNATO: Il contatto #:2840: David Marinelli |  | Marinelli aggiornato (PIN: 99837894, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Madalina Bobocea
+2019-07-10 09:16:49->CONTATTO-AGGIORNATO: Il contatto #:2840: David Marinelli |  | Marinelli aggiornato (PIN: 99837894, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Madalina Bobocea
+2019-07-10 15:09:44->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Cinzia Russo |  | Russo, data: 11-07-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-07-10 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-11 15:43:16->CONTATTO-AGGIORNATO: Il contatto #:2842: Michele Romita | Hotelbeds Group Italy S.r.l. | Romita aggiornato (PIN: 99525053, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-07-11 17:26:15->CONTATTO-AGGIORNATO: Il contatto #:1913: Guido Rosano |  | Rosano aggiornato (PIN: 97921669, SCADENZA: 0000-00-00, TEL1: , TEL2: 0645214553, TEL2: , ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-07-11 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-12 19:00:07->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-13 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-14 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-15 08:43:31->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Cinzia Russo |  | Russo, data: 15-07-2019, dalle: 13:00 alle 14:00 - Maura Villeato
+2019-07-15 10:24:19->CONTATTO-AGGIORNATO: Il contatto #:2845: Giulio Testi | Monozukuri Spa | Testi aggiornato (PIN: 99724987, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-07-15 10:24:35->CONTATTO-PIN: Assegnati uffici REG05, REG06 a Giulio Testi | Monozukuri Spa | Testi - Maura Villeato - Maura Villeato
+2019-07-15 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-16 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-17 11:37:47->CONTATTO-AGGIORNATO: Il contatto #:2862: Basilio Basilio |  | Basilio aggiornato (PIN: 99223022, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-07-17 11:38:33->CONTATTO-PIN: Assegnati uffici REG24 a Basilio Basilio |  | Basilio - Maura Villeato - Maura Villeato
+2019-07-17 12:43:13->CONTATTO-AGGIORNATO: Il contatto #:1715:   | LAVENETA aggiornato (PIN: 99634930, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Maura Villeato
+2019-07-17 13:46:03->CONTATTO-AGGIORNATO: Il contatto #:2872: Nicola Francesco Inglese | ICT CONSULTING S.p.A. | Inglese aggiornato (PIN: 99991340, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Madalina Bobocea
+2019-07-17 16:11:48->CONTATTO-AGGIORNATO: Il contatto #:2873: Raffaella Lamanna | ICT CONSULTING S.p.A. | Lamanna aggiornato (PIN: 99525323, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Madalina Bobocea
+2019-07-17 16:11:52->CONTATTO-AGGIORNATO: Il contatto #:2872: Nicola Francesco Inglese | ICT CONSULTING S.p.A. | Inglese aggiornato (PIN: 99991340, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Madalina Bobocea
+2019-07-17 17:29:11->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Cinzia Russo |  | Russo, data: 18-07-2019, dalle: 11:00 alle 12:00 - Maura Villeato
+2019-07-17 17:30:27->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Mirko Saginario |  | Saginario, data: 18-07-2019, dalle: 17:00 alle 19:00 - Maura Villeato
+2019-07-17 19:00:11->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-18 08:48:13->CONTATTO-AGGIORNATO: Il contatto #:2851: Jason Mercer | Story Inc. | Mercer aggiornato (PIN: 99851019, SCADENZA: 2019-08-08, TEL1: 3236978256, TEL2: , TEL2: 3236978256, ALT EMAIL:  ) - Agnese Micomonaco
+2019-07-18 10:03:36->CONTATTO-AGGIORNATO: Il contatto #:2740: Daniela Moretti | C9 Srl  aggiornato (PIN: 99908225, SCADENZA: 0000-00-00, TEL1: 3394150746, TEL2: 063364618, TEL2: 3394150746, ALT EMAIL:  ) - Maura Villeato
+2019-07-18 10:03:44->CONTATTO-AGGIORNATO: Il contatto #:2740: Daniela Moretti | C9 Srl  aggiornato (PIN: 99908225, SCADENZA: 0000-00-00, TEL1: 3394150746, TEL2: 063364618, TEL2: 3394150746, ALT EMAIL:  ) - Maura Villeato
+2019-07-18 10:12:53->CONTATTO-AGGIORNATO: Il contatto #:2893: Maurizio Novelli |  | Novelli aggiornato (PIN: 99726290, SCADENZA: 2019-07-31, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-07-18 11:22:16->CONTATTO-AGGIORNATO: Il contatto #:2912: Federico Germinarip |  | Germinarip aggiornato (PIN: 99574370, SCADENZA: 2019-09-30, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Agnese Micomonaco
+2019-07-19 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-20 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-21 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-22 09:30:25->CONTATTO-AGGIORNATO: Il contatto #:2950: Arianna Bernardini |  | Bernardini aggiornato (PIN: 99102966, SCADENZA: 0000-00-00, TEL1: 3663596588, TEL2: , TEL2: 3663596588, ALT EMAIL:  ) - Maura Villeato
+2019-07-22 09:31:07->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Arianna Bernardini |  | Bernardini, data: 23-07-2019, dalle: 18:30 alle 19:30 - Maura Villeato
+2019-07-22 10:15:39->DAY/SALE-PIN-ELIMINATO: Accesso temporaneo eliminato - Maura Villeato
+2019-07-22 10:15:55->CONTATTO-PIN: Assegnati uffici REG14 a Arianna Bernardini |  | Bernardini - Maura Villeato - Maura Villeato
+2019-07-22 10:15:59->CONTATTO-AGGIORNATO: Il contatto #:2950: Arianna Bernardini |  | Bernardini aggiornato (PIN: 99102966, SCADENZA: 0000-00-00, TEL1: 3663596588, TEL2: , TEL2: 3663596588, ALT EMAIL:  ) - Maura Villeato
+2019-07-22 15:40:46->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG14 cliente: Sabrina Mogli&egrave; | Gruppo Pragma S.r.l. | Mogli&egrave;, data: 23-07-2019, dalle: 14:30 alle 17:30 - Maura Villeato
+2019-07-22 15:43:19->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Claudio Serangeli |  | Serangeli, data: 23-07-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-07-22 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-23 09:41:13->CONTATTO-AGGIORNATO: Il contatto #:2954: Dario Rietti | ITABUS SPA | Rietti aggiornato (PIN: 99845698, SCADENZA: 0000-00-00, TEL1: , TEL2: , TEL2: , ALT EMAIL:  ) - Francesca Donati
+2019-07-23 10:55:07->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Fabrizio Pardi | Bonifacio Srl | Pardi, data: 29-07-2019, dalle: 12:00 alle 19:00 - Maura Villeato
+2019-07-23 19:00:06->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-24 09:03:09->CONTATTO-PIN: Disattivati tutti gli uffi a Arianna Bernardini |  | Bernardini - Maura Villeato - Maura Villeato
+2019-07-24 09:03:17->CONTATTO-AGGIORNATO: Il contatto #:2950: Arianna Bernardini |  | Bernardini aggiornato (PIN: 55102966, SCADENZA: 0000-00-00, TEL1: 3663596588, TEL2: , TEL2: 3663596588, ALT EMAIL:  ) - Maura Villeato
+2019-07-24 09:05:38->CONTATTO-AGGIORNATO: Il contatto #:2955: Deborah Forgione |  | Forgione aggiornato (PIN: 99761549, SCADENZA: 0000-00-00, TEL1: 3407150079, TEL2: , TEL2: 3407150079, ALT EMAIL:  ) - Maura Villeato
+2019-07-24 09:08:26->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Deborah Forgione |  | Forgione, data: 24-07-2019, dalle: 10:00 alle 11:00 - Maura Villeato
+2019-07-24 09:12:23->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Andrea Bruno |  Bruno, data: 24-07-2019, dalle: 14:30 alle 16:30 - Maura Villeato
+2019-07-24 09:40:47->CONTATTO-AGGIORNATO: Il contatto #:2953: Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo aggiornato (PIN: 99990103, SCADENZA: 0000-00-00, TEL1: *6666*7703931958785, TEL2: 0632803402, TEL2: *6666*7703931958785, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-07-24 09:46:06->CONTATTO-PIN: Assegnati uffici REG02B, REG13, REG22 a Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo - MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-07-24 09:46:39->GRUPPO-PIN-CREATO: Gruppo PAPERO creato (Assegnati uffici REG02, REG11, REG14) - MASSIMILIANO SANTOLO
+2019-07-24 09:47:14->CONTATTO-PIN-GRUPPO: Assegnati uffici REG02, REG11, REG14 a Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo | MASSIMILIANO SANTOLO - MASSIMILIANO SANTOLO
+2019-07-24 09:49:14->CONTATTO-AGGIORNATO: Il contatto #:2953: Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo aggiornato (PIN: 99594455, SCADENZA: 0000-00-00, TEL1: *6666*7703931958785, TEL2: 0632803402, TEL2: *6666*7703931958785, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-07-24 10:07:00->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG24 cliente: Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo, data: 24-07-2019, dalle: 10:30 alle 12:30 - MASSIMILIANO SANTOLO
+2019-07-24 10:48:04->CONTATTO-AGGIORNATO: Il contatto #:2953: Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo aggiornato (PIN: 99594455, SCADENZA: 2019-07-31, TEL1: *6666*7703931958785, TEL2: 0632803402, TEL2: *6666*7703931958785, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-07-24 10:48:11->CONTATTO-AGGIORNATO: Il contatto #:2953: Massimiliano Santolo | Smart Working Hub S.r.l. | Santolo aggiornato (PIN: 99594455, SCADENZA: 0000-00-00, TEL1: *6666*7703931958785, TEL2: 0632803402, TEL2: *6666*7703931958785, ALT EMAIL:  ) - MASSIMILIANO SANTOLO
+2019-07-24 14:06:11->CONTATTO-AGGIORNATO: Il contatto #:2958: Giancarlo Laino | GIANCARLO LAINO | Laino aggiornato (PIN: 99222248, SCADENZA: 0000-00-00, TEL1: 3479753797, TEL2: , TEL2: 3479753797, ALT EMAIL:  ) - Pina Aloisi
+2019-07-24 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-25 09:15:11->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Cinzia Russo |  | Russo, data: 25-07-2019, dalle: 11:00 alle 13:00 - Maura Villeato
+2019-07-25 11:06:05->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Cinzia Russo |  | Russo, data: 25-07-2019, dalle: 11:00 alle 13:00 - Maura Villeato
+2019-07-25 12:02:23->CONTATTO-AGGIORNATO: Il contatto #:1428: Nadia Saccocci | Synertrade Italy srl aggiornato (PIN: 55150292, SCADENZA: 0000-00-00, TEL1: *2004*7703339555052, TEL2: , TEL2: *2004*7703339555052, ALT EMAIL:  ) - Maura Villeato
+2019-07-25 12:02:28->CONTATTO-PIN: Disattivati tutti gli uffi a Nadia Saccocci | Synertrade Italy srl - Maura Villeato - Maura Villeato
+2019-07-25 12:02:35->CONTATTO-AGGIORNATO: Il contatto #:1428: Nadia Saccocci | Synertrade Italy srl aggiornato (PIN: 55150292, SCADENZA: 0000-00-00, TEL1: *2004*7703339555052, TEL2: , TEL2: *2004*7703339555052, ALT EMAIL:  ) - Maura Villeato
+2019-07-25 14:22:48->CONTATTO-AGGIORNATO: Il contatto #:2960: Elisabetta Zoli |  | Zoli aggiornato (PIN: 99311931, SCADENZA: 0000-00-00, TEL1: 3394004676, TEL2: , TEL2: 3394004676, ALT EMAIL:  ) - Maura Villeato
+2019-07-25 14:23:05->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG07 cliente: Elisabetta Zoli |  | Zoli, data: 25-07-2019, dalle: 15:00 alle 16:00 - Maura Villeato
+2019-07-25 18:08:31->CONTATTO-AGGIORNATO: Il contatto #:2315: Daniele Stanzione | Daniele Stanzione | Stanzione aggiornato (PIN: 99273284, SCADENZA: 0000-00-00, TEL1: *8114*7703939819575, TEL2: , TEL2: *8114*7703939819575, ALT EMAIL:  ) - Pina Aloisi
+2019-07-25 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-26 12:52:08->CONTATTO-PIN: Disattivati tutti gli uffi a Ezio Carissimi |  | Carissimi - Maura Villeato - Maura Villeato
+2019-07-26 12:52:27->DAY/SALE-PIN: Accesso temporaneo programmato Assegnati uffici REG03 cliente: Ezio Carissimi |  | Carissimi, data: 29-07-2019, dalle: 17:00 alle 18:00 - Maura Villeato
+2019-07-26 16:42:47->CONTATTO-AGGIORNATO: Il contatto #:1428: Nadia Saccocci | Synertrade Italy srl aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: *2004*7703339555052, TEL2: , TEL2: *2004*7703339555052, ALT EMAIL:  ) - Maura Villeato
+2019-07-26 16:44:02->CONTATTO-AGGIORNATO: Il contatto #:1428: Nadia Saccocci | Synertrade Italy srl aggiornato (PIN: , SCADENZA: 0000-00-00, TEL1: *2004*7703339555052, TEL2: , TEL2: *2004*7703339555052, ALT EMAIL:  ) - Maura Villeato
+2019-07-26 19:00:04->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-27 19:00:08->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA
+2019-07-28 19:00:05->SISTEMA: Inviata Mail Pin a info@gsavigilanza.com, operativo@gsavigilanza.com, segreterie@pickcenter.com, info@pickcenter.com - SISTEMA

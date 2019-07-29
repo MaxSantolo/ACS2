@@ -90,6 +90,8 @@ echo "<table id=\"checkins\" class=\"table table-bordered table-striped table-ho
 
 while ($ci = $acheckins->fetch_assoc()) {
 
+        //formatto e mostro la tabella degli accesi temporanei
+
         $client = $ci['firstname']. ' '.$ci['lastname']. ' | '. $ci['company'];
         $fdate = ACSBase::DateToItalian($ci['date'],'l d-m-Y');
         $fstart = ACSBase::DateToItalian($ci['tstart'],'H:i');
@@ -138,6 +140,7 @@ if (isset($_POST['ciedit']) || isset($_POST['cidup'])) {
     $rdate = $_POST['rdate'];
     $days = $_POST['repdays'];
 
+    //leggo le ripetizioni se ci sono altrimenti passo array con la data singola
     if ($rdate !='') {
         $repdates = DB::dateRangeRecurring($date,$rdate,$days);
     } else $repdates = array($date);
@@ -151,6 +154,7 @@ if (isset($_POST['ciedit']) || isset($_POST['cidup'])) {
         }
     }
 
+    // se c'è messaggio di errore lo visualizzo in un alert
    if($message!='') {      echo "<script>alert('" . $message . "');</script>"; }
 
     echo "<meta http-equiv='refresh' content='0'>";
@@ -160,7 +164,7 @@ builder::Scripts();
 //builder::configDataTable('checkins','true',25,0,'asc');
 builder::configGroupedDataTable($grpclm,'checkins',true,25,0,'asc',12);
 
-
+//script per l'ajax
 echo "
     <script>    
                 $(document).on('click', '.ciedit', function(e){
@@ -232,7 +236,7 @@ echo "
 
 
 
-DB::dropConn("$conn");
+DB::dropConn($conn);
 
 
 

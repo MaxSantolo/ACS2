@@ -1,0 +1,40 @@
+ Il volume nell'unit… X Š www
+ Numero di serie del volume: F818-73BB
+
+ Directory di X:\
+
+24/05/2019  10:28    <DIR>          .
+11/04/2019  16:02    <DIR>          ..
+20/05/2019  09:11               422 acs2.ini
+03/04/2019  11:37    <DIR>          areaclienti
+03/04/2019  11:37    <DIR>          aspnet_client
+03/04/2019  11:37    <DIR>          bin
+11/04/2017  17:07               862 canc_pacchetto.php
+21/05/2019  10:57    <DIR>          checkinday
+03/04/2019  11:38    <DIR>          css
+03/04/2019  11:38    <DIR>          datatables
+24/05/2019  10:28                94 dirlist.txt
+03/04/2019  11:38    <DIR>          dom2res
+03/04/2019  11:38    <DIR>          fop_utils
+20/05/2019  11:49    <DIR>          images
+08/05/2019  09:42             3.105 index.php
+22/02/2017  17:24               107 logout.php
+02/05/2017  13:03             4.885 mail_pacchetto.php
+20/05/2019  09:32            11.466 mail_vars.php
+03/04/2019  11:38    <DIR>          mdbootstrap
+11/12/2018  09:49               579 menu.php
+20/05/2019  09:15             4.048 off_whole_search.php
+03/04/2019  11:38    <DIR>          options
+20/05/2019  14:47    <DIR>          pinutils
+06/11/2018  10:17               205 session.php
+03/04/2019  11:38    <DIR>          speciali
+03/04/2019  11:38    <DIR>          struct
+03/04/2019  11:38    <DIR>          tech
+05/04/2019  15:28             2.683 test.php
+02/04/2017  20:48            13.824 Thumbs.db
+25/03/2017  21:44               590 web.config
+24/09/2013  11:39           184.946 welcome.png
+08/05/2019  09:36            10.771 whole_search.php
+03/04/2019  11:38    <DIR>          work_attendance
+              15 File        238.587 byte
+              18 Directory  46.306.004.992 byte disponibili

@@ -34,7 +34,8 @@ class DB
         $conn = mysqli_connect($servername,$username,$password,$db) or die("Impossibile connettersi a: ".$db." - ".mysqli_connect_error());
         return $conn;
     }
-//genera connessione ad amanda
+
+    //genera connessione ad amanda
     function getProdConn($db) {
         $servername = $this->Amanda;
         $username = $this->AmandaUserName;
@@ -42,7 +43,8 @@ class DB
         $conn = mysqli_connect($servername,$username,$password,$db) or die("Impossibile connettersi a: ".$db." - ".mysqli_connect_error());
         return $conn;
     }
-//distrugge connessione
+
+    //distrugge connessione
     function dropConn($conn) {
         mysqli_close($conn);
     }
@@ -105,7 +107,7 @@ class DB
 
 //sql per la ricerca report presenze, questa è una componente per il report delle presenze interne
     function sqlIngressiReport($pin,$exact_date) {
-        $sql = "select *, group_concat(ingressi separator ' | ') as ingressi_totali from (
+        $sql = "select *, group_concat(ingressi separator ' <HR> ') as ingressi_totali from (
                     select data_ingresso,pin,firstname,lastname,nota,ingressi from accessi_boezio_v where data_ingresso = '{$exact_date}'
                     union all 
                     select data_ingresso,pin,firstname,lastname,nota,ingressi from accessi_regolo_v where data_ingresso = '{$exact_date}'

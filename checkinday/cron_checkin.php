@@ -4,6 +4,11 @@
  * User: msantolo
  * Date: 28/11/2018
  * Time: 10:01
+ *
+ * Cron eseguito ogni 10 minuti per l'attivazione e disattivazione degli accessi temporanei agli uffici.
+ *
+ *
+ *
  */
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/builder.php';
 require_once $_SERVER['DOCUMENT_ROOT'].'/struct/classes/ACSBase.php';
@@ -16,20 +21,27 @@ $conn = $db->getPBXConn('asteriskcdrdb');
 
 //crons per aggiornamento PIN day/sale
 
-$sql = "SELECT * FROM checkinday_off_v WHERE date = curdate()";
+//leggo tutte gli accessi temporanei di oggi
 
+$sql = "SELECT * FROM checkinday_off_v WHERE date = curdate()";
 $checkins = $conn->query($sql);
+
+
+
 $tsnow = strtotime(ACSBase::Now());
 $ignore_create_array = array('completato','attivato');
 
 $plog = new PickLog();
 
-
+//se gli accessi temporanei non sono vuoti
 if ($checkins->num_rows>0) {
     while ($ci = $checkins->fetch_assoc()) {
 
         $sts = strtotime($ci['sts']);
         $ets = strtotime($ci['ets']);
+
+        //se il timestamp di adesso (now) è maggiore dell'inizio e lo stato dell'accesso non è completato o già attivo
+        //l'accesso viene attivato e lo stato modificato in attivato + logs
 
         if ($tsnow >= $sts && !in_array($ci['status'],$ignore_create_array)) {
 
@@ -50,6 +62,7 @@ if ($checkins->num_rows>0) {
 
         } //createPair
 
+        //se il timestamp è oltre la file dell'accesso temporaneo e l'accesso è attivo lo disattiva + logs
         if ($tsnow >= $ets && $ci['status'] == 'attivato') {
 
             $db::managePairing($conn,$ci['phoneb_id'],$ci['door_id'],'delete',$ci['id']);
