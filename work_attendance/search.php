@@ -71,6 +71,8 @@ if (isset($_POST["button"])) {
     $db = new DB();
     $conn = $db->getPBXConn('asteriskcdrdb');
 
+
+    //todo: migliorare la query di riferimento (al momento è una view di una view)
     $daterange = $db->dateRange($from, $to);
     $in_employees = ACSBase::GenerateInString($role);
     $empl_sql = $db->sqlEmployees($in_employees,$firstname,$lastname);
